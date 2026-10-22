@@ -1,0 +1,365 @@
+<title>Startups em Portugal</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600;800&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: uma ficha de registo por empresa, em lista corrida; resumo das candidaturas no topo, filtros colados ao cimo. */
+:root {
+  --bg: #f5f7fa; --surface: #ffffff; --fg: #121a2b; --muted: #5b6577; --line: #dde3ec;
+  --accent: #1f4fd1; --accent-soft: #e6edfd;
+  --s-cand: #1f4fd1; --s-resp: #b26a00; --s-entr: #11845b; --s-nao: #b4303b; --s-ignorar: #8a93a3;
+  --s-cand-bg: #e6edfd; --s-resp-bg: #fdf1dc; --s-entr-bg: #dff4ea; --s-nao-bg: #fbe5e7; --s-ignorar-bg: #eceff3;
+  --f-display: "Schibsted Grotesk", "Helvetica Neue", Arial, sans-serif;
+  --f-body: "Schibsted Grotesk", "Helvetica Neue", Arial, sans-serif;
+  --f-mono: "JetBrains Mono", ui-monospace, Menlo, monospace;
+  --r: 6px;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #0d1220; --surface: #141b2d; --fg: #e7ecf5; --muted: #98a2b6; --line: #253049;
+  --accent: #7ea2ff; --accent-soft: #1c2a4f;
+  --s-cand: #8fb0ff; --s-resp: #f0b65a; --s-entr: #5fd1a2; --s-nao: #f1838c; --s-ignorar: #7f899c;
+  --s-cand-bg: #1c2a4f; --s-resp-bg: #3a2a10; --s-entr-bg: #113626; --s-nao-bg: #3d1a1f; --s-ignorar-bg: #1d2436;
+  color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #0d1220; --surface: #141b2d; --fg: #e7ecf5; --muted: #98a2b6; --line: #253049;
+  --accent: #7ea2ff; --accent-soft: #1c2a4f;
+  --s-cand: #8fb0ff; --s-resp: #f0b65a; --s-entr: #5fd1a2; --s-nao: #f1838c; --s-ignorar: #7f899c;
+  --s-cand-bg: #1c2a4f; --s-resp-bg: #3a2a10; --s-entr-bg: #113626; --s-nao-bg: #3d1a1f; --s-ignorar-bg: #1d2436;
+  color-scheme: dark }
+
+* { box-sizing: border-box }
+body { background: var(--bg); color: var(--fg); font: 15px/1.5 var(--f-body); }
+.wrap { max-width: 1040px; margin: 0 auto; padding-inline: 16px; padding-block: 28px 64px; display: grid; gap: 20px }
+h1 { font: 800 clamp(28px, 5vw, 40px)/1.05 var(--f-display); letter-spacing: -0.02em; margin: 0; text-wrap: balance }
+.sub { color: var(--muted); margin: 6px 0 0; max-width: 65ch }
+.mono { font-family: var(--f-mono); font-size: 12px; font-variant-numeric: tabular-nums }
+
+.resumo { display: flex; flex-wrap: wrap; gap: 8px }
+.resumo button { display: grid; gap: 0; text-align: left; border: 1px solid var(--line); background: var(--surface); color: var(--fg);
+  border-radius: var(--r); padding: 8px 12px; cursor: pointer; min-width: 104px; font: inherit }
+.resumo button b { font: 800 22px/1.1 var(--f-display); font-variant-numeric: tabular-nums }
+.resumo button span { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: .06em }
+.resumo button[aria-pressed="true"] { border-color: var(--accent); box-shadow: inset 0 0 0 1px var(--accent) }
+
+.filtros { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); padding-block: 10px;
+  display: flex; flex-wrap: wrap; gap: 8px; align-items: center; border-bottom: 1px solid var(--line) }
+.filtros input[type=search] { flex: 1 1 240px; min-width: 0 }
+input[type=search], select, textarea { font: inherit; color: var(--fg); background: var(--surface); border: 1px solid var(--line);
+  border-radius: var(--r); padding: 7px 10px }
+select { padding-right: 6px; max-width: 100% }
+.toggle { display: inline-flex; gap: 6px; align-items: center; font-size: 14px; color: var(--muted); cursor: pointer; user-select: none }
+.toggle input { accent-color: var(--accent) }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px }
+
+.contagem { color: var(--muted); font-size: 13px; display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap }
+.aviso { border: 1px solid var(--line); background: var(--surface); border-radius: var(--r); padding: 10px 14px; color: var(--muted); font-size: 14px }
+
+.lista { display: grid; gap: 0; border-top: 1px solid var(--line) }
+.ficha { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 6px 16px; padding: 14px 4px; border-bottom: 1px solid var(--line) }
+.ficha h2 { font: 600 17px/1.25 var(--f-display); margin: 0; display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: baseline }
+.ficha h2 a { color: inherit; text-decoration: none }
+.ficha h2 a:hover { text-decoration: underline }
+.meta { color: var(--muted); font-size: 13.5px; margin: 2px 0 0 }
+.desc { font-size: 14px; margin: 4px 0 0; max-width: 70ch }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px }
+.chip { font-size: 12px; border: 1px solid var(--line); border-radius: 999px; padding: 1px 8px; color: var(--muted); white-space: nowrap }
+.chip.vagas { border-color: var(--accent); color: var(--accent); background: var(--accent-soft); font-weight: 600 }
+.chip.junior { border-color: var(--s-entr); color: var(--s-entr) }
+.chip.oficial { color: var(--fg) }
+.links { display: flex; flex-wrap: wrap; gap: 12px; font-size: 14px; margin-top: 6px }
+.links a { color: var(--accent) }
+.lado { display: grid; gap: 6px; justify-items: end; align-content: start }
+.estado { font-weight: 600; font-size: 13px; border-radius: 999px; padding: 4px 10px }
+.estado[data-e=""] { color: var(--muted) }
+.estado[data-e="candidatei"] { color: var(--s-cand); background: var(--s-cand-bg); border-color: transparent }
+.estado[data-e="respondeu"] { color: var(--s-resp); background: var(--s-resp-bg); border-color: transparent }
+.estado[data-e="entrevista"] { color: var(--s-entr); background: var(--s-entr-bg); border-color: transparent }
+.estado[data-e="nao"] { color: var(--s-nao); background: var(--s-nao-bg); border-color: transparent }
+.estado[data-e="ignorar"] { color: var(--s-ignorar); background: var(--s-ignorar-bg); border-color: transparent }
+.quando { font-size: 12px; color: var(--muted) }
+
+details.vagas-lista { grid-column: 1 / -1; font-size: 14px }
+details.vagas-lista summary { cursor: pointer; color: var(--accent); font-weight: 500 }
+details.vagas-lista ul { margin: 8px 0 0; padding-left: 18px; display: grid; gap: 4px }
+details.vagas-lista li span { color: var(--muted) }
+details.vagas-lista a { color: var(--fg) }
+.nota { grid-column: 1 / -1 }
+.nota textarea { width: 100%; min-height: 54px; resize: vertical; font-size: 14px }
+.nota-botao { background: none; border: 0; padding: 0; color: var(--muted); font: inherit; font-size: 13px; cursor: pointer; text-decoration: underline }
+
+.mais { justify-self: center; font: inherit; font-weight: 600; color: var(--accent); background: var(--surface); border: 1px solid var(--line);
+  border-radius: var(--r); padding: 10px 18px; cursor: pointer }
+.vazio { padding: 32px 4px; color: var(--muted) }
+
+@media (max-width: 640px) {
+  .ficha { grid-template-columns: 1fr }
+  .lado { justify-items: start; grid-auto-flow: column; justify-content: start; align-items: center }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important } }
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>Startups em Portugal</h1>
+    <p class="sub">Startups com estatuto do Startup Portugal, o portefólio da Unicorn Factory Lisboa e empresas de tecnologia, com as vagas abertas, num sítio só. Marca a cada uma o ponto em que estás.</p>
+  </header>
+
+  <div class="resumo" id="resumo" aria-label="Resumo das candidaturas"></div>
+
+  <div class="filtros">
+    <input type="search" id="q" placeholder="Procurar empresa, área ou vaga (ex.: marketing, estágio, React)" aria-label="Procurar">
+    <select id="regiao" aria-label="Região"><option value="">Todas as regiões</option></select>
+    <select id="area" aria-label="Área"><option value="">Todas as áreas</option></select>
+    <select id="ligada" aria-label="Ligadas a">
+      <option value="">Ligadas a qualquer um</option>
+      <option value="Startup Portugal">Ligadas à Startup Portugal</option>
+      <option value="Unicorn Factory">Ligadas à Unicorn Factory</option>
+      <option value="ambas">Ligadas às duas</option>
+    </select>
+    <select id="tipo" aria-label="Tipo de empresa">
+      <option value="sem-consultoras">Sem consultoras</option>
+      <option value="">Todas as empresas</option>
+      <option value="startup">Só startups oficiais</option>
+    </select>
+    <label class="toggle"><input type="checkbox" id="soVagas"> Com vagas lidas</label>
+    <label class="toggle"><input type="checkbox" id="soCarreiras"> Com página de carreiras</label>
+  </div>
+
+  <div class="contagem"><span id="contagem">A carregar a lista…</span><span id="gerado" class="mono"></span></div>
+  <div class="aviso" id="avisoDb" hidden></div>
+
+  <div class="lista" id="lista"></div>
+  <button class="mais" id="mais" hidden>Mostrar mais 50</button>
+</div>
+
+<script>
+const ESTADOS = [
+  ['', 'Por candidatar'], ['candidatei', 'Candidatei'], ['respondeu', 'Responderam'],
+  ['entrevista', 'Entrevista'], ['nao', 'Disseram não'], ['ignorar', 'Não me interessa'],
+];
+const NOME_ESTADO = Object.fromEntries(ESTADOS);
+const JUNIOR = /\b(intern|internship|estágio|estagio|estagiári|trainee|graduate|junior|júnior|entry)/i;
+const PASSO = 50;
+
+let empresas = [];
+let estados = {};          // id da empresa -> { estado, nota, quando }
+let colecao = null;        // data/users/<id> no db, ou null se não há onde guardar
+let mostrar = PASSO;
+let filtroEstado = null;
+
+const $ = (id) => document.getElementById(id);
+const el = (tag, props = {}, ...filhos) => {
+  const e = Object.assign(document.createElement(tag), props);
+  for (const f of filhos.flat()) if (f != null && f !== false) e.append(f);
+  return e;
+};
+const semAcentos = (s) => (s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+const temJunior = (x) => (x.vagas || []).some((v) => JUNIOR.test(v.titulo));
+
+function lembrar() {
+  try {
+    const f = JSON.parse(localStorage.getItem('filtros') || '{}');
+    for (const k of ['q', 'regiao', 'area', 'tipo', 'ligada']) if (f[k] != null) $(k).value = f[k];
+    for (const k of ['soVagas', 'soCarreiras']) if (f[k] != null) $(k).checked = f[k];
+  } catch {}
+}
+function guardarFiltros() {
+  try {
+    localStorage.setItem('filtros', JSON.stringify({
+      q: $('q').value, ligada: $('ligada').value, regiao: $('regiao').value, area: $('area').value, tipo: $('tipo').value,
+      soVagas: $('soVagas').checked, soCarreiras: $('soCarreiras').checked,
+    }));
+  } catch {}
+}
+
+function filtradas() {
+  const q = semAcentos($('q').value.trim());
+  const regiao = $('regiao').value, area = $('area').value, tipo = $('tipo').value;
+  const soVagas = $('soVagas').checked, soCarreiras = $('soCarreiras').checked;
+  const ligada = $('ligada').value;
+  return empresas.filter((x) => {
+    const est = estados[x.id]?.estado || '';
+    if (filtroEstado !== null && est !== filtroEstado) return false;
+    if (filtroEstado === null && est === 'ignorar') return false;
+    const lig = x.ligadas || [];
+    if (ligada === 'ambas' && !(lig.includes('Startup Portugal') && lig.includes('Unicorn Factory'))) return false;
+    if (ligada && ligada !== 'ambas' && !lig.includes(ligada)) return false;
+    if (regiao && !x.regioes.includes(regiao)) return false;
+    if (area && x.area !== area) return false;
+    if (tipo === 'sem-consultoras' && x.tipo === 'consultora') return false;
+    if (tipo === 'startup' && x.tipo !== 'startup') return false;
+    if (soVagas && !x.vagas?.length) return false;
+    if (soCarreiras && !x.carreiras && !x.vagas?.length) return false;
+    if (q && !x._texto.includes(q)) return false;
+    return true;
+  });
+}
+
+function desenharResumo() {
+  const conta = { '': 0 };
+  for (const x of empresas) { const e = estados[x.id]?.estado || ''; conta[e] = (conta[e] || 0) + 1; }
+  const caixa = $('resumo');
+  caixa.replaceChildren(...ESTADOS.map(([k, nome]) => {
+    const b = el('button', { type: 'button' }, el('b', { textContent: String(conta[k] || 0) }), el('span', { textContent: nome }));
+    b.setAttribute('aria-pressed', String(filtroEstado === k));
+    b.onclick = () => { filtroEstado = filtroEstado === k ? null : k; mostrar = PASSO; desenhar(); };
+    return b;
+  }));
+}
+
+function ficha(x) {
+  const reg = estados[x.id] || {};
+  const est = reg.estado || '';
+  const titulo = x.site ? el('a', { href: x.site, target: '_blank', rel: 'noopener', textContent: x.nome }) : x.nome;
+  const chips = el('div', { className: 'chips' });
+  for (const f of x.fontes) chips.append(el('span', { className: 'chip' + (/oficial/.test(f) ? ' oficial' : ''), textContent: f }));
+  if (x.vagas?.length) chips.append(el('span', { className: 'chip vagas', textContent: `${x.vagas.length} ${x.vagas.length === 1 ? 'vaga' : 'vagas'}` }));
+  if (temJunior(x)) chips.append(el('span', { className: 'chip junior', textContent: 'júnior / estágio' }));
+  if (x.tamanho) chips.append(el('span', { className: 'chip', textContent: x.tamanho + ' pessoas' }));
+  if (x.financiamento) chips.append(el('span', { className: 'chip', textContent: x.financiamento }));
+  if (x.anos != null) chips.append(el('span', { className: 'chip', textContent: `${x.anos} ${x.anos === 1 ? 'ano' : 'anos'}` }));
+  if (x.siteMorto) chips.append(el('span', { className: 'chip', textContent: 'site não abre' }));
+
+  const links = el('div', { className: 'links' });
+  if (x.carreiras) links.append(el('a', { href: x.carreiras, target: '_blank', rel: 'noopener', textContent: 'Página de carreiras' }));
+  links.append(el('a', { href: x.linkedin || 'https://www.linkedin.com/search/results/companies/?keywords=' + encodeURIComponent(x.nome), target: '_blank', rel: 'noopener', textContent: x.linkedin ? 'LinkedIn' : 'Procurar no LinkedIn' }));
+  if (x.paginaUnicorn) links.append(el('a', { href: x.paginaUnicorn, target: '_blank', rel: 'noopener', textContent: 'Ficha na Unicorn Factory' }));
+
+  const meta = [x.area, x.localidade].filter(Boolean).join(' · ');
+  const corpo = el('div', { style: 'min-width:0' },
+    el('h2', {}, titulo, x.nomeLegal ? el('span', { className: 'mono', style: 'color:var(--muted);font-weight:400', textContent: 'NIPC ' + x.id.slice(1) }) : null),
+    meta ? el('p', { className: 'meta', textContent: meta }) : null,
+    x.descricao ? el('p', { className: 'desc', textContent: x.descricao }) : (x.actividade && x.actividade !== x.area ? el('p', { className: 'desc', style: 'color:var(--muted)', textContent: x.actividade }) : null),
+    chips, links,
+  );
+
+  const sel = el('select', { className: 'estado', id: 'e-' + x.id, disabled: !colecao });
+  sel.setAttribute('aria-label', 'Estado da candidatura a ' + x.nome);
+  for (const [k, nome] of ESTADOS) sel.append(el('option', { value: k, textContent: nome, selected: k === est }));
+  sel.dataset.e = est;
+  sel.onchange = () => gravar(x.id, { estado: sel.value });
+  const lado = el('div', { className: 'lado' }, sel,
+    reg.quando ? el('span', { className: 'quando', textContent: new Date(reg.quando).toLocaleDateString('pt-PT', { day: 'numeric', month: 'short' }) }) : null);
+
+  const art = el('article', { className: 'ficha' }, corpo, lado);
+
+  if (x.vagas?.length) {
+    const ul = el('ul', {}, x.vagas.map((v) => el('li', {},
+      el('a', { href: v.url, target: '_blank', rel: 'noopener', textContent: v.titulo }), v.local ? el('span', { textContent: ' · ' + v.local }) : null)));
+    art.append(el('details', { className: 'vagas-lista' }, el('summary', { textContent: `Ver vagas${x.plataforma ? ' (' + x.plataforma + ')' : ''}` }), ul));
+  }
+
+  if (colecao) {
+    const caixa = el('div', { className: 'nota' });
+    const abrir = (focar) => {
+      const ta = el('textarea', { id: 'n-' + x.id, value: reg.nota || '', placeholder: 'A quem escreveste, o que te disseram, próximo passo…' });
+      ta.setAttribute('aria-label', 'Nota sobre ' + x.nome);
+      let t;
+      ta.oninput = () => { clearTimeout(t); t = setTimeout(() => gravar(x.id, { nota: ta.value }, true), 800); };
+      caixa.replaceChildren(ta); if (focar) ta.focus();
+    };
+    if (reg.nota) abrir(false); else caixa.append(el('button', { type: 'button', className: 'nota-botao', textContent: 'Adicionar nota', onclick: () => abrir(true) }));
+    art.append(caixa);
+  }
+  return art;
+}
+
+function desenhar() {
+  desenharResumo();
+  const fs = filtradas();
+  $('contagem').textContent = `${fs.length} de ${empresas.length} empresas · ${fs.filter((x) => x.vagas?.length).length} com vagas lidas`;
+  const lista = $('lista');
+  if (!fs.length) {
+    lista.replaceChildren(el('p', { className: 'vazio', textContent: filtroEstado !== null
+      ? `Nenhuma empresa em «${NOME_ESTADO[filtroEstado]}» com estes filtros.`
+      : 'Nenhuma empresa com estes filtros. Tira um filtro ou muda a pesquisa.' }));
+  } else {
+    lista.replaceChildren(...fs.slice(0, mostrar).map(ficha));
+  }
+  $('mais').hidden = fs.length <= mostrar;
+  $('mais').textContent = `Mostrar mais ${Math.min(PASSO, fs.length - mostrar)}`;
+}
+
+// Escrita por empresa, uma de cada vez: o db pede que não se sobreponham escritas ao mesmo documento.
+const fila = {};
+async function gravar(id, mudanca, silencioso) {
+  if (!colecao) return;
+  const antes = estados[id] || {};
+  const novo = { ...antes, ...mudanca };
+  if (mudanca.estado !== undefined && mudanca.estado !== antes.estado) novo.quando = new Date().toISOString();
+  estados[id] = novo;
+  if (!silencioso) desenhar();
+  const corrida = (fila[id] || Promise.resolve()).then(async () => {
+    const vazio = !novo.estado && !novo.nota;
+    if (vazio) await colecao.doc(id).delete(); else await colecao.doc(id).set(novo);
+  }).catch((e) => {
+    console.error('[startups] não foi possível guardar', id, e);
+    $('avisoDb').hidden = false;
+    $('avisoDb').textContent = e?.code === 'quota_exceeded'
+      ? 'Não há espaço para guardar mais estados. Apaga notas antigas ou marca menos empresas.'
+      : 'A última alteração não ficou guardada. Recarrega a página e tenta outra vez.';
+  });
+  fila[id] = corrida;
+}
+
+async function ligarDb() {
+  const aviso = $('avisoDb');
+  const c = window.claude;
+  if (!c?.use) {
+    aviso.hidden = false;
+    aviso.textContent = 'Abre esta página no claude.ai com sessão iniciada para guardar o estado das candidaturas.';
+    return;
+  }
+  const [db, user] = await Promise.all([c.use('db'), c.use('user')]);
+  const uid = user ? await user.id() : null;
+  if (!db || !uid) {
+    aviso.hidden = false;
+    aviso.textContent = 'Inicia sessão no claude.ai para guardar o estado das candidaturas. A lista funciona na mesma.';
+    return;
+  }
+  colecao = db.collection('data/users/' + uid);
+  colecao.onSnapshot((snap) => {
+    const novo = {};
+    for (const d of snap.docs) novo[d.id] = d.data();
+    // Uma nota a ser escrita não é apagada por uma entrega atrasada do servidor.
+    const ativa = document.activeElement?.id?.startsWith('n-') ? document.activeElement.id.slice(2) : null;
+    if (ativa && estados[ativa]) novo[ativa] = { ...(novo[ativa] || {}), nota: estados[ativa].nota };
+    estados = novo;
+    if (!ativa) desenhar(); else desenharResumo();
+  }, (e) => {
+    console.error('[startups] ligação ao estado perdida', e);
+    aviso.hidden = false;
+    aviso.textContent = 'Perdeu-se a ligação ao estado das candidaturas. Recarrega a página.';
+  });
+  desenhar();
+}
+
+async function arrancar() {
+  lembrar();
+  for (const id of ['q', 'ligada', 'regiao', 'area', 'tipo', 'soVagas', 'soCarreiras']) {
+    $(id).addEventListener(id === 'q' ? 'input' : 'change', () => { mostrar = PASSO; guardarFiltros(); desenhar(); });
+  }
+  $('mais').onclick = () => { mostrar += PASSO; desenhar(); };
+  try {
+    const res = await fetch('startups.json');
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const dados = await res.json();
+    empresas = dados.empresas.map((x) => ({
+      ...x, _texto: semAcentos([x.nome, x.nomeLegal, x.area, x.actividade, x.descricao, x.localidade, ...(x.ligadas || []), ...x.fontes, ...(x.vagas || []).map((v) => v.titulo)].join(' ')),
+    }));
+    $('gerado').textContent = 'Dados de ' + new Date(dados.geradoEm).toLocaleDateString('pt-PT', { day: 'numeric', month: 'long', year: 'numeric' });
+    const contar = (f) => { const m = new Map(); for (const x of empresas) for (const v of f(x)) if (v) m.set(v, (m.get(v) || 0) + 1); return [...m].sort((a, b) => b[1] - a[1]); };
+    const guardadas = { regiao: $('regiao').value, area: $('area').value };
+    for (const [v, n] of contar((x) => x.regioes)) $('regiao').append(el('option', { value: v, textContent: `${v} (${n})` }));
+    for (const [v, n] of contar((x) => [x.area])) $('area').append(el('option', { value: v, textContent: `${v} (${n})` }));
+    $('regiao').value = guardadas.regiao; $('area').value = guardadas.area;
+  } catch (e) {
+    console.error('[startups] não carregou a lista', e);
+    $('contagem').textContent = 'A lista de empresas não carregou. Recarrega a página.';
+    return;
+  }
+  desenhar();
+  ligarDb();
+}
+arrancar();
+</script>
