@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-25T17:48:58.803Z",
+ "geradoEm": "2026-10-25T18:52:52.736Z",
  "empresas": [
   {
    "nome": "Bolt",
@@ -24261,16 +24261,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8275757",
-     "titulo": "Quality Insights Lead",
-     "url": "https://careers.airbnb.com/positions/8275757?gh_jid=8275757",
-     "local": "Gurugram, India",
-     "pais": "India",
-     "remoto": false,
-     "publicada": "2026-10-16T07:30:00-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "7789528",
      "titulo": "Regulatory Operations Lead",
      "url": "https://careers.airbnb.com/positions/7789528?gh_jid=7789528",
@@ -24351,6 +24341,16 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
+     "id": "8318103",
+     "titulo": "Senior Compliance Lead, EMEA",
+     "url": "https://careers.airbnb.com/positions/8318103?gh_jid=8318103",
+     "local": "London, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-10-23T10:32:28-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
      "id": "8318152",
      "titulo": "Senior Compliance Lead, EMEA",
      "url": "https://careers.airbnb.com/positions/8318152?gh_jid=8318152",
@@ -24368,16 +24368,6 @@
      "pais": "Brussels",
      "remoto": false,
      "publicada": "2026-10-23T10:32:32-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
-     "id": "8318103",
-     "titulo": "Senior Compliance Lead, EMEA",
-     "url": "https://careers.airbnb.com/positions/8318103?gh_jid=8318103",
-     "local": "London, United Kingdom",
-     "pais": "United Kingdom",
-     "remoto": false,
-     "publicada": "2026-10-23T10:32:28-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -24541,16 +24531,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8130355",
-     "titulo": "Senior Machine Learning Engineer, Trust",
-     "url": "https://careers.airbnb.com/positions/8130355?gh_jid=8130355",
-     "local": "San Francisco, CA",
-     "pais": "CA",
-     "remoto": false,
-     "publicada": "2026-08-14T17:27:57-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "8232153",
      "titulo": "Senior Machine Learning Engineer, Trust",
      "url": "https://careers.airbnb.com/positions/8232153?gh_jid=8232153",
@@ -24558,6 +24538,16 @@
      "pais": "CA",
      "remoto": false,
      "publicada": "2026-09-24T19:24:17-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "8130355",
+     "titulo": "Senior Machine Learning Engineer, Trust",
+     "url": "https://careers.airbnb.com/positions/8130355?gh_jid=8130355",
+     "local": "San Francisco, CA",
+     "pais": "CA",
+     "remoto": false,
+     "publicada": "2026-08-14T17:27:57-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -24671,16 +24661,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8167204",
-     "titulo": "Senior Market Manager, Vietnamese Speaking (Bangkok Based) ",
-     "url": "https://careers.airbnb.com/positions/8167204?gh_jid=8167204",
-     "local": "Vietnam",
-     "pais": "Vietnam",
-     "remoto": false,
-     "publicada": "2026-08-31T10:49:12-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "8141266",
      "titulo": "Senior Market Manager, Vietnamese Speaking (Bangkok Based) ",
      "url": "https://careers.airbnb.com/positions/8141266?gh_jid=8141266",
@@ -24691,13 +24671,13 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8279065",
-     "titulo": "Senior Operations Manager, Luxe",
-     "url": "https://careers.airbnb.com/positions/8279065?gh_jid=8279065",
-     "local": "United States ",
-     "pais": "United States",
+     "id": "8167204",
+     "titulo": "Senior Market Manager, Vietnamese Speaking (Bangkok Based) ",
+     "url": "https://careers.airbnb.com/positions/8167204?gh_jid=8167204",
+     "local": "Vietnam",
+     "pais": "Vietnam",
      "remoto": false,
-     "publicada": "2026-10-19T11:27:09-04:00",
+     "publicada": "2026-08-31T10:49:12-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -24708,6 +24688,16 @@
      "pais": "Canada",
      "remoto": false,
      "publicada": "2026-10-19T11:27:11-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "8279065",
+     "titulo": "Senior Operations Manager, Luxe",
+     "url": "https://careers.airbnb.com/positions/8279065?gh_jid=8279065",
+     "local": "United States ",
+     "pais": "United States",
+     "remoto": false,
+     "publicada": "2026-10-19T11:27:09-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -25031,16 +25021,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "7230257",
-     "titulo": "Spécialiste au Support Premium",
-     "url": "https://careers.airbnb.com/positions/7230257?gh_jid=7230257",
-     "local": "Canada",
-     "pais": "Canada",
-     "remoto": false,
-     "publicada": "2025-09-04T17:31:04-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "8080767",
      "titulo": "Spécialiste au Support Premium",
      "url": "https://careers.airbnb.com/positions/8080767?gh_jid=8080767",
@@ -25048,6 +25028,16 @@
      "pais": "Canada",
      "remoto": false,
      "publicada": "2026-07-28T11:33:36-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "7230257",
+     "titulo": "Spécialiste au Support Premium",
+     "url": "https://careers.airbnb.com/positions/7230257?gh_jid=7230257",
+     "local": "Canada",
+     "pais": "Canada",
+     "remoto": false,
+     "publicada": "2025-09-04T17:31:04-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -25191,16 +25181,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8120611",
-     "titulo": "Staff Platform Product Manager, Payments Regional Growth",
-     "url": "https://careers.airbnb.com/positions/8120611?gh_jid=8120611",
-     "local": "Brazil",
-     "pais": "Brazil",
-     "remoto": false,
-     "publicada": "2026-08-11T12:34:28-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "8120721",
      "titulo": "Staff Platform Product Manager, Payments Regional Growth",
      "url": "https://careers.airbnb.com/positions/8120721?gh_jid=8120721",
@@ -25208,6 +25188,16 @@
      "pais": "Mexico",
      "remoto": false,
      "publicada": "2026-08-11T12:34:29-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "8120611",
+     "titulo": "Staff Platform Product Manager, Payments Regional Growth",
+     "url": "https://careers.airbnb.com/positions/8120611?gh_jid=8120611",
+     "local": "Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-08-11T12:34:28-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -25361,16 +25351,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "7964996",
-     "titulo": "Support Specialist, Safety",
-     "url": "https://careers.airbnb.com/positions/7964996?gh_jid=7964996",
-     "local": "Korea",
-     "pais": "Korea",
-     "remoto": false,
-     "publicada": "2026-05-28T22:35:29-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "7417293",
      "titulo": "Support Specialist, Safety",
      "url": "https://careers.airbnb.com/positions/7417293?gh_jid=7417293",
@@ -25378,6 +25358,16 @@
      "pais": "Canada",
      "remoto": false,
      "publicada": "2025-11-25T13:46:49-05:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "7964996",
+     "titulo": "Support Specialist, Safety",
+     "url": "https://careers.airbnb.com/positions/7964996?gh_jid=7964996",
+     "local": "Korea",
+     "pais": "Korea",
+     "remoto": false,
+     "publicada": "2026-05-28T22:35:29-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -42341,6 +42331,4163 @@
      "remoto": false,
      "publicada": "2026-10-13T05:01:25.328+00:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
+    }
+   ]
+  },
+  {
+   "nome": "Mollie",
+   "sector": "Fintech",
+   "vagas": [
+    {
+     "id": "d056f390-1d70-408e-8f85-2360d41eaa84",
+     "titulo": "Business Support Specialist - Dutch",
+     "url": "https://jobs.ashbyhq.com/mollie/d056f390-1d70-408e-8f85-2360d41eaa84",
+     "equipa": "Go To Market",
+     "local": "Maastricht",
+     "pais": "Maastricht",
+     "remoto": false,
+     "publicada": "2026-06-24T07:40:12.278+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "304404f1-c1c6-4e91-bfc6-16affeeeeeda",
+     "titulo": "Senior Product Marketing Manager - Online Payments",
+     "url": "https://jobs.ashbyhq.com/mollie/304404f1-c1c6-4e91-bfc6-16affeeeeeda",
+     "equipa": "Marketing",
+     "local": "London",
+     "pais": "London",
+     "remoto": true,
+     "publicada": "2026-10-21T08:17:48.381+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "3bcb16aa-833c-4aeb-a277-ab7603a176f9",
+     "titulo": "Application Engineer II",
+     "url": "https://jobs.ashbyhq.com/mollie/3bcb16aa-833c-4aeb-a277-ab7603a176f9",
+     "equipa": "Engineering",
+     "local": "Lisbon",
+     "pais": "Portugal",
+     "remoto": false,
+     "publicada": "2025-08-04T15:52:27.363+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "393c71ae-d355-44ac-964a-16840d84dc7d",
+     "titulo": "Customer Success Manager - Benelux",
+     "url": "https://jobs.ashbyhq.com/mollie/393c71ae-d355-44ac-964a-16840d84dc7d",
+     "equipa": "Go To Market",
+     "local": "Amsterdam",
+     "pais": "Amsterdam",
+     "remoto": false,
+     "publicada": "2026-09-21T12:33:45.785+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "469128ef-c306-413f-b2f8-145bffe5322c",
+     "titulo": "Engineering Manager ",
+     "url": "https://jobs.ashbyhq.com/mollie/469128ef-c306-413f-b2f8-145bffe5322c",
+     "equipa": "Engineering",
+     "local": "Milan",
+     "pais": "Milan",
+     "remoto": true,
+     "publicada": "2026-05-22T12:29:32.540+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "f57c4c54-6ed4-4e94-97de-16ae5a9c656f",
+     "titulo": "Implementation Manager I - UK & Nordics",
+     "url": "https://jobs.ashbyhq.com/mollie/f57c4c54-6ed4-4e94-97de-16ae5a9c656f",
+     "equipa": "Go To Market",
+     "local": "London",
+     "pais": "London",
+     "remoto": false,
+     "publicada": "2026-09-21T10:01:46.355+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "e4662a47-6ac2-47e0-9544-52036101a3ee",
+     "titulo": "Business Support Specialist - German speaking",
+     "url": "https://jobs.ashbyhq.com/mollie/e4662a47-6ac2-47e0-9544-52036101a3ee",
+     "equipa": "Go To Market",
+     "local": "Lisbon",
+     "pais": "Portugal",
+     "remoto": true,
+     "publicada": "2026-08-14T10:58:28.523+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "fdb7ea63-1d6c-4896-8937-871bb5014fec",
+     "titulo": "Senior Engineering Manager",
+     "url": "https://jobs.ashbyhq.com/mollie/fdb7ea63-1d6c-4896-8937-871bb5014fec",
+     "equipa": "Engineering",
+     "local": "Milan",
+     "pais": "Milan",
+     "remoto": false,
+     "publicada": "2026-10-02T13:51:41.185+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "2417aed9-cd4c-4366-aae8-42ca887326b8",
+     "titulo": "Engineering Manager",
+     "url": "https://jobs.ashbyhq.com/mollie/2417aed9-cd4c-4366-aae8-42ca887326b8",
+     "equipa": "Engineering",
+     "local": "Amsterdam",
+     "pais": "Amsterdam",
+     "remoto": false,
+     "publicada": "2026-07-29T07:54:27.914+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "d7571184-c29c-44f1-a84b-e788c43e08e4",
+     "titulo": "SaaS Account Executive - France",
+     "url": "https://jobs.ashbyhq.com/mollie/d7571184-c29c-44f1-a84b-e788c43e08e4",
+     "equipa": "Go To Market",
+     "local": "Paris / Lisbon",
+     "pais": "Portugal",
+     "remoto": false,
+     "publicada": "2026-07-23T11:01:37.074+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "2fa761ee-3fe0-423c-aaa2-4e9e31871ef6",
+     "titulo": "Full Stack Engineer II",
+     "url": "https://jobs.ashbyhq.com/mollie/2fa761ee-3fe0-423c-aaa2-4e9e31871ef6",
+     "equipa": "Engineering",
+     "local": "Milan",
+     "pais": "Milan",
+     "remoto": true,
+     "publicada": "2026-08-03T14:26:52.090+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "cb2cf093-c95d-45d7-95f5-180bc49fc1bf",
+     "titulo": "Application Engineer II",
+     "url": "https://jobs.ashbyhq.com/mollie/cb2cf093-c95d-45d7-95f5-180bc49fc1bf",
+     "equipa": "Engineering",
+     "local": "Amsterdam",
+     "pais": "Amsterdam",
+     "remoto": false,
+     "publicada": "2026-06-08T08:51:13.922+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8b6673cc-ec0c-4af5-97a4-dc546d4ca81e",
+     "titulo": "Lead Solution Engineer",
+     "url": "https://jobs.ashbyhq.com/mollie/8b6673cc-ec0c-4af5-97a4-dc546d4ca81e",
+     "equipa": "Product and Delivery",
+     "local": "Amsterdam",
+     "pais": "Amsterdam",
+     "remoto": true,
+     "publicada": "2026-07-01T09:46:29.840+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "40dafaa1-71e5-4b53-a915-ba750751c8b4",
+     "titulo": "Engineering Manager - AppCore",
+     "url": "https://jobs.ashbyhq.com/mollie/40dafaa1-71e5-4b53-a915-ba750751c8b4",
+     "equipa": "Engineering",
+     "local": "Lisbon",
+     "pais": "Portugal",
+     "remoto": false,
+     "publicada": "2026-06-19T14:23:26.801+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "32a7c7bb-00c6-4a15-b114-65ad1025fbc7",
+     "titulo": "Senior Application Engineer",
+     "url": "https://jobs.ashbyhq.com/mollie/32a7c7bb-00c6-4a15-b114-65ad1025fbc7",
+     "equipa": "Engineering",
+     "local": "Lisbon",
+     "pais": "Portugal",
+     "remoto": false,
+     "publicada": "2026-06-15T11:23:52.409+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "ff439d94-cfb5-4523-8e99-a19edcb56ed6",
+     "titulo": "Machine Learning Platform Engineer I ",
+     "url": "https://jobs.ashbyhq.com/mollie/ff439d94-cfb5-4523-8e99-a19edcb56ed6",
+     "equipa": "Engineering",
+     "local": "Lisbon / Amsterdam",
+     "pais": "Portugal",
+     "remoto": true,
+     "publicada": "2026-06-30T11:46:43.511+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "c8e6f489-f1b5-4127-8d1f-28668e94fa99",
+     "titulo": "UI Engineer II",
+     "url": "https://jobs.ashbyhq.com/mollie/c8e6f489-f1b5-4127-8d1f-28668e94fa99",
+     "equipa": "Engineering",
+     "local": "Lisbon",
+     "pais": "Portugal",
+     "remoto": true,
+     "publicada": "2026-07-07T14:26:14.346+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "c0981874-e98c-41cc-82be-8c6f13a478ba",
+     "titulo": "Platform Engineer II  - Build",
+     "url": "https://jobs.ashbyhq.com/mollie/c0981874-e98c-41cc-82be-8c6f13a478ba",
+     "equipa": "Engineering",
+     "local": "Milan",
+     "pais": "Milan",
+     "remoto": false,
+     "publicada": "2026-10-09T12:54:58.533+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "b78fbdd8-0891-4121-8c5e-c536cb12b367",
+     "titulo": "Treasury Manager (ALM)",
+     "url": "https://jobs.ashbyhq.com/mollie/b78fbdd8-0891-4121-8c5e-c536cb12b367",
+     "equipa": "Finance ",
+     "local": "Amsterdam",
+     "pais": "Amsterdam",
+     "remoto": false,
+     "publicada": "2026-07-29T11:18:16.999+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "a673dc2c-f11f-4ebd-9e84-347161dbf890",
+     "titulo": "Senior Internal Communications Specialist",
+     "url": "https://jobs.ashbyhq.com/mollie/a673dc2c-f11f-4ebd-9e84-347161dbf890",
+     "equipa": "People",
+     "local": "Amsterdam",
+     "pais": "Amsterdam",
+     "remoto": false,
+     "publicada": "2026-09-28T11:21:02.839+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8d75fc61-5912-4bb0-b6e5-16596896e466",
+     "titulo": "Business Support Specialist - Swedish speaking ",
+     "url": "https://jobs.ashbyhq.com/mollie/8d75fc61-5912-4bb0-b6e5-16596896e466",
+     "equipa": "Go To Market",
+     "local": "Lisbon",
+     "pais": "Portugal",
+     "remoto": true,
+     "publicada": "2026-08-17T15:05:35.310+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "9f9528c2-9708-4e53-ae9c-43edeb0007e9",
+     "titulo": "SaaS Account Executive - Benelux",
+     "url": "https://jobs.ashbyhq.com/mollie/9f9528c2-9708-4e53-ae9c-43edeb0007e9",
+     "equipa": "Go To Market",
+     "local": "Amsterdam",
+     "pais": "Amsterdam",
+     "remoto": false,
+     "publicada": "2026-08-21T12:41:27.432+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "ecb45896-a587-4f62-9edc-16ec72bfe9f5",
+     "titulo": "Business Development Representative - Romania",
+     "url": "https://jobs.ashbyhq.com/mollie/ecb45896-a587-4f62-9edc-16ec72bfe9f5",
+     "equipa": "Go To Market",
+     "local": "Bucharest",
+     "pais": "Bucharest",
+     "remoto": true,
+     "publicada": "2026-08-24T14:36:12.099+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "028b3e61-1c9c-400d-bf8a-6ef1cfe20306",
+     "titulo": "SaaS Account Executive - France",
+     "url": "https://jobs.ashbyhq.com/mollie/028b3e61-1c9c-400d-bf8a-6ef1cfe20306",
+     "equipa": "Go To Market",
+     "local": "Lisbon",
+     "pais": "Portugal",
+     "remoto": false,
+     "publicada": "2026-08-26T10:53:22.795+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "71964e4e-4a86-465d-a800-13baaca08b3c",
+     "titulo": "Business Development Manager - Denmark ",
+     "url": "https://jobs.ashbyhq.com/mollie/71964e4e-4a86-465d-a800-13baaca08b3c",
+     "equipa": "Go To Market",
+     "local": "Denmark | Remote",
+     "pais": "Denmark | Remote",
+     "remoto": true,
+     "publicada": "2026-08-27T13:04:26.474+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "1e73c5ec-31d5-4350-a1a7-ee6f6e769f7e",
+     "titulo": "Implementation Manager I - Italy",
+     "url": "https://jobs.ashbyhq.com/mollie/1e73c5ec-31d5-4350-a1a7-ee6f6e769f7e",
+     "equipa": "Go To Market",
+     "local": "Milan",
+     "pais": "Milan",
+     "remoto": false,
+     "publicada": "2026-09-03T11:31:05.227+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "49a04ef0-16c4-42b3-a0bd-6b80ca6d5c02",
+     "titulo": "Machine Learning Platform Engineer I ",
+     "url": "https://jobs.ashbyhq.com/mollie/49a04ef0-16c4-42b3-a0bd-6b80ca6d5c02",
+     "equipa": "Engineering",
+     "local": "Amsterdam",
+     "pais": "Amsterdam",
+     "remoto": true,
+     "publicada": "2026-10-14T08:14:38.831+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "a47018ac-0a29-4ba0-88cf-9616fdb03b71",
+     "titulo": "Analytics Engineer",
+     "url": "https://jobs.ashbyhq.com/mollie/a47018ac-0a29-4ba0-88cf-9616fdb03b71",
+     "equipa": "Engineering",
+     "local": "Milan",
+     "pais": "Milan",
+     "remoto": true,
+     "publicada": "2026-10-23T10:59:06.489+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "f383de79-f6d7-4167-8fcf-7bf68913fc80",
+     "titulo": "Partner Manager Digital Agencies - Iberia",
+     "url": "https://jobs.ashbyhq.com/mollie/f383de79-f6d7-4167-8fcf-7bf68913fc80",
+     "equipa": "Go To Market",
+     "local": "Madrid/Barcelona",
+     "pais": "Madrid/Barcelona",
+     "remoto": true,
+     "publicada": "2026-10-14T12:37:04.054+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "a546493d-1270-44ff-85d4-db142cf0e928",
+     "titulo": "Implementation Manager DACH",
+     "url": "https://jobs.ashbyhq.com/mollie/a546493d-1270-44ff-85d4-db142cf0e928",
+     "equipa": "Go To Market",
+     "local": "Munich",
+     "pais": "Munich",
+     "remoto": false,
+     "publicada": "2026-09-24T09:30:01.064+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7876212e-ed82-4da0-b265-691a094b9736",
+     "titulo": "Implementation Manager I - Poland & CEE",
+     "url": "https://jobs.ashbyhq.com/mollie/7876212e-ed82-4da0-b265-691a094b9736",
+     "equipa": "Go To Market",
+     "local": "Warsaw",
+     "pais": "Warsaw",
+     "remoto": true,
+     "publicada": "2026-09-25T11:15:46.528+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "be77df1f-e692-43b0-bbad-9e261ccc17ab",
+     "titulo": "Presales Engineer - Poland & CEE",
+     "url": "https://jobs.ashbyhq.com/mollie/be77df1f-e692-43b0-bbad-9e261ccc17ab",
+     "equipa": "Go To Market",
+     "local": "Warsaw",
+     "pais": "Warsaw",
+     "remoto": false,
+     "publicada": "2026-09-25T14:06:13.317+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "313f21b9-8f1b-48b2-9acc-e8b2e090de06",
+     "titulo": "Treasury Manager (ALM)",
+     "url": "https://jobs.ashbyhq.com/mollie/313f21b9-8f1b-48b2-9acc-e8b2e090de06",
+     "equipa": "Finance ",
+     "local": "London",
+     "pais": "London",
+     "remoto": false,
+     "publicada": "2026-09-28T14:59:01.919+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "0c6b74d3-b1a2-4679-bd20-07144d0a701d",
+     "titulo": "Senior Internal Auditor",
+     "url": "https://jobs.ashbyhq.com/mollie/0c6b74d3-b1a2-4679-bd20-07144d0a701d",
+     "equipa": "Internal Audit",
+     "local": "Amsterdam",
+     "pais": "Amsterdam",
+     "remoto": false,
+     "publicada": "2026-09-28T12:01:13.077+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "faafd7b4-809f-4b04-bbf7-7d6e79cd14da",
+     "titulo": "Senior Financial Accountant ",
+     "url": "https://jobs.ashbyhq.com/mollie/faafd7b4-809f-4b04-bbf7-7d6e79cd14da",
+     "equipa": "Finance ",
+     "local": "Amsterdam",
+     "pais": "Amsterdam",
+     "remoto": false,
+     "publicada": "2026-09-28T11:06:09.898+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "adf05004-22c1-4449-adcb-8f7be3f19a79",
+     "titulo": "Senior Security Risk Officer",
+     "url": "https://jobs.ashbyhq.com/mollie/adf05004-22c1-4449-adcb-8f7be3f19a79",
+     "equipa": "Risk Management and Control",
+     "local": "Amsterdam / London",
+     "pais": "Amsterdam",
+     "remoto": false,
+     "publicada": "2026-10-23T12:44:53.306+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "1621fe45-3c8e-4fa6-a5c9-c33b83fbacf4",
+     "titulo": "FP&A Analyst - People",
+     "url": "https://jobs.ashbyhq.com/mollie/1621fe45-3c8e-4fa6-a5c9-c33b83fbacf4",
+     "equipa": "Planning and Analysis",
+     "local": "Amsterdam",
+     "pais": "Amsterdam",
+     "remoto": false,
+     "publicada": "2026-10-09T11:58:07.017+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "f6aacfdb-946a-4149-839a-fb398f05e319",
+     "titulo": "Business Development Manager - Sweden ",
+     "url": "https://jobs.ashbyhq.com/mollie/f6aacfdb-946a-4149-839a-fb398f05e319",
+     "equipa": "Go To Market",
+     "local": "Stockholm",
+     "pais": "Stockholm",
+     "remoto": false,
+     "publicada": "2026-10-08T14:57:37.183+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7d03334b-1544-4a6b-a776-078d92a3e214",
+     "titulo": "Working Student - Workplace Experience",
+     "url": "https://jobs.ashbyhq.com/mollie/7d03334b-1544-4a6b-a776-078d92a3e214",
+     "equipa": "People",
+     "local": "Lisbon",
+     "pais": "Portugal",
+     "remoto": false,
+     "publicada": "2026-10-07T09:21:56.812+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "e9aa62bf-2c18-44c4-beb0-6a8e6ea257db",
+     "titulo": "Security Operations Engineer II",
+     "url": "https://jobs.ashbyhq.com/mollie/e9aa62bf-2c18-44c4-beb0-6a8e6ea257db",
+     "equipa": "Engineering",
+     "local": "Amsterdam",
+     "pais": "Amsterdam",
+     "remoto": false,
+     "publicada": "2026-10-15T14:44:17.066+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "2e25199b-bd05-4594-aade-ee6a2112c648",
+     "titulo": "Business Development Manager",
+     "url": "https://jobs.ashbyhq.com/mollie/2e25199b-bd05-4594-aade-ee6a2112c648",
+     "equipa": "Go To Market",
+     "local": "Milan",
+     "pais": "Milan",
+     "remoto": false,
+     "publicada": "2026-10-05T10:40:58.672+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "6cef8fe9-f0e5-4ecd-ac50-200dd26dbb5f",
+     "titulo": " Junior Account Executive - UK market",
+     "url": "https://jobs.ashbyhq.com/mollie/6cef8fe9-f0e5-4ecd-ac50-200dd26dbb5f",
+     "equipa": "Go To Market",
+     "local": "London",
+     "pais": "London",
+     "remoto": true,
+     "publicada": "2026-10-05T14:34:39.825+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8f87ce1a-80de-4e72-8b3b-325128f82f2a",
+     "titulo": "Business Support Specialist - Weekend Shift",
+     "url": "https://jobs.ashbyhq.com/mollie/8f87ce1a-80de-4e72-8b3b-325128f82f2a",
+     "equipa": "Go To Market",
+     "local": "Lisbon",
+     "pais": "Portugal",
+     "remoto": false,
+     "publicada": "2026-10-12T11:08:36.418+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "4f0228f0-15c4-4b11-9d8a-984d0c306f29",
+     "titulo": "Partner Manager Digital Agencies - Iberia",
+     "url": "https://jobs.ashbyhq.com/mollie/4f0228f0-15c4-4b11-9d8a-984d0c306f29",
+     "equipa": "Go To Market",
+     "local": "Lisbon",
+     "pais": "Portugal",
+     "remoto": false,
+     "publicada": "2026-10-14T12:37:00.551+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "28d6b7ce-0580-4756-89a9-2ae60970bc60",
+     "titulo": "Platform Engineer II - Infrastructure Governance",
+     "url": "https://jobs.ashbyhq.com/mollie/28d6b7ce-0580-4756-89a9-2ae60970bc60",
+     "equipa": "Engineering",
+     "local": "Milan",
+     "pais": "Milan",
+     "remoto": false,
+     "publicada": "2026-10-20T14:01:51.693+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "65ce6d8d-1ea4-47b7-a148-ae8b0812ee72",
+     "titulo": "Solution Engineer I",
+     "url": "https://jobs.ashbyhq.com/mollie/65ce6d8d-1ea4-47b7-a148-ae8b0812ee72",
+     "equipa": "Product and Delivery",
+     "local": "Amsterdam",
+     "pais": "Amsterdam",
+     "remoto": true,
+     "publicada": "2026-10-19T16:26:31.649+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "9c99ed58-ef98-4d3c-8f28-1e53785cc6c0",
+     "titulo": "Senior Product Manager - Business Banking",
+     "url": "https://jobs.ashbyhq.com/mollie/9c99ed58-ef98-4d3c-8f28-1e53785cc6c0",
+     "equipa": "Product and Delivery",
+     "local": "Amsterdam / Milan / Berlin",
+     "pais": "Amsterdam",
+     "remoto": true,
+     "publicada": "2026-10-23T06:59:43.594+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "59ab55ab-ac4b-4eb3-95ab-38d071499ca2",
+     "titulo": "Customer Success Manager - Sweden",
+     "url": "https://jobs.ashbyhq.com/mollie/59ab55ab-ac4b-4eb3-95ab-38d071499ca2",
+     "equipa": "Go To Market",
+     "local": "Stockholm",
+     "pais": "Stockholm",
+     "remoto": false,
+     "publicada": "2026-10-14T09:46:51.300+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "9c3e0b6f-ce76-4bd7-9144-cabce7d5b555",
+     "titulo": "Senior Product Manager - Business Banking",
+     "url": "https://jobs.ashbyhq.com/mollie/9c3e0b6f-ce76-4bd7-9144-cabce7d5b555",
+     "equipa": "Product and Delivery",
+     "local": "Milan / Berlin / Amsterdam",
+     "pais": "Milan",
+     "remoto": true,
+     "publicada": "2026-10-23T07:00:47.238+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "5da9faae-966b-4d1f-82b0-a6bb12dfe858",
+     "titulo": "Analytics Engineer",
+     "url": "https://jobs.ashbyhq.com/mollie/5da9faae-966b-4d1f-82b0-a6bb12dfe858",
+     "equipa": "Engineering",
+     "local": "Amsterdam",
+     "pais": "Amsterdam",
+     "remoto": true,
+     "publicada": "2026-10-23T12:05:17.444+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "48cebb11-ab36-4e25-86d3-2cee945a2a91",
+     "titulo": "Analytics Engineer I ",
+     "url": "https://jobs.ashbyhq.com/mollie/48cebb11-ab36-4e25-86d3-2cee945a2a91",
+     "equipa": "Engineering",
+     "local": "Milan",
+     "pais": "Milan",
+     "remoto": false,
+     "publicada": "2026-10-23T14:11:57.564+00:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    }
+   ]
+  },
+  {
+   "nome": "SumUp",
+   "sector": "Fintech",
+   "vagas": [
+    {
+     "id": "8097315002",
+     "titulo": "Account Executive",
+     "url": "https://sumup.com/careers/positions/8097315002?gh_jid=8097315002",
+     "local": "London, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-09-14T09:34:30-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8907622002",
+     "titulo": "Agente de Suporte I",
+     "url": "https://sumup.com/careers/positions/8907622002?gh_jid=8907622002",
+     "local": "São Paulo, São Paulo, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-10-22T12:50:56-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8658148002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8658148002?gh_jid=8658148002",
+     "local": "Cuneo, CN, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-30T04:09:24-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8634283002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8634283002?gh_jid=8634283002",
+     "local": "Bologna, Bologna, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-15T06:29:24-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8435161002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8435161002?gh_jid=8435161002",
+     "local": "Latina, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-02-24T08:17:32-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8648854002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8648854002?gh_jid=8648854002",
+     "local": "Reggio Calabria, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-24T10:08:23-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8648853002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8648853002?gh_jid=8648853002",
+     "local": "Catanzaro, Catanzaro, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-24T10:08:22-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8658147002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8658147002?gh_jid=8658147002",
+     "local": "Novara, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-30T04:08:50-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8658153002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8658153002?gh_jid=8658153002",
+     "local": "Prato, PO, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-30T04:15:28-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8686836002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8686836002?gh_jid=8686836002",
+     "local": "Mazara del Vallo, Trapani, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-08-05T22:53:40-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8686837002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8686837002?gh_jid=8686837002",
+     "local": "Catania, Catania, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-08-05T22:54:25-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8634286002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8634286002?gh_jid=8634286002",
+     "local": "Modena, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-15T06:29:26-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8634289002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8634289002?gh_jid=8634289002",
+     "local": "Rimini, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-15T06:29:28-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8634290002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8634290002?gh_jid=8634290002",
+     "local": "Siena, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-15T06:36:30-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8634292002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8634292002?gh_jid=8634292002",
+     "local": "Livorno, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-15T06:36:31-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8644734002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8644734002?gh_jid=8644734002",
+     "local": "Bergamo, BG, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-22T09:15:10-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8644737002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8644737002?gh_jid=8644737002",
+     "local": "Lodi, LO, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-22T09:16:00-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8644738002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8644738002?gh_jid=8644738002",
+     "local": "Pavia, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-22T09:16:01-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8644753002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8644753002?gh_jid=8644753002",
+     "local": "Alessandria, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-22T09:24:49-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8644746002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8644746002?gh_jid=8644746002",
+     "local": "Aosta Valley, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-22T09:24:48-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8644758002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8644758002?gh_jid=8644758002",
+     "local": "Vercelli, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-22T09:24:52-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8644759002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8644759002?gh_jid=8644759002",
+     "local": "Verbano-Cusio-Ossola, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-22T09:24:52-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8644775002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8644775002?gh_jid=8644775002",
+     "local": "Savona, SV, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-22T09:34:04-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8644777002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8644777002?gh_jid=8644777002",
+     "local": "La Spezia, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-22T09:34:51-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8644779002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8644779002?gh_jid=8644779002",
+     "local": "Imperia, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-22T09:36:05-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8644791002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8644791002?gh_jid=8644791002",
+     "local": "Trento, Trentino, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-22T09:40:53-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8644793002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8644793002?gh_jid=8644793002",
+     "local": "Bolzano, South Tyrol, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-22T09:42:00-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8644804002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8644804002?gh_jid=8644804002",
+     "local": "Padua, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-22T09:45:59-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8644820002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8644820002?gh_jid=8644820002",
+     "local": "Trieste, Trieste, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-22T09:48:54-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8644822002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8644822002?gh_jid=8644822002",
+     "local": "Udine, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-22T09:49:34-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8644951002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8644951002?gh_jid=8644951002",
+     "local": "Vasto, Chieti, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-22T10:22:08-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8644955002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8644955002?gh_jid=8644955002",
+     "local": "Perugia, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-22T10:23:08-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8644968002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8644968002?gh_jid=8644968002",
+     "local": "Frosinone, FR, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-22T10:30:41-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8644969002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8644969002?gh_jid=8644969002",
+     "local": "Rieti, RI, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-22T10:30:43-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8645066002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8645066002?gh_jid=8645066002",
+     "local": "Lecce, Lecce, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-22T11:01:46-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8645067002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8645067002?gh_jid=8645067002",
+     "local": "Bari, Bari, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-22T11:02:42-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8645070002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8645070002?gh_jid=8645070002",
+     "local": "Potenza, PZ, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-22T11:04:10-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8645080002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8645080002?gh_jid=8645080002",
+     "local": "Avellino, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-22T11:10:05-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8467953002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8467953002?gh_jid=8467953002",
+     "local": "Rome, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-03-18T10:59:31-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8645084002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8645084002?gh_jid=8645084002",
+     "local": "Salerno, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-22T11:10:06-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8645083002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8645083002?gh_jid=8645083002",
+     "local": "Benevento, Province Benevento, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-22T11:10:06-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8118920002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8118920002?gh_jid=8118920002",
+     "local": "Campobasso",
+     "pais": "Campobasso",
+     "remoto": false,
+     "publicada": "2025-08-14T04:31:33-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8645096002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8645096002?gh_jid=8645096002",
+     "local": "Pescara, Pescara, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-22T11:17:15-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8646823002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8646823002?gh_jid=8646823002",
+     "local": "Genoa, Genova, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-23T04:51:56-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8646824002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8646824002?gh_jid=8646824002",
+     "local": "Venice, Venezia, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-23T04:53:50-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8648848002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8648848002?gh_jid=8648848002",
+     "local": "Andria, Barletta-Andria-Trani, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-24T10:06:00-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8648849002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8648849002?gh_jid=8648849002",
+     "local": "Trani, Barletta-Andria-Trani, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-24T10:06:00-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8648846002",
+     "titulo": "Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti",
+     "url": "https://sumup.com/careers/positions/8648846002?gh_jid=8648846002",
+     "local": "Barletta, Barletta-Andria-Trani, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-07-24T10:06:01-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8596506002",
+     "titulo": "AML Analyst ll",
+     "url": "https://sumup.com/careers/positions/8596506002?gh_jid=8596506002",
+     "local": "São Paulo, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-07-06T15:15:15-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8348937002",
+     "titulo": "Android Engineer",
+     "url": "https://sumup.com/careers/positions/8348937002?gh_jid=8348937002",
+     "local": "São Paulo, São Paulo, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-09-15T14:05:09-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8874470002",
+     "titulo": "Asesor/a comercial autónomo/a",
+     "url": "https://sumup.com/careers/positions/8874470002?gh_jid=8874470002",
+     "local": "Madrid, Spain",
+     "pais": "Spain",
+     "remoto": false,
+     "publicada": "2026-10-07T10:10:55-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8583427002",
+     "titulo": "Backend Engineer - Cards",
+     "url": "https://sumup.com/careers/positions/8583427002?gh_jid=8583427002",
+     "local": "Sofia, Bulgaria",
+     "pais": "Bulgaria",
+     "remoto": false,
+     "publicada": "2026-06-09T04:35:01-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "6651430002",
+     "titulo": "Backend Engineer- Global Bank",
+     "url": "https://sumup.com/careers/positions/6651430002?gh_jid=6651430002",
+     "local": "Sofia, Bulgaria",
+     "pais": "Bulgaria",
+     "remoto": false,
+     "publicada": "2023-03-06T12:14:48-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7475989002",
+     "titulo": "Backend Engineer (Global Bank Tribe)",
+     "url": "https://sumup.com/careers/positions/7475989002?gh_jid=7475989002",
+     "local": "Florianópolis, Santa Catarina, Brazil; São Paulo, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2024-06-03T16:23:53-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8785611002",
+     "titulo": "Backend Engineer (Golang) - Bank Balance",
+     "url": "https://sumup.com/careers/positions/8785611002?gh_jid=8785611002",
+     "local": "Vilnius, Lithuania",
+     "pais": "Lithuania",
+     "remoto": false,
+     "publicada": "2026-09-08T01:57:41-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8785999002",
+     "titulo": "Backend Engineer (Golang) - Transfers Europe",
+     "url": "https://sumup.com/careers/positions/8785999002?gh_jid=8785999002",
+     "local": "Vilnius, Lithuania",
+     "pais": "Lithuania",
+     "remoto": false,
+     "publicada": "2026-09-09T04:42:04-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8789067002",
+     "titulo": "Backend Engineer (Golang) - Transfers Europe",
+     "url": "https://sumup.com/careers/positions/8789067002?gh_jid=8789067002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-09-09T06:19:26-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8745286002",
+     "titulo": "Backend Engineer - Merchant Risk Intelligence",
+     "url": "https://sumup.com/careers/positions/8745286002?gh_jid=8745286002",
+     "local": "Vilnius, Lithuania",
+     "pais": "Lithuania",
+     "remoto": false,
+     "publicada": "2026-08-25T05:11:16-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8645259002",
+     "titulo": "Backend Engineer - Merchant Risk Intelligence ",
+     "url": "https://sumup.com/careers/positions/8645259002?gh_jid=8645259002",
+     "local": "Sofia, Bulgaria",
+     "pais": "Bulgaria",
+     "remoto": false,
+     "publicada": "2026-08-10T10:43:06-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8592596002",
+     "titulo": "Brand Marketing Designer",
+     "url": "https://sumup.com/careers/positions/8592596002?gh_jid=8592596002",
+     "local": "London, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-07-08T10:01:31-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8794667002",
+     "titulo": "Brand Marketing Designer - (Fixed Contract 12 months) ",
+     "url": "https://sumup.com/careers/positions/8794667002?gh_jid=8794667002",
+     "local": "London, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-09-10T08:47:03-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8870663002",
+     "titulo": "Business Development Manager – Payments & POS",
+     "url": "https://sumup.com/careers/positions/8870663002?gh_jid=8870663002",
+     "local": "Manchester, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-10-09T10:47:17-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8644924002",
+     "titulo": "Chief Operating Officer (PCF-42) - SumUp Limited",
+     "url": "https://sumup.com/careers/positions/8644924002?gh_jid=8644924002",
+     "local": "Dublin, Dublin, Ireland",
+     "pais": "Ireland",
+     "remoto": false,
+     "publicada": "2026-08-17T04:58:29-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8675692002",
+     "titulo": "Collections Agent - Lending",
+     "url": "https://sumup.com/careers/positions/8675692002?gh_jid=8675692002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-08-19T10:35:26-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8874512002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté",
+     "url": "https://sumup.com/careers/positions/8874512002?gh_jid=8874512002",
+     "local": "Antwerpen, Antwerp, Belgium",
+     "pais": "Belgium",
+     "remoto": false,
+     "publicada": "2026-10-07T09:30:20-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8478931002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté ",
+     "url": "https://sumup.com/careers/positions/8478931002?gh_jid=8478931002",
+     "local": "Brussels, Brussels-Capital, Belgium",
+     "pais": "Belgium",
+     "remoto": false,
+     "publicada": "2026-03-30T10:27:21-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8370153002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e) indépendant",
+     "url": "https://sumup.com/careers/positions/8370153002?gh_jid=8370153002",
+     "local": "Mont-de-Marsan, Landes, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2026-01-12T05:38:06-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7988642002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e) indépendant",
+     "url": "https://sumup.com/careers/positions/7988642002?gh_jid=7988642002",
+     "local": "Nantes, Loire-Atlantique, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2025-05-08T10:09:56-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7988606002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e) indépendant",
+     "url": "https://sumup.com/careers/positions/7988606002?gh_jid=7988606002",
+     "local": "Rennes, Ille-et-Vilaine, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2025-05-08T09:55:12-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8370115002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e) indépendant",
+     "url": "https://sumup.com/careers/positions/8370115002?gh_jid=8370115002",
+     "local": "Bordeaux, Gironde, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2026-01-12T05:16:33-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8467370002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e) indépendant",
+     "url": "https://sumup.com/careers/positions/8467370002?gh_jid=8467370002",
+     "local": "Poitiers, Vienne, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2026-03-18T12:07:57-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8699015002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e) - Indépendant ",
+     "url": "https://sumup.com/careers/positions/8699015002?gh_jid=8699015002",
+     "local": "Dijon, Côte-d’Or, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2026-08-12T03:19:19-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8099530002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e) - Indépendant ",
+     "url": "https://sumup.com/careers/positions/8099530002?gh_jid=8099530002",
+     "local": "Aix-en-Provence, Bouches-du-Rhône, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2025-07-31T06:59:23-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8511537002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e) - Indépendant ",
+     "url": "https://sumup.com/careers/positions/8511537002?gh_jid=8511537002",
+     "local": "Avignon, Vaucluse, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2026-04-17T04:27:03-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8511538002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e) - Indépendant ",
+     "url": "https://sumup.com/careers/positions/8511538002?gh_jid=8511538002",
+     "local": "Nîmes, Gard, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2026-04-21T10:43:51-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7927624002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e) - Indépendant ",
+     "url": "https://sumup.com/careers/positions/7927624002?gh_jid=7927624002",
+     "local": "Reims, Marne, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2025-03-25T10:51:15-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7868915002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e) - Indépendant ",
+     "url": "https://sumup.com/careers/positions/7868915002?gh_jid=7868915002",
+     "local": "Strasbourg, Bas-Rhin, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2025-02-19T04:07:37-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8887224002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e) - Indépendant ",
+     "url": "https://sumup.com/careers/positions/8887224002?gh_jid=8887224002",
+     "local": "Montpellier, Hérault, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2026-10-14T03:09:18-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7875334002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e)- Indépendant ",
+     "url": "https://sumup.com/careers/positions/7875334002?gh_jid=7875334002",
+     "local": "Amiens, Somme, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2025-02-21T09:21:16-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7875332002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e)- Indépendant ",
+     "url": "https://sumup.com/careers/positions/7875332002?gh_jid=7875332002",
+     "local": "Calais, Pas-de-Calais, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2025-02-21T09:21:15-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8370114002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e) ",
+     "url": "https://sumup.com/careers/positions/8370114002?gh_jid=8370114002",
+     "local": "Landes, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2026-01-12T05:15:22-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7988602002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e) indépendant",
+     "url": "https://sumup.com/careers/positions/7988602002?gh_jid=7988602002",
+     "local": "Brest, Finistère, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2025-05-08T09:55:13-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8370118002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e) indépendant",
+     "url": "https://sumup.com/careers/positions/8370118002?gh_jid=8370118002",
+     "local": "Bayonne, Pyrénées-Atlantiques, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2026-01-12T05:17:46-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7871974002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e) indépendant",
+     "url": "https://sumup.com/careers/positions/7871974002?gh_jid=7871974002",
+     "local": "Limoges, Haute-Vienne, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2025-02-20T09:43:41-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7988614002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e) indépendant",
+     "url": "https://sumup.com/careers/positions/7988614002?gh_jid=7988614002",
+     "local": "Vannes, Morbihan, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2025-05-08T09:55:10-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8370147002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e) indépendant",
+     "url": "https://sumup.com/careers/positions/8370147002?gh_jid=8370147002",
+     "local": "Lacanau, Gironde, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2026-01-12T05:38:14-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8370150002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e) indépendant",
+     "url": "https://sumup.com/careers/positions/8370150002?gh_jid=8370150002",
+     "local": "Bergerac, Dordogne, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2026-01-12T05:38:11-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8488967002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e) indépendant",
+     "url": "https://sumup.com/careers/positions/8488967002?gh_jid=8488967002",
+     "local": "Pau, Pyrénées-Atlantiques, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2026-04-01T08:34:54-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8370140002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e) indépendant",
+     "url": "https://sumup.com/careers/positions/8370140002?gh_jid=8370140002",
+     "local": "Arcachon, Gironde, France; Bergerac, Dordogne, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2026-01-12T05:29:59-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7988604002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e) indépendant",
+     "url": "https://sumup.com/careers/positions/7988604002?gh_jid=7988604002",
+     "local": "Quimper, Finistère, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2025-05-08T09:55:12-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7988641002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e) indépendant",
+     "url": "https://sumup.com/careers/positions/7988641002?gh_jid=7988641002",
+     "local": "Saint-Nazaire, Loire-Atlantique, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2025-05-08T10:09:56-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8355673002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e) indépendant",
+     "url": "https://sumup.com/careers/positions/8355673002?gh_jid=8355673002",
+     "local": "Poitiers, Vienne, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2026-01-12T05:30:01-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7988683002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e)  indépendant",
+     "url": "https://sumup.com/careers/positions/7988683002?gh_jid=7988683002",
+     "local": "Tours, Indre-et-Loire, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2025-05-08T10:21:05-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7993293002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e)  indépendant",
+     "url": "https://sumup.com/careers/positions/7993293002?gh_jid=7993293002",
+     "local": "Nantes, Loire-Atlantique, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2025-06-03T06:17:47-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7988640002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e)  indépendant",
+     "url": "https://sumup.com/careers/positions/7988640002?gh_jid=7988640002",
+     "local": "Angers, Maine-et-Loire, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2025-05-08T10:09:57-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7988613002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté(e)  indépendant",
+     "url": "https://sumup.com/careers/positions/7988613002?gh_jid=7988613002",
+     "local": "Saint-Malo, Ille-et-Vilaine, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2025-05-08T09:55:11-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7871972002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté indépendant",
+     "url": "https://sumup.com/careers/positions/7871972002?gh_jid=7871972002",
+     "local": "Agen, Lot-et-Garonne, France; Arcachon, Gironde, France; Bayonne, Pyrénées-Atlantiques, France; Bergerac, Dordogne, France; Bordeaux, Gironde, France; Gironde, France; La Rochelle, Charente-Maritime, France; Landes, France; Limoges, Haute-Vienne, France; Mont-de-Marsan, Landes, France; Niort, Deux-Sèvres, France; Poitiers, Vienne, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2025-02-20T09:41:56-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7871945002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté  indépendant",
+     "url": "https://sumup.com/careers/positions/7871945002?gh_jid=7871945002",
+     "local": "La Rochelle, Charente-Maritime, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2025-02-20T09:31:01-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7875302002",
+     "titulo": "Conseiller(ère) commercial(e) terrain expérimenté- Indépendant ",
+     "url": "https://sumup.com/careers/positions/7875302002?gh_jid=7875302002",
+     "local": "Dunkerque, Nord, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2025-02-21T09:21:15-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8874403002",
+     "titulo": "Consulente commerciale sul campo con esperienza",
+     "url": "https://sumup.com/careers/positions/8874403002?gh_jid=8874403002",
+     "local": "Milan, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-10-07T08:58:08-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8874482002",
+     "titulo": "Consultor/a Comercial no Terreno",
+     "url": "https://sumup.com/careers/positions/8874482002?gh_jid=8874482002",
+     "local": "Lisbon, Portugal",
+     "pais": "Portugal",
+     "remoto": false,
+     "publicada": "2026-10-07T10:13:45-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8181753002",
+     "titulo": "Consultor de Vendas",
+     "url": "https://sumup.com/careers/positions/8181753002?gh_jid=8181753002",
+     "local": "Lisbon, Portugal",
+     "pais": "Portugal",
+     "remoto": false,
+     "publicada": "2025-09-24T05:34:47-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8181794002",
+     "titulo": "Consultor de Ventas Autonom",
+     "url": "https://sumup.com/careers/positions/8181794002?gh_jid=8181794002",
+     "local": "Barcelona, Barcelona, Spain",
+     "pais": "Spain",
+     "remoto": false,
+     "publicada": "2025-09-24T05:36:57-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8314056002",
+     "titulo": "Consultor de Ventas - Autonomo",
+     "url": "https://sumup.com/careers/positions/8314056002?gh_jid=8314056002",
+     "local": "Madrid, Spain",
+     "pais": "Spain",
+     "remoto": false,
+     "publicada": "2025-11-28T09:15:10-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8888622002",
+     "titulo": "Content Manager – Retail",
+     "url": "https://sumup.com/careers/positions/8888622002?gh_jid=8888622002",
+     "local": "London, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-10-16T09:39:59-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8818074002",
+     "titulo": "Customer Retention Specialist ",
+     "url": "https://sumup.com/careers/positions/8818074002?gh_jid=8818074002",
+     "local": "Boulder, Colorado, United States; El Paso, Texas, United States",
+     "pais": "United States",
+     "remoto": false,
+     "publicada": "2026-09-17T21:29:33-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8908730002",
+     "titulo": "Customer Success Management Manager - LATAM",
+     "url": "https://sumup.com/careers/positions/8908730002?gh_jid=8908730002",
+     "local": "Santiago, Chile",
+     "pais": "Chile",
+     "remoto": false,
+     "publicada": "2026-10-22T09:48:51-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8580040002",
+     "titulo": "Customer Support Agent",
+     "url": "https://sumup.com/careers/positions/8580040002?gh_jid=8580040002",
+     "local": "Amsterdam, Netherlands",
+     "pais": "Netherlands",
+     "remoto": false,
+     "publicada": "2026-06-08T04:44:34-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8891263002",
+     "titulo": "Customer Support Agent German - Consumer Team",
+     "url": "https://sumup.com/careers/positions/8891263002?gh_jid=8891263002",
+     "local": "Barcelona, Barcelona, Spain",
+     "pais": "Spain",
+     "remoto": false,
+     "publicada": "2026-10-15T08:37:49-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7303394002",
+     "titulo": "Customer Support Agent (Horario Rotativo)",
+     "url": "https://sumup.com/careers/positions/7303394002?gh_jid=7303394002",
+     "local": "Santiago, Chile",
+     "pais": "Chile",
+     "remoto": false,
+     "publicada": "2024-04-17T16:06:32-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8827064002",
+     "titulo": "Customer Support Agent - HU",
+     "url": "https://sumup.com/careers/positions/8827064002?gh_jid=8827064002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-10-05T09:25:25-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8340130002",
+     "titulo": "Customer Support Agent- IT ",
+     "url": "https://sumup.com/careers/positions/8340130002?gh_jid=8340130002",
+     "local": "Barcelona, Barcelona, Spain",
+     "pais": "Spain",
+     "remoto": false,
+     "publicada": "2026-01-13T04:33:05-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8364212002",
+     "titulo": "Data Platform Engineer (Mid-Level)",
+     "url": "https://sumup.com/careers/positions/8364212002?gh_jid=8364212002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-07-23T04:46:25-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8695830002",
+     "titulo": "Digital Growth Specialist",
+     "url": "https://sumup.com/careers/positions/8695830002?gh_jid=8695830002",
+     "local": "Santiago, Chile",
+     "pais": "Chile",
+     "remoto": false,
+     "publicada": "2026-08-24T12:59:05-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8826828002",
+     "titulo": "Director of Sales, North and Central Europe",
+     "url": "https://sumup.com/careers/positions/8826828002?gh_jid=8826828002",
+     "local": "London, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-09-29T13:45:25-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8746311002",
+     "titulo": "Dutch Sales Development Representative (m/w/d)",
+     "url": "https://sumup.com/careers/positions/8746311002?gh_jid=8746311002",
+     "local": "Cologne, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-08-27T07:50:49-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7101191002",
+     "titulo": "Ejecutivo/a de Ventas - Terreno (Ingreso 24 de Noviembre)",
+     "url": "https://sumup.com/careers/positions/7101191002?gh_jid=7101191002",
+     "local": "Santiago, Chile",
+     "pais": "Chile",
+     "remoto": false,
+     "publicada": "2024-08-01T12:45:08-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8858198002",
+     "titulo": "Enablement and Training Assistant Analyst - LATAM",
+     "url": "https://sumup.com/careers/positions/8858198002?gh_jid=8858198002",
+     "local": "Santiago, Chile",
+     "pais": "Chile",
+     "remoto": false,
+     "publicada": "2026-09-30T11:09:43-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8559967002",
+     "titulo": "Engineering Manager ",
+     "url": "https://sumup.com/careers/positions/8559967002?gh_jid=8559967002",
+     "local": "São Paulo, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-07-07T11:13:09-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8448680002",
+     "titulo": "Engineering Manager - Verification",
+     "url": "https://sumup.com/careers/positions/8448680002?gh_jid=8448680002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-04-15T08:44:52-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8507674002",
+     "titulo": "Engineering Manager - Verification",
+     "url": "https://sumup.com/careers/positions/8507674002?gh_jid=8507674002",
+     "local": "Sofia, Bulgaria",
+     "pais": "Bulgaria",
+     "remoto": false,
+     "publicada": "2026-04-15T08:44:51-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8317973002",
+     "titulo": "\tErfahrener Außendienstmitarbeiter (m/w/d)",
+     "url": "https://sumup.com/careers/positions/8317973002?gh_jid=8317973002",
+     "local": "Düsseldorf, North Rhine-Westphalia, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-02-02T10:39:57-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7869240002",
+     "titulo": "\tErfahrener Außendienstmitarbeiter (m/w/d)",
+     "url": "https://sumup.com/careers/positions/7869240002?gh_jid=7869240002",
+     "local": "Dortmund, North Rhine-Westphalia, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2025-04-08T08:00:08-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8874567002",
+     "titulo": "Erfahrener Außendienstmitarbeiter (m/w/d)",
+     "url": "https://sumup.com/careers/positions/8874567002?gh_jid=8874567002",
+     "local": "Vienna, Vienna, Austria",
+     "pais": "Austria",
+     "remoto": false,
+     "publicada": "2026-10-07T08:58:04-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8874444002",
+     "titulo": "Erfahrener Außendienstmitarbeiter (m/w/d)",
+     "url": "https://sumup.com/careers/positions/8874444002?gh_jid=8874444002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-10-07T09:28:38-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7945103002",
+     "titulo": "Erfahrener Außendienstmitarbeiter (m/w/d)",
+     "url": "https://sumup.com/careers/positions/7945103002?gh_jid=7945103002",
+     "local": "Cologne, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2025-04-07T07:24:04-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8559397002",
+     "titulo": "Erfahrener Außendienstmitarbeiter (m/w/x)",
+     "url": "https://sumup.com/careers/positions/8559397002?gh_jid=8559397002",
+     "local": "Austria ",
+     "pais": "Austria",
+     "remoto": false,
+     "publicada": "2026-05-27T07:01:29-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8874545002",
+     "titulo": "Ervaren buitendienstmedewerker",
+     "url": "https://sumup.com/careers/positions/8874545002?gh_jid=8874545002",
+     "local": "Amsterdam, Netherlands; Rotterdam, South Holland, Netherlands",
+     "pais": "Netherlands",
+     "remoto": false,
+     "publicada": "2026-10-07T08:58:13-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8183477002",
+     "titulo": "Ervaren buitendienstmedewerker",
+     "url": "https://sumup.com/careers/positions/8183477002?gh_jid=8183477002",
+     "local": "Rotterdam, South Holland, Netherlands",
+     "pais": "Netherlands",
+     "remoto": false,
+     "publicada": "2026-09-02T05:10:23-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8174816002",
+     "titulo": "Ervaren buitendienstmedewerker",
+     "url": "https://sumup.com/careers/positions/8174816002?gh_jid=8174816002",
+     "local": "Amsterdam, Netherlands",
+     "pais": "Netherlands",
+     "remoto": false,
+     "publicada": "2025-09-19T11:54:55-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8858962002",
+     "titulo": "Executivo(a) de Vendas Externas | Americana - SP",
+     "url": "https://sumup.com/careers/positions/8858962002?gh_jid=8858962002",
+     "local": "Americana, São Paulo, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-10-01T10:54:45-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8858948002",
+     "titulo": "Executivo(a) de Vendas Externas | Campinas - SP",
+     "url": "https://sumup.com/careers/positions/8858948002?gh_jid=8858948002",
+     "local": "Campinas, São Paulo, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-10-01T10:56:54-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8858958002",
+     "titulo": "Executivo(a) de Vendas Externas | Caucaia",
+     "url": "https://sumup.com/careers/positions/8858958002?gh_jid=8858958002",
+     "local": "Caucaia, Ceara, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-10-01T11:36:48-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8858953002",
+     "titulo": "Executivo(a) de Vendas Externas | Eusébio",
+     "url": "https://sumup.com/careers/positions/8858953002?gh_jid=8858953002",
+     "local": "Eusébio, Ceara, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-10-01T11:33:13-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8858957002",
+     "titulo": "Executivo(a) de Vendas Externas | Fortaleza – Cidade dos Funcionários",
+     "url": "https://sumup.com/careers/positions/8858957002?gh_jid=8858957002",
+     "local": "Fortaleza, Ceará, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-10-01T11:30:23-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8858945002",
+     "titulo": "Executivo(a) de Vendas Externas | Fortaleza – Meireles",
+     "url": "https://sumup.com/careers/positions/8858945002?gh_jid=8858945002",
+     "local": "Fortaleza, Ceará, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-10-01T11:27:12-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8858964002",
+     "titulo": "Executivo(a) de Vendas Externas | Santo Antônio de Jesus, Bahia",
+     "url": "https://sumup.com/careers/positions/8858964002?gh_jid=8858964002",
+     "local": "Santo Antônio de Jesus, Bahia, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-10-05T13:53:35-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8858944002",
+     "titulo": "Executivo(a) de Vendas Externas | Vitória da Conquista, Bahia",
+     "url": "https://sumup.com/careers/positions/8858944002?gh_jid=8858944002",
+     "local": "Vitória da Conquista, Bahia, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-10-05T13:55:46-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8750631002",
+     "titulo": "Executivo de Vendas Fortaleza - CE | Vaga afirmativa para Pessoa com Deficiência (PcD)",
+     "url": "https://sumup.com/careers/positions/8750631002?gh_jid=8750631002",
+     "local": "Fortaleza, Ceará, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-08-26T16:45:07-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8905548002",
+     "titulo": "Executivo de Vendas Salvador - BA -  Vaga afirmativa para Pessoa com Deficiência (PcD)",
+     "url": "https://sumup.com/careers/positions/8905548002?gh_jid=8905548002",
+     "local": "Salvador, Bahia, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-10-21T08:54:43-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8750625002",
+     "titulo": "Executivo de Vendas São José do Rio Preto - SP -  Vaga afirmativa para Pessoa com Deficiência (PcD)",
+     "url": "https://sumup.com/careers/positions/8750625002?gh_jid=8750625002",
+     "local": "São José do Rio Preto, São Paulo, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-08-26T16:45:37-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8750630002",
+     "titulo": "Executivo de Vendas São Paulo - SP |  Vaga afirmativa para Pessoa com Deficiência (PcD)",
+     "url": "https://sumup.com/careers/positions/8750630002?gh_jid=8750630002",
+     "local": "São Paulo, São Paulo, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-08-26T16:43:49-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8750624002",
+     "titulo": "Executivo de Vendas Vitória da Conquista - BA | Vaga afirmativa para Pessoa com Deficiência (PcD)",
+     "url": "https://sumup.com/careers/positions/8750624002?gh_jid=8750624002",
+     "local": "Vitória da Conquista, Bahia, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-08-26T16:44:05-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8874361002",
+     "titulo": "Experienced Field Sales Consultant",
+     "url": "https://sumup.com/careers/positions/8874361002?gh_jid=8874361002",
+     "local": "Dublin, Dublin, Ireland",
+     "pais": "Ireland",
+     "remoto": false,
+     "publicada": "2026-10-07T09:49:02-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8874457002",
+     "titulo": "Experienced Field Sales Consultant",
+     "url": "https://sumup.com/careers/positions/8874457002?gh_jid=8874457002",
+     "local": "Paris, Paris, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2026-10-07T10:07:55-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8871001002",
+     "titulo": "Experienced Field Sales Consultant",
+     "url": "https://sumup.com/careers/positions/8871001002?gh_jid=8871001002",
+     "local": "Offaly, Ireland",
+     "pais": "Ireland",
+     "remoto": false,
+     "publicada": "2026-10-06T12:01:54-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8870997002",
+     "titulo": "Experienced Field Sales Consultant",
+     "url": "https://sumup.com/careers/positions/8870997002?gh_jid=8870997002",
+     "local": "Carlow, Ireland",
+     "pais": "Ireland",
+     "remoto": false,
+     "publicada": "2026-10-06T12:01:52-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8870996002",
+     "titulo": "Experienced Field Sales Consultant",
+     "url": "https://sumup.com/careers/positions/8870996002?gh_jid=8870996002",
+     "local": "Longford, Ireland",
+     "pais": "Ireland",
+     "remoto": false,
+     "publicada": "2026-10-06T12:01:49-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8878859002",
+     "titulo": "Experienced Field Sales Consultant",
+     "url": "https://sumup.com/careers/positions/8878859002?gh_jid=8878859002",
+     "local": "Liverpool, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-10-08T08:58:43-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8870907002",
+     "titulo": "Experienced Field Sales Consultant",
+     "url": "https://sumup.com/careers/positions/8870907002?gh_jid=8870907002",
+     "local": "Waterford, Ireland",
+     "pais": "Ireland",
+     "remoto": false,
+     "publicada": "2026-10-06T12:01:45-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8209395002",
+     "titulo": "Experienced Field Sales Consultant",
+     "url": "https://sumup.com/careers/positions/8209395002?gh_jid=8209395002",
+     "local": "Lancaster, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2025-10-13T10:40:20-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8125775002",
+     "titulo": "Experienced Field Sales Consultant",
+     "url": "https://sumup.com/careers/positions/8125775002?gh_jid=8125775002",
+     "local": "Dublin, Dublin, Ireland",
+     "pais": "Ireland",
+     "remoto": false,
+     "publicada": "2025-08-19T11:13:25-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8871020002",
+     "titulo": "Experienced Field Sales Consultant",
+     "url": "https://sumup.com/careers/positions/8871020002?gh_jid=8871020002",
+     "local": "Tipperary, Ireland",
+     "pais": "Ireland",
+     "remoto": false,
+     "publicada": "2026-10-06T12:01:56-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8874270002",
+     "titulo": "Experienced Field Sales Consultant",
+     "url": "https://sumup.com/careers/positions/8874270002?gh_jid=8874270002",
+     "local": "London, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-10-07T09:28:48-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8878886002",
+     "titulo": "Experienced Field Sales Consultant",
+     "url": "https://sumup.com/careers/positions/8878886002?gh_jid=8878886002",
+     "local": "Stoke-on-Trent, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-10-08T08:58:53-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8660631002",
+     "titulo": "Experienced Field Sales Consultant",
+     "url": "https://sumup.com/careers/positions/8660631002?gh_jid=8660631002",
+     "local": "Kilkenny, Ireland",
+     "pais": "Ireland",
+     "remoto": false,
+     "publicada": "2026-07-31T09:04:51-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8878860002",
+     "titulo": "Experienced Field Sales Consultant",
+     "url": "https://sumup.com/careers/positions/8878860002?gh_jid=8878860002",
+     "local": "Carlisle, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-10-08T08:58:46-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8878871002",
+     "titulo": "Experienced Field Sales Consultant",
+     "url": "https://sumup.com/careers/positions/8878871002?gh_jid=8878871002",
+     "local": "Crewe, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-10-08T08:58:49-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8883202002",
+     "titulo": "Experienced Field Sales Consultant",
+     "url": "https://sumup.com/careers/positions/8883202002?gh_jid=8883202002",
+     "local": "Maidstone, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-10-12T06:47:15-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8883203002",
+     "titulo": "Experienced Field Sales Consultant",
+     "url": "https://sumup.com/careers/positions/8883203002?gh_jid=8883203002",
+     "local": "Canterbury, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-10-12T06:49:00-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8472179002",
+     "titulo": "Experienced Field Sales Consultant",
+     "url": "https://sumup.com/careers/positions/8472179002?gh_jid=8472179002",
+     "local": "Dartford, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-03-20T14:11:54-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8870912002",
+     "titulo": "Experienced Field Sales Consultant",
+     "url": "https://sumup.com/careers/positions/8870912002?gh_jid=8870912002",
+     "local": "Laois, Ireland",
+     "pais": "Ireland",
+     "remoto": false,
+     "publicada": "2026-10-06T12:01:48-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8878873002",
+     "titulo": "Experienced Field Sales Consultant",
+     "url": "https://sumup.com/careers/positions/8878873002?gh_jid=8878873002",
+     "local": "Blackpool, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-10-08T08:58:51-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8883204002",
+     "titulo": "Experienced Field Sales Consultant - South London",
+     "url": "https://sumup.com/careers/positions/8883204002?gh_jid=8883204002",
+     "local": "London, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-10-12T06:51:33-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8811406002",
+     "titulo": "Field Sales Area Manager - The Hague",
+     "url": "https://sumup.com/careers/positions/8811406002?gh_jid=8811406002",
+     "local": "Netherlands",
+     "pais": "Netherlands",
+     "remoto": false,
+     "publicada": "2026-09-22T05:55:01-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8700305002",
+     "titulo": "Field Sales Consultant ",
+     "url": "https://sumup.com/careers/positions/8700305002?gh_jid=8700305002",
+     "local": "Cork, Cork, Ireland",
+     "pais": "Ireland",
+     "remoto": false,
+     "publicada": "2026-08-12T11:02:48-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8388078002",
+     "titulo": "Field Sales Consultant / Kenttämyyjä",
+     "url": "https://sumup.com/careers/positions/8388078002?gh_jid=8388078002",
+     "local": "Helsinki, Uusimaa, Finland",
+     "pais": "Finland",
+     "remoto": false,
+     "publicada": "2026-01-23T09:02:10-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8456628002",
+     "titulo": "Field Sales Consultant / Terenski Prodajni Predstavnik",
+     "url": "https://sumup.com/careers/positions/8456628002?gh_jid=8456628002",
+     "local": "Zagreb, Croatia; Zagreb, Croatia",
+     "pais": "Croatia",
+     "remoto": false,
+     "publicada": "2026-03-18T10:20:27-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8313760002",
+     "titulo": "Field Sales Consultant - UK - Belfast",
+     "url": "https://sumup.com/careers/positions/8313760002?gh_jid=8313760002",
+     "local": "Belfast, Northern Ireland, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-02-06T08:08:18-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8313796002",
+     "titulo": " Field Sales Consultant - UK - Bradford",
+     "url": "https://sumup.com/careers/positions/8313796002?gh_jid=8313796002",
+     "local": "Bradford, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-02-06T08:02:34-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8313716002",
+     "titulo": "Field Sales Consultant - UK - Brighton ",
+     "url": "https://sumup.com/careers/positions/8313716002?gh_jid=8313716002",
+     "local": "Brighton, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-02-06T08:17:43-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8313746002",
+     "titulo": "Field Sales Consultant - UK - Cardiff",
+     "url": "https://sumup.com/careers/positions/8313746002?gh_jid=8313746002",
+     "local": "Cardiff, Wales, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-02-06T08:09:36-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8313837002",
+     "titulo": "Field Sales Consultant - UK - Edinburgh",
+     "url": "https://sumup.com/careers/positions/8313837002?gh_jid=8313837002",
+     "local": "Edinburgh, Scotland, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-02-06T07:58:44-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8313807002",
+     "titulo": " Field Sales Consultant - UK - Glasgow",
+     "url": "https://sumup.com/careers/positions/8313807002?gh_jid=8313807002",
+     "local": "Glasgow, Scotland, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-02-06T08:00:55-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8313886002",
+     "titulo": "Field Sales Consultant - UK - Hull",
+     "url": "https://sumup.com/careers/positions/8313886002?gh_jid=8313886002",
+     "local": "Hull, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-02-06T08:30:35-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8313736002",
+     "titulo": "Field Sales Consultant - UK - Leicester",
+     "url": "https://sumup.com/careers/positions/8313736002?gh_jid=8313736002",
+     "local": "Leicester, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-02-06T08:12:08-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8313865002",
+     "titulo": "Field Sales Consultant - UK - Liverpool",
+     "url": "https://sumup.com/careers/positions/8313865002?gh_jid=8313865002",
+     "local": "Liverpool, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-02-06T08:28:10-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8313856002",
+     "titulo": "Field Sales Consultant - UK - Newcastle",
+     "url": "https://sumup.com/careers/positions/8313856002?gh_jid=8313856002",
+     "local": "Newcastle upon Tyne, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-02-06T07:42:56-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8313875002",
+     "titulo": "Field Sales Consultant - UK -Nottingham",
+     "url": "https://sumup.com/careers/positions/8313875002?gh_jid=8313875002",
+     "local": "Nottingham, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-02-06T08:29:20-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8313772002",
+     "titulo": "Field Sales Consultant - UK - Sheffield",
+     "url": "https://sumup.com/careers/positions/8313772002?gh_jid=8313772002",
+     "local": "Sheffield, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-02-06T08:05:52-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8313726002",
+     "titulo": " Field Sales Consultant - UK - Wolverhampton",
+     "url": "https://sumup.com/careers/positions/8313726002?gh_jid=8313726002",
+     "local": "Wolverhampton, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-02-06T08:13:51-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8209155002",
+     "titulo": "Field Sales Executive",
+     "url": "https://sumup.com/careers/positions/8209155002?gh_jid=8209155002",
+     "local": "St Albans, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2025-10-13T07:19:30-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7786542002",
+     "titulo": "Field Sales Executive",
+     "url": "https://sumup.com/careers/positions/7786542002?gh_jid=7786542002",
+     "local": "Belfast, Northern Ireland, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-09-18T05:44:23-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8638015002",
+     "titulo": "Field Sales Executive",
+     "url": "https://sumup.com/careers/positions/8638015002?gh_jid=8638015002",
+     "local": "Twickenham, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-07-17T07:44:58-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7810145002",
+     "titulo": "Field Sales Executive",
+     "url": "https://sumup.com/careers/positions/7810145002?gh_jid=7810145002",
+     "local": "Stevenage, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2025-01-13T11:10:56-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8642854002",
+     "titulo": "Field Sales Executive",
+     "url": "https://sumup.com/careers/positions/8642854002?gh_jid=8642854002",
+     "local": "Londonderry, Northern Ireland, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-07-21T11:33:50-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8456554002",
+     "titulo": "Field Sales Executive",
+     "url": "https://sumup.com/careers/positions/8456554002?gh_jid=8456554002",
+     "local": "Nottingham, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-03-10T07:27:14-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8456566002",
+     "titulo": "Field Sales Executive",
+     "url": "https://sumup.com/careers/positions/8456566002?gh_jid=8456566002",
+     "local": "Sheffield, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-03-10T07:27:15-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8209186002",
+     "titulo": "Field Sales Executive",
+     "url": "https://sumup.com/careers/positions/8209186002?gh_jid=8209186002",
+     "local": "Guildford, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2025-10-13T07:46:15-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8209216002",
+     "titulo": "Field Sales Executive",
+     "url": "https://sumup.com/careers/positions/8209216002?gh_jid=8209216002",
+     "local": "Northampton, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2025-10-13T08:17:02-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7810182002",
+     "titulo": "Field Sales Executive",
+     "url": "https://sumup.com/careers/positions/7810182002?gh_jid=7810182002",
+     "local": "Chelmsford, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2025-01-13T11:16:19-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8221929002",
+     "titulo": "Field Sales Executive",
+     "url": "https://sumup.com/careers/positions/8221929002?gh_jid=8221929002",
+     "local": "Hemel Hempstead, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2025-10-22T04:13:43-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8644570002",
+     "titulo": "Field Sales Executive",
+     "url": "https://sumup.com/careers/positions/8644570002?gh_jid=8644570002",
+     "local": "Redhill, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-07-22T07:47:56-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8209409002",
+     "titulo": "Field Sales Executive",
+     "url": "https://sumup.com/careers/positions/8209409002?gh_jid=8209409002",
+     "local": "Swansea, Wales, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2025-10-14T04:56:13-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8493810002",
+     "titulo": "Field Sales Executive",
+     "url": "https://sumup.com/careers/positions/8493810002?gh_jid=8493810002",
+     "local": "Oxford, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-04-03T13:36:54-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7810142002",
+     "titulo": "Field Sales Executive",
+     "url": "https://sumup.com/careers/positions/7810142002?gh_jid=7810142002",
+     "local": "Ipswich, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2025-01-13T11:09:52-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8209165002",
+     "titulo": "Field Sales Executive",
+     "url": "https://sumup.com/careers/positions/8209165002?gh_jid=8209165002",
+     "local": "Enfield, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2025-10-13T07:19:33-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7810136002",
+     "titulo": "Field Sales Executive",
+     "url": "https://sumup.com/careers/positions/7810136002?gh_jid=7810136002",
+     "local": "Peterborough, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2025-01-13T11:07:49-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7786771002",
+     "titulo": "Field Sales Executive",
+     "url": "https://sumup.com/careers/positions/7786771002?gh_jid=7786771002",
+     "local": "Colchester, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2025-01-13T11:03:27-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8381301002",
+     "titulo": "Field Sales Executive",
+     "url": "https://sumup.com/careers/positions/8381301002?gh_jid=8381301002",
+     "local": "Coventry, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-02-05T05:52:39-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7810159002",
+     "titulo": "Field Sales Executive",
+     "url": "https://sumup.com/careers/positions/7810159002?gh_jid=7810159002",
+     "local": "Southend-on-Sea, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2025-01-13T11:12:01-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "7810133002",
+     "titulo": "Field Sales Executive",
+     "url": "https://sumup.com/careers/positions/7810133002?gh_jid=7810133002",
+     "local": "Norwich, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2025-01-13T11:07:13-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8526376002",
+     "titulo": "Field Sales Executive",
+     "url": "https://sumup.com/careers/positions/8526376002?gh_jid=8526376002",
+     "local": "Cambridge, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-04-28T10:35:56-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8542561002",
+     "titulo": "Field Sales Executive",
+     "url": "https://sumup.com/careers/positions/8542561002?gh_jid=8542561002",
+     "local": "Worcester, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-05-11T05:14:13-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8456534002",
+     "titulo": "Field Sales Executive",
+     "url": "https://sumup.com/careers/positions/8456534002?gh_jid=8456534002",
+     "local": "York, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-03-10T07:27:10-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8456536002",
+     "titulo": "Field Sales Executive",
+     "url": "https://sumup.com/careers/positions/8456536002?gh_jid=8456536002",
+     "local": "Bradford, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-03-10T07:27:10-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8456541002",
+     "titulo": "Field Sales Executive",
+     "url": "https://sumup.com/careers/positions/8456541002?gh_jid=8456541002",
+     "local": "Derby, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-03-10T07:27:11-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8209162002",
+     "titulo": "Field Sales Executive",
+     "url": "https://sumup.com/careers/positions/8209162002?gh_jid=8209162002",
+     "local": "Luton, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2025-10-13T07:19:32-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8456531002",
+     "titulo": "Field Sales Executive",
+     "url": "https://sumup.com/careers/positions/8456531002?gh_jid=8456531002",
+     "local": "Leeds, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-03-10T07:27:09-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8456529002",
+     "titulo": "Field Sales Executive",
+     "url": "https://sumup.com/careers/positions/8456529002?gh_jid=8456529002",
+     "local": "Hull, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-03-10T07:27:08-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8905986002",
+     "titulo": "Field Sales Executive ",
+     "url": "https://sumup.com/careers/positions/8905986002?gh_jid=8905986002",
+     "local": "Durham, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-10-21T10:11:13-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8902360002",
+     "titulo": "Field Sales Executive ",
+     "url": "https://sumup.com/careers/positions/8902360002?gh_jid=8902360002",
+     "local": "Middlesbrough, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-10-21T10:07:41-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8905985002",
+     "titulo": "Field Sales Executive ",
+     "url": "https://sumup.com/careers/positions/8905985002?gh_jid=8905985002",
+     "local": "Newcastle upon Tyne, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-10-21T10:09:15-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8642839002",
+     "titulo": "Field Sales Executive ",
+     "url": "https://sumup.com/careers/positions/8642839002?gh_jid=8642839002",
+     "local": "Darlington, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-07-21T11:27:06-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8082105002",
+     "titulo": "Field Sales Manager (m/w/d)",
+     "url": "https://sumup.com/careers/positions/8082105002?gh_jid=8082105002",
+     "local": "Cologne, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2025-07-31T05:53:23-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8126118002",
+     "titulo": "Field Sales Manager (m/w/d)",
+     "url": "https://sumup.com/careers/positions/8126118002?gh_jid=8126118002",
+     "local": "Dortmund, North Rhine-Westphalia, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2025-08-19T11:47:45-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8317464002",
+     "titulo": "Field Sales Manager (m/w/d)",
+     "url": "https://sumup.com/careers/positions/8317464002?gh_jid=8317464002",
+     "local": "Aachen, North Rhine-Westphalia, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2025-12-02T11:19:36-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8331798002",
+     "titulo": "Field Sales Manager (m/w/d)",
+     "url": "https://sumup.com/careers/positions/8331798002?gh_jid=8331798002",
+     "local": "Duisburg, North Rhine-Westphalia, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2025-12-12T07:42:17-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8468108002",
+     "titulo": "Field Sales Manager (m/w/d)",
+     "url": "https://sumup.com/careers/positions/8468108002?gh_jid=8468108002",
+     "local": "Münster, North Rhine-Westphalia, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-03-18T12:13:28-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8082062002",
+     "titulo": "Field Sales Manager (m/w/d)",
+     "url": "https://sumup.com/careers/positions/8082062002?gh_jid=8082062002",
+     "local": "Düsseldorf, North Rhine-Westphalia, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2025-07-31T05:53:36-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8888671002",
+     "titulo": "Field Sales Regional Manager - Netherlands",
+     "url": "https://sumup.com/careers/positions/8888671002?gh_jid=8888671002",
+     "local": "Netherlands",
+     "pais": "Netherlands",
+     "remoto": false,
+     "publicada": "2026-10-19T09:25:31-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8905780002",
+     "titulo": "Field Sales Territory Manager",
+     "url": "https://sumup.com/careers/positions/8905780002?gh_jid=8905780002",
+     "local": "Tampere, Pirkanmaa, Finland",
+     "pais": "Finland",
+     "remoto": false,
+     "publicada": "2026-10-23T08:48:21-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8905804002",
+     "titulo": "Field Sales Territory Manager",
+     "url": "https://sumup.com/careers/positions/8905804002?gh_jid=8905804002",
+     "local": "Helsinki, Uusimaa, Finland",
+     "pais": "Finland",
+     "remoto": false,
+     "publicada": "2026-10-22T07:34:36-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8902104002",
+     "titulo": "Field Sales Territory Manager",
+     "url": "https://sumup.com/careers/positions/8902104002?gh_jid=8902104002",
+     "local": "Stockholm, Sweden",
+     "pais": "Sweden",
+     "remoto": false,
+     "publicada": "2026-10-20T06:53:50-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8372186002",
+     "titulo": "Field Sales Territory Manager - Calabria",
+     "url": "https://sumup.com/careers/positions/8372186002?gh_jid=8372186002",
+     "local": "Calabria, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-02-03T02:43:47-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8526256002",
+     "titulo": "Field Sales Territory Manager - South East & London South",
+     "url": "https://sumup.com/careers/positions/8526256002?gh_jid=8526256002",
+     "local": "London, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-04-28T09:10:27-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8682458002",
+     "titulo": "FP&A  Strategy Intern",
+     "url": "https://sumup.com/careers/positions/8682458002?gh_jid=8682458002",
+     "local": "Santiago, Chile; São Paulo, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-09-29T08:18:19-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8637134002",
+     "titulo": "Fraud Prevention Specialist",
+     "url": "https://sumup.com/careers/positions/8637134002?gh_jid=8637134002",
+     "local": "São Paulo, São Paulo, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-09-02T15:43:01-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8906107002",
+     "titulo": "Fraud Prevention Specialist",
+     "url": "https://sumup.com/careers/positions/8906107002?gh_jid=8906107002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-10-21T10:51:52-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8537346002",
+     "titulo": "Fraud Prevention Strategy Manager",
+     "url": "https://sumup.com/careers/positions/8537346002?gh_jid=8537346002",
+     "local": "São Paulo, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-05-27T15:59:08-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8597489002",
+     "titulo": "Fullstack Engineer - Bank",
+     "url": "https://sumup.com/careers/positions/8597489002?gh_jid=8597489002",
+     "local": "Sofia, Bulgaria",
+     "pais": "Bulgaria",
+     "remoto": false,
+     "publicada": "2026-06-17T15:34:56-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8437657002",
+     "titulo": "Global Head of Accounting",
+     "url": "https://sumup.com/careers/positions/8437657002?gh_jid=8437657002",
+     "local": "Sofia, Bulgaria",
+     "pais": "Bulgaria",
+     "remoto": false,
+     "publicada": "2026-03-05T05:03:46-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8888591002",
+     "titulo": " Global KYC Lead",
+     "url": "https://sumup.com/careers/positions/8888591002?gh_jid=8888591002",
+     "local": "London, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-10-14T12:13:25-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8842493002",
+     "titulo": "Global KYC Lead",
+     "url": "https://sumup.com/careers/positions/8842493002?gh_jid=8842493002",
+     "local": "Cologne, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-09-24T10:50:03-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8773691002",
+     "titulo": "Global KYC Lead",
+     "url": "https://sumup.com/careers/positions/8773691002?gh_jid=8773691002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-09-09T10:00:41-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8888110002",
+     "titulo": "Global Process Owner - FGL",
+     "url": "https://sumup.com/careers/positions/8888110002?gh_jid=8888110002",
+     "local": "Sofia, Bulgaria",
+     "pais": "Bulgaria",
+     "remoto": false,
+     "publicada": "2026-10-19T10:46:48-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8729789002",
+     "titulo": "Group Financial Controller – Legal Entities & Statutory Reporting",
+     "url": "https://sumup.com/careers/positions/8729789002?gh_jid=8729789002",
+     "local": "Sofia, Bulgaria",
+     "pais": "Bulgaria",
+     "remoto": false,
+     "publicada": "2026-09-01T07:08:59-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8805796002",
+     "titulo": "Growth Marketing Manager, Credit Products",
+     "url": "https://sumup.com/careers/positions/8805796002?gh_jid=8805796002",
+     "local": "São Paulo, São Paulo, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-09-14T09:40:22-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8907474002",
+     "titulo": "Head of Direct Sales Excellence (1 Year FTC) ",
+     "url": "https://sumup.com/careers/positions/8907474002?gh_jid=8907474002",
+     "local": "London, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-10-23T09:34:36-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8885084002",
+     "titulo": "Head of Pricing & Monetisation",
+     "url": "https://sumup.com/careers/positions/8885084002?gh_jid=8885084002",
+     "local": "London, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-10-13T07:50:21-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8885083002",
+     "titulo": "Head of Pricing & Monetisation",
+     "url": "https://sumup.com/careers/positions/8885083002?gh_jid=8885083002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-10-13T07:50:24-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8811363002",
+     "titulo": "Head of Regional Field Sales - Spain and Portugal",
+     "url": "https://sumup.com/careers/positions/8811363002?gh_jid=8811363002",
+     "local": "Barcelona, Barcelona, Spain",
+     "pais": "Spain",
+     "remoto": false,
+     "publicada": "2026-09-22T04:49:13-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8066192002",
+     "titulo": "Independent Sales Agents (ISA) -Merchant Services across the  US",
+     "url": "https://sumup.com/careers/positions/8066192002?gh_jid=8066192002",
+     "local": "Arizona, United States; Atlanta, Georgia, United States; Colorado, United States; District of Columbia, United States; Florida, United States; Georgia, United States; Illinois, United States; Indiana, United States; Kansas, United States; Louisiana, United States; Michigan, United States; Minneapolis, Minnesota, United States; Missouri, United States; Nevada, United States; New Mexico, United States; North Carolina, United States; Ohio, United States; Oklahoma, United States; Oregon, United States; Pennsylvania, United States; South Carolina, United States; Tennessee, United States; Texas, United States; Utah, United States; Virginia, United States; Washington, United States; Wisconsin, United States",
+     "pais": "United States",
+     "remoto": false,
+     "publicada": "2025-07-13T13:00:55-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8644927002",
+     "titulo": "Information Security Architect",
+     "url": "https://sumup.com/careers/positions/8644927002?gh_jid=8644927002",
+     "local": "Sofia, Bulgaria",
+     "pais": "Bulgaria",
+     "remoto": false,
+     "publicada": "2026-09-21T04:41:37-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8348936002",
+     "titulo": "iOS Engineer",
+     "url": "https://sumup.com/careers/positions/8348936002?gh_jid=8348936002",
+     "local": "São Paulo, São Paulo, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-09-15T14:00:55-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8426778002",
+     "titulo": "iOS Engineer - Design System",
+     "url": "https://sumup.com/careers/positions/8426778002?gh_jid=8426778002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-02-18T08:09:09-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8874495002",
+     "titulo": "Iskusni terenski prodajni savjetnik",
+     "url": "https://sumup.com/careers/positions/8874495002?gh_jid=8874495002",
+     "local": "Zagreb, Croatia",
+     "pais": "Croatia",
+     "remoto": false,
+     "publicada": "2026-10-07T09:28:27-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8367797002",
+     "titulo": "Junior Account Manager (SM) - German",
+     "url": "https://sumup.com/careers/positions/8367797002?gh_jid=8367797002",
+     "local": "Barcelona, Barcelona, Spain",
+     "pais": "Spain",
+     "remoto": false,
+     "publicada": "2026-01-12T10:46:16-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8697956002",
+     "titulo": "Junior Credit Management Analyst w/ French",
+     "url": "https://sumup.com/careers/positions/8697956002?gh_jid=8697956002",
+     "local": "Barcelona, Barcelona, Spain",
+     "pais": "Spain",
+     "remoto": false,
+     "publicada": "2026-08-25T11:20:52-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8697959002",
+     "titulo": "Junior Credit Management Analyst w/ Italian",
+     "url": "https://sumup.com/careers/positions/8697959002?gh_jid=8697959002",
+     "local": "Milan, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-08-25T08:48:17-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8376247002",
+     "titulo": "Junior Early lifecycle Specialist - French",
+     "url": "https://sumup.com/careers/positions/8376247002?gh_jid=8376247002",
+     "local": "Barcelona, Barcelona, Spain",
+     "pais": "Spain",
+     "remoto": false,
+     "publicada": "2026-01-26T08:51:00-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8820269002",
+     "titulo": "Junior Sales Development Representative (m/w/d)",
+     "url": "https://sumup.com/careers/positions/8820269002?gh_jid=8820269002",
+     "local": "Cologne, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-09-18T07:55:17-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8874525002",
+     "titulo": "Kokenut kenttämyyjä",
+     "url": "https://sumup.com/careers/positions/8874525002?gh_jid=8874525002",
+     "local": "Helsinki, Uusimaa, Finland",
+     "pais": "Finland",
+     "remoto": false,
+     "publicada": "2026-10-07T10:41:43-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8769011002",
+     "titulo": "KYC EDD Operations Agent (German)",
+     "url": "https://sumup.com/careers/positions/8769011002?gh_jid=8769011002",
+     "local": "Sofia, Bulgaria",
+     "pais": "Bulgaria",
+     "remoto": false,
+     "publicada": "2026-09-16T09:58:35-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8658514002",
+     "titulo": "KYC Operations Agent with Dutch",
+     "url": "https://sumup.com/careers/positions/8658514002?gh_jid=8658514002",
+     "local": "Sofia, Bulgaria",
+     "pais": "Bulgaria",
+     "remoto": false,
+     "publicada": "2026-08-03T09:11:20-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8859748002",
+     "titulo": "KYC Operations Agent with German",
+     "url": "https://sumup.com/careers/positions/8859748002?gh_jid=8859748002",
+     "local": "Sofia, Bulgaria",
+     "pais": "Bulgaria",
+     "remoto": false,
+     "publicada": "2026-10-12T11:43:49-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8842345002",
+     "titulo": "Líder de Parcerias e Integrações",
+     "url": "https://sumup.com/careers/positions/8842345002?gh_jid=8842345002",
+     "local": "São Paulo, São Paulo, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-10-01T11:47:55-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8630991002",
+     "titulo": "Marketing Designer for CRM",
+     "url": "https://sumup.com/careers/positions/8630991002?gh_jid=8630991002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-08-04T04:09:46-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8871255002",
+     "titulo": "Merchant Security Expert with Dutch and English",
+     "url": "https://sumup.com/careers/positions/8871255002?gh_jid=8871255002",
+     "local": "Sofia, Bulgaria",
+     "pais": "Bulgaria",
+     "remoto": false,
+     "publicada": "2026-10-07T11:14:08-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8636867002",
+     "titulo": "Merchant Security Expert with German and English",
+     "url": "https://sumup.com/careers/positions/8636867002?gh_jid=8636867002",
+     "local": "Sofia, Bulgaria",
+     "pais": "Bulgaria",
+     "remoto": false,
+     "publicada": "2026-07-17T05:21:58-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8773686002",
+     "titulo": "People Operations Agent ",
+     "url": "https://sumup.com/careers/positions/8773686002?gh_jid=8773686002",
+     "local": "Santiago, Chile",
+     "pais": "Chile",
+     "remoto": false,
+     "publicada": "2026-10-21T12:27:07-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8737288002",
+     "titulo": "People Operations & Payroll (Working Student)",
+     "url": "https://sumup.com/careers/positions/8737288002?gh_jid=8737288002",
+     "local": "Paris, Paris, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2026-08-26T08:37:56-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8727427002",
+     "titulo": "Performance Marketing Working Student – Talent Acquisition ",
+     "url": "https://sumup.com/careers/positions/8727427002?gh_jid=8727427002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-09-10T08:15:41-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8891801002",
+     "titulo": " Pessoa Executivo(a) de Vendas - Andradina- SP",
+     "url": "https://sumup.com/careers/positions/8891801002?gh_jid=8891801002",
+     "local": "Araçatuba, São Paulo, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-10-15T10:55:51-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8858960002",
+     "titulo": "Pessoa Executivo(a) de Vendas - Araçatuba- SP",
+     "url": "https://sumup.com/careers/positions/8858960002?gh_jid=8858960002",
+     "local": "Araçatuba, São Paulo, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-10-01T15:43:50-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8875122002",
+     "titulo": "Pessoa Executivo(a) de Vendas - Marília- SP",
+     "url": "https://sumup.com/careers/positions/8875122002?gh_jid=8875122002",
+     "local": "São Paulo, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-10-07T15:31:12-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8858941002",
+     "titulo": "Pessoa Executivo(a) de Vendas - Salvador - BA",
+     "url": "https://sumup.com/careers/positions/8858941002?gh_jid=8858941002",
+     "local": "Salvador, Bahia, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-10-01T15:43:29-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8784024002",
+     "titulo": "Pessoa Executivo(a) de Vendas - São José do Rio Preto - SP",
+     "url": "https://sumup.com/careers/positions/8784024002?gh_jid=8784024002",
+     "local": "São José do Rio Preto, São Paulo, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-10-05T09:36:23-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8637379002",
+     "titulo": "Product Operations Specialist",
+     "url": "https://sumup.com/careers/positions/8637379002?gh_jid=8637379002",
+     "local": "São Paulo, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-08-03T07:52:16-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8789432002",
+     "titulo": "Record to Report Team Leader",
+     "url": "https://sumup.com/careers/positions/8789432002?gh_jid=8789432002",
+     "local": "Sofia, Bulgaria",
+     "pais": "Bulgaria",
+     "remoto": false,
+     "publicada": "2026-10-02T06:07:06-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8852097002",
+     "titulo": "Refer Someone Today For Germany!",
+     "url": "https://sumup.com/careers/positions/8852097002?gh_jid=8852097002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-09-28T10:33:11-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8537093002",
+     "titulo": "Regional Head of Key Account Sales",
+     "url": "https://sumup.com/careers/positions/8537093002?gh_jid=8537093002",
+     "local": "London, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-05-15T09:00:52-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8784570002",
+     "titulo": "Revenue Operations Specialist - Boulder, Colorado",
+     "url": "https://sumup.com/careers/positions/8784570002?gh_jid=8784570002",
+     "local": "Boulder, Colorado, United States",
+     "pais": "United States",
+     "remoto": false,
+     "publicada": "2026-09-04T15:51:32-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8508086002",
+     "titulo": "Sales Development Representative - Finland",
+     "url": "https://sumup.com/careers/positions/8508086002?gh_jid=8508086002",
+     "local": "Barcelona, Barcelona, Spain",
+     "pais": "Spain",
+     "remoto": false,
+     "publicada": "2026-07-06T11:18:49-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8097283002",
+     "titulo": "Sales Development Representative - UK Market",
+     "url": "https://sumup.com/careers/positions/8097283002?gh_jid=8097283002",
+     "local": "Barcelona, Barcelona, Spain",
+     "pais": "Spain",
+     "remoto": false,
+     "publicada": "2025-07-31T06:26:10-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8605639002",
+     "titulo": "Sales Executive Medium Merchant",
+     "url": "https://sumup.com/careers/positions/8605639002?gh_jid=8605639002",
+     "local": "Santiago, Chile",
+     "pais": "Chile",
+     "remoto": false,
+     "publicada": "2026-07-07T12:34:45-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8691015002",
+     "titulo": "Sales Trainer - Inside Sales & Account Management",
+     "url": "https://sumup.com/careers/positions/8691015002?gh_jid=8691015002",
+     "local": "Barcelona, Barcelona, Spain",
+     "pais": "Spain",
+     "remoto": false,
+     "publicada": "2026-10-01T16:37:51-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8862944002",
+     "titulo": "Sales Trainer - Inside Sales & Account Management (Fixed term)",
+     "url": "https://sumup.com/careers/positions/8862944002?gh_jid=8862944002",
+     "local": "Milan, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-10-02T04:17:55-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8855506002",
+     "titulo": "Senior AML Investigator (Maternity Cover)",
+     "url": "https://sumup.com/careers/positions/8855506002?gh_jid=8855506002",
+     "local": "Vilnius, Lithuania",
+     "pais": "Lithuania",
+     "remoto": false,
+     "publicada": "2026-10-01T05:25:29-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8794602002",
+     "titulo": "Senior Android Engineer- Hardware",
+     "url": "https://sumup.com/careers/positions/8794602002?gh_jid=8794602002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-09-22T11:53:21-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8003469002",
+     "titulo": "Senior Android Engineer - KMP",
+     "url": "https://sumup.com/careers/positions/8003469002?gh_jid=8003469002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2025-11-12T08:57:28-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8586092002",
+     "titulo": "Senior Backend Engineer",
+     "url": "https://sumup.com/careers/positions/8586092002?gh_jid=8586092002",
+     "local": "Florianópolis, Santa Catarina, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-06-10T12:54:50-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8508079002",
+     "titulo": "Senior Backend Engineer - Bookings",
+     "url": "https://sumup.com/careers/positions/8508079002?gh_jid=8508079002",
+     "local": "Warsaw, Poland; Warszawa, Masovian Voivodeship, Poland",
+     "pais": "Poland",
+     "remoto": false,
+     "publicada": "2026-05-13T08:48:57-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8785374002",
+     "titulo": "(Senior) Backend Engineer (Golang) - Bank",
+     "url": "https://sumup.com/careers/positions/8785374002?gh_jid=8785374002",
+     "local": "Vilnius, Lithuania",
+     "pais": "Lithuania",
+     "remoto": false,
+     "publicada": "2026-09-07T11:05:56-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8785333002",
+     "titulo": "Senior Backend Engineer (Golang) - Bank Balance",
+     "url": "https://sumup.com/careers/positions/8785333002?gh_jid=8785333002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-09-07T10:38:30-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8827465002",
+     "titulo": "Senior Backend Engineer (Golang) - Payments Infrastructure",
+     "url": "https://sumup.com/careers/positions/8827465002?gh_jid=8827465002",
+     "local": "Sofia, Bulgaria",
+     "pais": "Bulgaria",
+     "remoto": false,
+     "publicada": "2026-09-21T11:18:53-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8659018002",
+     "titulo": "Senior Backend Engineer - Identity Lifecycle",
+     "url": "https://sumup.com/careers/positions/8659018002?gh_jid=8659018002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-09-01T10:54:02-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8881640002",
+     "titulo": "Senior Backend Engineer (Kotlin) - Cards",
+     "url": "https://sumup.com/careers/positions/8881640002?gh_jid=8881640002",
+     "local": "Sofia, Bulgaria",
+     "pais": "Bulgaria",
+     "remoto": false,
+     "publicada": "2026-10-09T12:01:26-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8644922002",
+     "titulo": "Senior Backend Engineer - MarTech",
+     "url": "https://sumup.com/careers/positions/8644922002?gh_jid=8644922002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-08-19T05:06:27-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8860089002",
+     "titulo": "Senior Business Analyst (Reconciliation)",
+     "url": "https://sumup.com/careers/positions/8860089002?gh_jid=8860089002",
+     "local": "São Paulo, São Paulo, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-10-21T10:25:53-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8690955002",
+     "titulo": "Senior Commercial Finance Business Partner",
+     "url": "https://sumup.com/careers/positions/8690955002?gh_jid=8690955002",
+     "local": "London, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-08-14T05:01:52-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8745560002",
+     "titulo": "Senior Commercial Finance Business Partner",
+     "url": "https://sumup.com/careers/positions/8745560002?gh_jid=8745560002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-08-25T06:19:16-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8729788002",
+     "titulo": "Senior CRM Administrator",
+     "url": "https://sumup.com/careers/positions/8729788002?gh_jid=8729788002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-10-07T10:05:45-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8732398002",
+     "titulo": "Senior Data Scientist/ML Engineer - Financial Crime",
+     "url": "https://sumup.com/careers/positions/8732398002?gh_jid=8732398002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-08-20T03:09:41-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8726158002",
+     "titulo": " Senior DevOps Engineer",
+     "url": "https://sumup.com/careers/positions/8726158002?gh_jid=8726158002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-08-18T11:16:29-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8658154002",
+     "titulo": "Senior Embedded Software Engineer- Hardware",
+     "url": "https://sumup.com/careers/positions/8658154002?gh_jid=8658154002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-09-04T09:39:39-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8729773002",
+     "titulo": "​​Senior Financial Analyst – Revenue Streams",
+     "url": "https://sumup.com/careers/positions/8729773002?gh_jid=8729773002",
+     "local": "Sofia, Bulgaria",
+     "pais": "Bulgaria",
+     "remoto": false,
+     "publicada": "2026-09-09T10:06:44-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8773687002",
+     "titulo": "Senior Fullstack Engineer - Localization",
+     "url": "https://sumup.com/careers/positions/8773687002?gh_jid=8773687002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-09-11T13:37:46-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8842381002",
+     "titulo": "Senior General Ledger Accountant",
+     "url": "https://sumup.com/careers/positions/8842381002?gh_jid=8842381002",
+     "local": "Sofia, Bulgaria",
+     "pais": "Bulgaria",
+     "remoto": false,
+     "publicada": "2026-10-07T03:20:38-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8871077002",
+     "titulo": "Senior Hardware Engineer",
+     "url": "https://sumup.com/careers/positions/8871077002?gh_jid=8871077002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-10-22T10:11:46-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8726270002",
+     "titulo": "Senior Internal Auditor ",
+     "url": "https://sumup.com/careers/positions/8726270002?gh_jid=8726270002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-08-18T11:34:58-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8646778002",
+     "titulo": "Senior Internal Auditor ",
+     "url": "https://sumup.com/careers/positions/8646778002?gh_jid=8646778002",
+     "local": "London, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-07-23T03:45:32-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8773681002",
+     "titulo": "Senior iOS Engineer (KMP) - POS",
+     "url": "https://sumup.com/careers/positions/8773681002?gh_jid=8773681002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-10-02T03:48:35-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8862799002",
+     "titulo": "Senior iOS Engineer (KMP) - POS",
+     "url": "https://sumup.com/careers/positions/8862799002?gh_jid=8862799002",
+     "local": "Paris, Paris, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2026-10-02T03:55:47-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8401895002",
+     "titulo": "Senior IT Internal Auditor ",
+     "url": "https://sumup.com/careers/positions/8401895002?gh_jid=8401895002",
+     "local": "Dublin, Dublin, Ireland",
+     "pais": "Ireland",
+     "remoto": false,
+     "publicada": "2026-02-03T10:19:51-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8712443002",
+     "titulo": "Senior Machine Learning Engineer - Platform Team",
+     "url": "https://sumup.com/careers/positions/8712443002?gh_jid=8712443002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-10-01T04:50:42-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8909054002",
+     "titulo": "Senior Manager Tax Planning & Strategy",
+     "url": "https://sumup.com/careers/positions/8909054002?gh_jid=8909054002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-10-22T12:19:36-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8585779002",
+     "titulo": "Senior Manager Tax Planning & Strategy",
+     "url": "https://sumup.com/careers/positions/8585779002?gh_jid=8585779002",
+     "local": "Sofia, Bulgaria",
+     "pais": "Bulgaria",
+     "remoto": false,
+     "publicada": "2026-06-17T11:40:37-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8909052002",
+     "titulo": "Senior Manager Tax Planning & Strategy",
+     "url": "https://sumup.com/careers/positions/8909052002?gh_jid=8909052002",
+     "local": "Dublin, Dublin, Ireland",
+     "pais": "Ireland",
+     "remoto": false,
+     "publicada": "2026-10-22T12:19:00-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8690954002",
+     "titulo": "Senior Marketing Manager - B2C ",
+     "url": "https://sumup.com/careers/positions/8690954002?gh_jid=8690954002",
+     "local": "London, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-08-10T09:34:44-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8520784002",
+     "titulo": "(Senior/Mid) Software Engineer, Golang - Payments Platform",
+     "url": "https://sumup.com/careers/positions/8520784002?gh_jid=8520784002",
+     "local": "Sofia, Bulgaria",
+     "pais": "Bulgaria",
+     "remoto": false,
+     "publicada": "2026-04-23T10:50:41-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8888597002",
+     "titulo": "(Senior) People Development Partner",
+     "url": "https://sumup.com/careers/positions/8888597002?gh_jid=8888597002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-10-21T04:28:56-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8656544002",
+     "titulo": "Senior Platform Engineer",
+     "url": "https://sumup.com/careers/positions/8656544002?gh_jid=8656544002",
+     "local": "Boulder, Colorado, United States",
+     "pais": "United States",
+     "remoto": false,
+     "publicada": "2026-07-29T12:33:09-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8458941002",
+     "titulo": "Senior Product Data Analyst- Consumer Growth",
+     "url": "https://sumup.com/careers/positions/8458941002?gh_jid=8458941002",
+     "local": "London, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-05-21T07:24:28-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8427124002",
+     "titulo": "Senior Product Designer",
+     "url": "https://sumup.com/careers/positions/8427124002?gh_jid=8427124002",
+     "local": "London, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-04-08T18:06:52-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8637380002",
+     "titulo": "Senior Product Designer - POS",
+     "url": "https://sumup.com/careers/positions/8637380002?gh_jid=8637380002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-07-27T04:09:12-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8768452002",
+     "titulo": "Senior Product Designer - Sell Online",
+     "url": "https://sumup.com/careers/positions/8768452002?gh_jid=8768452002",
+     "local": "Warsaw, Poland",
+     "pais": "Poland",
+     "remoto": false,
+     "publicada": "2026-09-01T03:14:49-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8644926002",
+     "titulo": "Senior Product Designer - Sell Online",
+     "url": "https://sumup.com/careers/positions/8644926002?gh_jid=8644926002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-08-04T06:12:31-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8821322002",
+     "titulo": "Senior Product Manager - Consumer Lifecycle ",
+     "url": "https://sumup.com/careers/positions/8821322002?gh_jid=8821322002",
+     "local": "London, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-09-27T03:54:07-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8602383002",
+     "titulo": "Senior Product Manager - SuperApp",
+     "url": "https://sumup.com/careers/positions/8602383002?gh_jid=8602383002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-06-30T04:36:25-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8907478002",
+     "titulo": "(Senior) Sales Operations Manager",
+     "url": "https://sumup.com/careers/positions/8907478002?gh_jid=8907478002",
+     "local": "London, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-10-22T09:18:50-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8821321002",
+     "titulo": "Senior Security Assurance Specialist",
+     "url": "https://sumup.com/careers/positions/8821321002?gh_jid=8821321002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-09-30T07:48:04-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8690946002",
+     "titulo": "Senior Software Engineer",
+     "url": "https://sumup.com/careers/positions/8690946002?gh_jid=8690946002",
+     "local": "Florianópolis, Santa Catarina, Brazil; São Paulo, São Paulo, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-10-21T16:11:53-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8749656002",
+     "titulo": "Senior Software Engineer (Golang) – Pricing Domain",
+     "url": "https://sumup.com/careers/positions/8749656002?gh_jid=8749656002",
+     "local": "Sofia, Bulgaria",
+     "pais": "Bulgaria",
+     "remoto": false,
+     "publicada": "2026-08-26T04:01:45-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8769169002",
+     "titulo": "Senior Software Engineer (Lending Team)",
+     "url": "https://sumup.com/careers/positions/8769169002?gh_jid=8769169002",
+     "local": "São Paulo, São Paulo, Brazil",
+     "pais": "Brazil",
+     "remoto": false,
+     "publicada": "2026-09-01T10:38:50-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8596621002",
+     "titulo": "Senior Tax Accountant ",
+     "url": "https://sumup.com/careers/positions/8596621002?gh_jid=8596621002",
+     "local": "Sofia, Bulgaria",
+     "pais": "Bulgaria",
+     "remoto": false,
+     "publicada": "2026-06-17T11:41:31-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8576660002",
+     "titulo": "Senior Tax Specialist ",
+     "url": "https://sumup.com/careers/positions/8576660002?gh_jid=8576660002",
+     "local": "Sofia, Bulgaria",
+     "pais": "Bulgaria",
+     "remoto": false,
+     "publicada": "2026-06-09T11:02:20-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8888598002",
+     "titulo": "Senior Trade Marketing Manager - Italy",
+     "url": "https://sumup.com/careers/positions/8888598002?gh_jid=8888598002",
+     "local": "Milan, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-10-16T06:38:14-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8343751002",
+     "titulo": "Software Engineer Java - Payouts Platform",
+     "url": "https://sumup.com/careers/positions/8343751002?gh_jid=8343751002",
+     "local": "Sofia, Bulgaria",
+     "pais": "Bulgaria",
+     "remoto": false,
+     "publicada": "2025-12-17T12:10:50-05:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8905233002",
+     "titulo": "Strategic Sourcing Manager- Hardware",
+     "url": "https://sumup.com/careers/positions/8905233002?gh_jid=8905233002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-10-23T12:23:02-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8511845002",
+     "titulo": "Subgerente de Ventas Directa (Terreno)",
+     "url": "https://sumup.com/careers/positions/8511845002?gh_jid=8511845002",
+     "local": "Santiago, Chile",
+     "pais": "Chile",
+     "remoto": false,
+     "publicada": "2026-04-23T14:25:07-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8695822002",
+     "titulo": "Tax Accountant ",
+     "url": "https://sumup.com/careers/positions/8695822002?gh_jid=8695822002",
+     "local": "Sofia, Bulgaria",
+     "pais": "Bulgaria",
+     "remoto": false,
+     "publicada": "2026-08-11T05:00:03-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8520357002",
+     "titulo": "Team Lead Account Manager  - English ",
+     "url": "https://sumup.com/careers/positions/8520357002?gh_jid=8520357002",
+     "local": "Barcelona, Barcelona, Spain",
+     "pais": "Spain",
+     "remoto": false,
+     "publicada": "2026-04-23T12:24:20-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8505871002",
+     "titulo": "Team Lead Account Manager - French",
+     "url": "https://sumup.com/careers/positions/8505871002?gh_jid=8505871002",
+     "local": "Barcelona, Barcelona, Spain",
+     "pais": "Spain",
+     "remoto": false,
+     "publicada": "2026-04-23T12:25:08-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8520346002",
+     "titulo": "Team Lead Account Manager - German Market",
+     "url": "https://sumup.com/careers/positions/8520346002?gh_jid=8520346002",
+     "local": "Barcelona, Barcelona, Spain",
+     "pais": "Spain",
+     "remoto": false,
+     "publicada": "2026-04-23T12:23:16-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8726199002",
+     "titulo": "Territory Manager ",
+     "url": "https://sumup.com/careers/positions/8726199002?gh_jid=8726199002",
+     "local": "Toulouse, Haute-Garonne, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2026-08-27T03:43:42-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8907455002",
+     "titulo": "Territory Manager – Field Sales",
+     "url": "https://sumup.com/careers/positions/8907455002?gh_jid=8907455002",
+     "local": "Luxembourg, Luxembourg, Luxembourg",
+     "pais": "Luxembourg",
+     "remoto": false,
+     "publicada": "2026-10-22T09:41:22-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8910818002",
+     "titulo": "Territory Manager -  French Riviera",
+     "url": "https://sumup.com/careers/positions/8910818002?gh_jid=8910818002",
+     "local": "Paris, Paris, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2026-10-23T04:30:16-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8888376002",
+     "titulo": "Territory Manager Lille",
+     "url": "https://sumup.com/careers/positions/8888376002?gh_jid=8888376002",
+     "local": "Lille, Nord, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2026-10-14T11:34:34-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8910815002",
+     "titulo": "Territory manager - Lyon",
+     "url": "https://sumup.com/careers/positions/8910815002?gh_jid=8910815002",
+     "local": "Paris, Paris, France",
+     "pais": "France",
+     "remoto": false,
+     "publicada": "2026-10-23T04:21:23-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8192637002",
+     "titulo": "Territory Sales Manager ",
+     "url": "https://sumup.com/careers/positions/8192637002?gh_jid=8192637002",
+     "local": "Copenhagen, Denmark",
+     "pais": "Denmark",
+     "remoto": false,
+     "publicada": "2025-10-13T05:57:34-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8794670002",
+     "titulo": "VP Customer Success Management",
+     "url": "https://sumup.com/careers/positions/8794670002?gh_jid=8794670002",
+     "local": "Barcelona, Barcelona, Spain",
+     "pais": "Spain",
+     "remoto": false,
+     "publicada": "2026-09-10T08:51:46-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8547634002",
+     "titulo": "Workday Specialist",
+     "url": "https://sumup.com/careers/positions/8547634002?gh_jid=8547634002",
+     "local": "Barcelona, Barcelona, Spain",
+     "pais": "Spain",
+     "remoto": false,
+     "publicada": "2026-05-13T10:39:15-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8547633002",
+     "titulo": "Workday Specialist",
+     "url": "https://sumup.com/careers/positions/8547633002?gh_jid=8547633002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-05-13T10:38:36-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8558369002",
+     "titulo": "Workday Specialist",
+     "url": "https://sumup.com/careers/positions/8558369002?gh_jid=8558369002",
+     "local": "London, England, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-05-20T13:23:44-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8858309002",
+     "titulo": "Workday Specialist",
+     "url": "https://sumup.com/careers/positions/8858309002?gh_jid=8858309002",
+     "local": "Warsaw, Poland",
+     "pais": "Poland",
+     "remoto": false,
+     "publicada": "2026-09-30T11:46:30-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8881395002",
+     "titulo": "Working Student - Executive Talent Sourcing",
+     "url": "https://sumup.com/careers/positions/8881395002?gh_jid=8881395002",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "remoto": false,
+     "publicada": "2026-10-09T09:24:32-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8291314002",
+     "titulo": "Опитен консултант по продажби на терен",
+     "url": "https://sumup.com/careers/positions/8291314002?gh_jid=8291314002",
+     "local": "Sofia, Bulgaria",
+     "pais": "Bulgaria",
+     "remoto": false,
+     "publicada": "2026-06-03T08:16:33-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8874535002",
+     "titulo": "Опитен консултант по продажби на терен",
+     "url": "https://sumup.com/careers/positions/8874535002?gh_jid=8874535002",
+     "local": "Sofia, Bulgaria",
+     "pais": "Bulgaria",
+     "remoto": false,
+     "publicada": "2026-10-07T08:58:21-04:00",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    }
+   ]
+  },
+  {
+   "nome": "Pipedrive",
+   "sector": "Tecnologia",
+   "vagas": [
+    {
+     "id": "27906eb6-51df-4dbc-a860-72e911bdd2c8",
+     "titulo": "Principal AI/ML Scientist & Engineer",
+     "url": "https://jobs.lever.co/pipedrive/27906eb6-51df-4dbc-a860-72e911bdd2c8",
+     "equipa": "ML & Data Science",
+     "local": "Portugal, Lisbon / Portugal, Lisbon",
+     "pais": "Portugal",
+     "remoto": false,
+     "publicada": "2026-04-16T07:17:11.956Z",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "4dbe8cb4-cce6-4091-899e-04f69d4dbaae",
+     "titulo": "Principal AI/ML Scientist & Engineer",
+     "url": "https://jobs.lever.co/pipedrive/4dbe8cb4-cce6-4091-899e-04f69d4dbaae",
+     "equipa": "ML & Data Science",
+     "local": "Germany, Berlin / Germany, Berlin",
+     "pais": "Berlin",
+     "remoto": false,
+     "publicada": "2026-01-20T11:38:35.026Z",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "88c70b1e-26dd-4c55-9436-9363a6f87b2c",
+     "titulo": "Principal AI/ML Scientist & Engineer",
+     "url": "https://jobs.lever.co/pipedrive/88c70b1e-26dd-4c55-9436-9363a6f87b2c",
+     "equipa": "ML & Data Science",
+     "local": "UK, London / UK, London",
+     "pais": "London",
+     "remoto": false,
+     "publicada": "2026-04-16T07:18:48.459Z",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "a6488b4b-c09b-4daa-b7d5-2270335dac35",
+     "titulo": "Principal AI/ML Scientist & Engineer",
+     "url": "https://jobs.lever.co/pipedrive/a6488b4b-c09b-4daa-b7d5-2270335dac35",
+     "equipa": "ML & Data Science",
+     "local": "Ireland, Dublin / Ireland, Dublin",
+     "pais": "Dublin",
+     "remoto": false,
+     "publicada": "2026-07-20T08:45:49.698Z",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "bfaffe50-ecc7-42c6-8c88-996d920d60df",
+     "titulo": "Principal AI/ML Scientist & Engineer",
+     "url": "https://jobs.lever.co/pipedrive/bfaffe50-ecc7-42c6-8c88-996d920d60df",
+     "equipa": "ML & Data Science",
+     "local": "Estonia, Tallinn / Estonia, Tallinn",
+     "pais": "Tallinn",
+     "remoto": false,
+     "publicada": "2026-04-16T07:19:43.728Z",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "04a0b763-5d9e-4ff4-9ee0-dc6fbc29a2d8",
+     "titulo": "Principal Security Engineer",
+     "url": "https://jobs.lever.co/pipedrive/04a0b763-5d9e-4ff4-9ee0-dc6fbc29a2d8",
+     "equipa": "Security",
+     "local": "Estonia, Tallinn / Estonia, Tallinn",
+     "pais": "Tallinn",
+     "remoto": false,
+     "publicada": "2026-05-04T07:55:57.715Z",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "54fb52bb-95f1-49a4-b3c0-68b42f2d69ce",
+     "titulo": "Principal Security Engineer",
+     "url": "https://jobs.lever.co/pipedrive/54fb52bb-95f1-49a4-b3c0-68b42f2d69ce",
+     "equipa": "Security",
+     "local": "UK, London / UK, London",
+     "pais": "London",
+     "remoto": false,
+     "publicada": "2026-05-04T07:54:37.542Z",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
+    },
+    {
+     "id": "8cec2e9a-e52e-4000-9dc5-4d6e6daf544a",
+     "titulo": "Principal Security Engineer",
+     "url": "https://jobs.lever.co/pipedrive/8cec2e9a-e52e-4000-9dc5-4d6e6daf544a",
+     "equipa": "Security",
+     "local": "Germany, Berlin / Germany, Berlin",
+     "pais": "Berlin",
+     "remoto": false,
+     "publicada": "2026-05-04T07:56:44.806Z",
+     "vistaEm": "2026-10-25T18:52:52.736Z"
     }
    ]
   }

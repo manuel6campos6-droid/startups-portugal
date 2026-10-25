@@ -866,7 +866,7 @@ function mudarParte(p) {
   document.querySelector('.faixa').classList.toggle('so-numeros', s);
   $('t-h1').replaceChildren('Radar de ', el('em', { textContent: s ? 'Scaleups' : 'Startups' }));
   $('t-p').textContent = s
-    ? `Vagas de ${new Set(scale.map((v) => v.empresa)).size || 'várias'} multinacionais e scaleups que qualquer investidor reconhece: Bolt, Glovo, Farfetch, Sword Health, Stripe, Spotify e outras. Actualizadas todas as manhãs.`
+    ? `Vagas de ${new Set(scale.map((v) => v.empresa)).size || 'várias'} multinacionais e scaleups que qualquer investidor reconhece: Bolt, Glovo, Farfetch, Sword Health, Mollie, SumUp, Stripe, Spotify e outras. Actualizadas todas as manhãs.`
     : 'Startups certificadas pelo Startup Portugal, o portefólio da Unicorn Factory Lisboa, as empresas em que os principais VCs portugueses investem e os search funds à procura de uma empresa para comprar.';
   const data = s ? scaleGerado : startupsGerado;
   $('gerado').textContent = data ? (s ? 'Vagas de ' : 'Dados de ') + new Date(data).toLocaleDateString('pt-PT', { day: 'numeric', month: 'long', year: 'numeric' }) : '';

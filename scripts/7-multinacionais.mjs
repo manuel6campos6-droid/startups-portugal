@@ -130,6 +130,9 @@ const EMPRESAS = [
   { nome: 'Sword Health', sector: 'Saúde', ler: () => greenhouse('swordhealth') },
   { nome: 'Feedzai', sector: 'Fintech', ler: () => greenhouse('feedzai') },
   { nome: 'Farfetch', sector: 'Comércio', ler: () => ashby('farfetch') },
+  { nome: 'Mollie', sector: 'Fintech', ler: () => ashby('mollie') },
+  { nome: 'SumUp', sector: 'Fintech', ler: () => greenhouse('sumup') },
+  { nome: 'Pipedrive', sector: 'Tecnologia', ler: () => lever('pipedrive') },
 ];
 
 // A data em que cada vaga apareceu pela primeira vez sobrevive entre corridas: é ela que diz o que é novo.
