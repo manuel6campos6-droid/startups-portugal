@@ -29,6 +29,15 @@ jobs:
       - name: Recolher vagas
         run: npm run multinacionais
 
+      # Sem o token nos secrets não há aviso, mas a recolha e a publicação continuam.
+      - name: Avisar no Telegram
+        env:
+          TELEGRAM_VAGAS_TOKEN: ${{ secrets.TELEGRAM_VAGAS_TOKEN }}
+          TELEGRAM_VAGAS_CHAT_ID: ${{ secrets.TELEGRAM_VAGAS_CHAT_ID }}
+        run: |
+          if [ -z "$TELEGRAM_VAGAS_TOKEN" ]; then echo "[startups] sem TELEGRAM_VAGAS_TOKEN nos secrets: não se avisa"; exit 0; fi
+          npm run avisar
+
       - name: Publicar se mudou
         run: |
           cp dados/multinacionais.json docs/multinacionais.json
