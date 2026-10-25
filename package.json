@@ -13,6 +13,7 @@
     "unicorn": "node scripts/1-unicorn.mjs",
     "linkedin": "node scripts/6-linkedin.mjs",
     "vcs": "node scripts/1-vcs.mjs",
-    "searchfunds": "node scripts/1-searchfunds.mjs"
+    "searchfunds": "node scripts/1-searchfunds.mjs",
+    "multinacionais": "node scripts/7-multinacionais.mjs"
   }
 }

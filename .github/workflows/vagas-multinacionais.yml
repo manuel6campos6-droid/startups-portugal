@@ -1,0 +1,43 @@
+name: Vagas das multinacionais
+
+on:
+  schedule:
+    # 7h UTC: 7h em Lisboa no inverno, 8h no verão. O GitHub pode atrasar uns minutos em horas de pico.
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  recolher:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # A lista anterior vive em docs/; sem ela todas as vagas pareciam novas em cada corrida.
+      - name: Repor a lista anterior
+        run: |
+          mkdir -p dados
+          if [ -f docs/multinacionais.json ]; then cp docs/multinacionais.json dados/; fi
+
+      - name: Recolher vagas
+        run: npm run multinacionais
+
+      - name: Publicar se mudou
+        run: |
+          cp dados/multinacionais.json docs/multinacionais.json
+          git add docs/multinacionais.json
+          if git diff --cached --quiet; then
+            echo "[startups] nada mudou desde a última corrida"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git commit -m "vagas das multinacionais: $(date -u +%Y-%m-%d)"
+          git push
