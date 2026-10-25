@@ -133,6 +133,8 @@ const EMPRESAS = [
   { nome: 'Mollie', sector: 'Fintech', ler: () => ashby('mollie') },
   { nome: 'SumUp', sector: 'Fintech', ler: () => greenhouse('sumup') },
   { nome: 'Pipedrive', sector: 'Tecnologia', ler: () => lever('pipedrive') },
+  { nome: 'Indie Campers', sector: 'Turismo', ler: () => greenhouse('indiecampers') },
+  { nome: 'Bounce', sector: 'Mobilidade', ler: () => ashby('bounce') },
 ];
 
 // A data em que cada vaga apareceu pela primeira vez sobrevive entre corridas: é ela que diz o que é novo.
