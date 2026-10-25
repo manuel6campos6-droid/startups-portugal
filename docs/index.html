@@ -353,7 +353,7 @@ details.vg li span { color: var(--muted) }
       </div>
       <div class="ativos" id="a-scale"></div>
       <div class="contagem" id="s-contagem"></div>
-      <p class="dica">Recolhidas todas as manhãs das páginas de carreiras de cada empresa. Uber e Revolut não entram: protegem as páginas contra leitura automática.</p>
+      <p class="dica">Recolhidas todas as manhãs das páginas de carreiras de cada empresa. Uber, Revolut, Klarna e Zalando não entram: protegem as páginas ou usam sistemas fechados.</p>
       <div class="cartoes" id="s-lista"></div>
       <button class="mais" id="s-mais" hidden>Mostrar mais</button>
     </div>
@@ -551,7 +551,10 @@ const OMISSAO = { vagas: { onde: ['Em Portugal', 'Remoto ou Europa'] }, scale: {
 // O nível que a empresa declara vale mais do que o título («Account Manager» na Glovo pode ser de entrada),
 // excepto quando o título diz estágio: a Glovo marca os estágios como «Entry Level».
 const NIVEL_EMPRESA = { Internship: 'Estágio', 'Entry Level': 'Júnior', Associate: 'Júnior', 'Mid-Senior Level': 'Sénior, lead ou chefia' };
-const nivelScale = (v) => nivelDe(v.titulo) === 'Estágio' ? 'Estágio' : NIVEL_EMPRESA[v.nivel] || nivelDe(v.titulo);
+// «Senior Associate» é sénior: a palavra «senior» no título pesa mais do que «associate».
+const SENIOR_TITULO = /\b(senior|s[eé]nior|sr\.?|lead|head|principal|staff|director|diretor|vp|chief)\b/i;
+const nivelScale = (v) => nivelDe(v.titulo) === 'Estágio' ? 'Estágio'
+  : SENIOR_TITULO.test(v.titulo) ? 'Sénior, lead ou chefia' : NIVEL_EMPRESA[v.nivel] || nivelDe(v.titulo);
 
 function passa(item, facetas, esc, salvo) {
   for (const f of facetas) {
@@ -863,7 +866,7 @@ function mudarParte(p) {
   document.querySelector('.faixa').classList.toggle('so-numeros', s);
   $('t-h1').replaceChildren('Radar de ', el('em', { textContent: s ? 'Scaleups' : 'Startups' }));
   $('t-p').textContent = s
-    ? 'Vagas das multinacionais e scaleups que qualquer investidor reconhece: Bolt, Glovo e Booking.com. Actualizadas todas as manhãs.'
+    ? `Vagas de ${new Set(scale.map((v) => v.empresa)).size || 'várias'} multinacionais e scaleups que qualquer investidor reconhece: Bolt, Glovo, Farfetch, Sword Health, Stripe, Spotify e outras. Actualizadas todas as manhãs.`
     : 'Startups certificadas pelo Startup Portugal, o portefólio da Unicorn Factory Lisboa, as empresas em que os principais VCs portugueses investem e os search funds à procura de uma empresa para comprar.';
   const data = s ? scaleGerado : startupsGerado;
   $('gerado').textContent = data ? (s ? 'Vagas de ' : 'Dados de ') + new Date(data).toLocaleDateString('pt-PT', { day: 'numeric', month: 'long', year: 'numeric' }) : '';

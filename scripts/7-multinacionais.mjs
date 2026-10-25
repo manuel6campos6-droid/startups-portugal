@@ -77,10 +77,59 @@ async function booking() {
   return vagas;
 }
 
+// Plataformas de recrutamento com API pública: a mesma função serve para todas as empresas que as usam.
+const PT = /portugal|lisbo|porto\b|braga|coimbra|aveiro|faro/i;
+function onde(locais, remoto) {
+  const l = locais.filter(Boolean).join(' / ');
+  return { local: l, pais: PT.test(l) ? 'Portugal' : ultimaParte(locais[0] || ''), remoto: remoto || /remote/i.test(l) };
+}
+
+async function greenhouse(slug) {
+  const d = await json(`https://boards-api.greenhouse.io/v1/boards/${slug}/jobs`);
+  return d.jobs.map((v) => ({ id: String(v.id), titulo: v.title, url: v.absolute_url, ...onde([v.location?.name]),
+    publicada: v.first_published || v.updated_at }));
+}
+
+async function lever(slug) {
+  const d = await json(`https://api.lever.co/v0/postings/${slug}?mode=json`);
+  return d.map((v) => ({ id: v.id, titulo: v.text, url: v.hostedUrl, equipa: v.categories?.team || '',
+    ...onde([v.categories?.location, ...(v.categories?.allLocations || [])], v.workplaceType === 'remote'), publicada: new Date(v.createdAt).toISOString() }));
+}
+
+async function ashby(slug) {
+  const d = await json(`https://api.ashbyhq.com/posting-api/job-board/${slug}`);
+  return d.jobs.map((v) => ({ id: v.id, titulo: v.title, url: v.jobUrl, equipa: v.department || v.team || '',
+    ...onde([v.location, ...(v.secondaryLocations || []).map((s) => s.location)], v.isRemote), publicada: v.publishedAt }));
+}
+
 const EMPRESAS = [
   { nome: 'Bolt', sector: 'Mobilidade', carreiras: 'https://bolt.eu/en/careers/positions/', ler: bolt },
   { nome: 'Glovo', sector: 'Entregas', carreiras: 'https://careers.glovoapp.com/jobs-at-glovo/', ler: glovo },
   { nome: 'Booking.com', sector: 'Viagens', carreiras: 'https://careers.booking.com/', ler: booking },
+  { nome: 'Wolt', sector: 'Entregas', ler: () => greenhouse('wolt') },
+  { nome: 'Deliveroo', sector: 'Entregas', ler: () => greenhouse('deliveroo') },
+  { nome: 'FREENOW', sector: 'Mobilidade', ler: () => greenhouse('freenow') },
+  { nome: 'Cabify', sector: 'Mobilidade', ler: () => greenhouse('cabify') },
+  { nome: 'N26', sector: 'Fintech', ler: () => greenhouse('n26') },
+  { nome: 'Adyen', sector: 'Fintech', ler: () => greenhouse('adyen') },
+  { nome: 'Monzo', sector: 'Fintech', ler: () => greenhouse('monzo') },
+  { nome: 'Pleo', sector: 'Fintech', ler: () => ashby('pleo') },
+  { nome: 'Qonto', sector: 'Fintech', ler: () => ashby('qonto') },
+  { nome: 'Stripe', sector: 'Fintech', ler: () => greenhouse('stripe') },
+  { nome: 'Spotify', sector: 'Tecnologia', ler: () => lever('spotify') },
+  { nome: 'Airbnb', sector: 'Viagens', ler: () => greenhouse('airbnb') },
+  { nome: 'GetYourGuide', sector: 'Viagens', ler: () => greenhouse('getyourguide') },
+  { nome: 'GitLab', sector: 'Tecnologia', ler: () => greenhouse('gitlab') },
+  { nome: 'Datadog', sector: 'Tecnologia', ler: () => greenhouse('datadog') },
+  { nome: 'Cloudflare', sector: 'Tecnologia', ler: () => greenhouse('cloudflare') },
+  { nome: 'Miro', sector: 'Tecnologia', ler: () => ashby('miro') },
+  { nome: 'Typeform', sector: 'Tecnologia', ler: () => greenhouse('typeform') },
+  { nome: 'Contentful', sector: 'Tecnologia', ler: () => greenhouse('contentful') },
+  { nome: 'Doctolib', sector: 'Saúde', ler: () => greenhouse('doctolib') },
+  { nome: 'Alan', sector: 'Saúde', ler: () => ashby('alan') },
+  { nome: 'Sword Health', sector: 'Saúde', ler: () => greenhouse('swordhealth') },
+  { nome: 'Feedzai', sector: 'Fintech', ler: () => greenhouse('feedzai') },
+  { nome: 'Farfetch', sector: 'Comércio', ler: () => ashby('farfetch') },
 ];
 
 // A data em que cada vaga apareceu pela primeira vez sobrevive entre corridas: é ela que diz o que é novo.

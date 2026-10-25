@@ -44,7 +44,9 @@ const html = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').repla
 const d = ler('multinacionais.json', null);
 if (!d) throw new Error('[startups] não há dados/multinacionais.json: corre primeiro npm run multinacionais');
 const tudo = process.argv[2] === 'tudo';
-const vagas = d.empresas.flatMap((e) => e.vagas.filter(serve).map((v) => ({ ...v, empresa: e.nome })))
+// Na primeira leitura de uma empresa todas as vagas têm a data de hoje: não são novas, a empresa é que é.
+const jaLida = (e) => e.vagas.some((v) => v.vistaEm < d.geradoEm);
+const vagas = d.empresas.flatMap((e) => e.vagas.filter(serve).filter(() => tudo || jaLida(e)).map((v) => ({ ...v, empresa: e.nome })))
   .filter((v) => tudo || v.vistaEm === d.geradoEm);
 
 if (!vagas.length) {
