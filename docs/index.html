@@ -1,3 +1,4 @@
+<meta charset="utf-8">
 <title>Radar de Startups</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -63,6 +64,11 @@ h1 em { font-style: normal; color: var(--band-accent) }
 .tab:hover { color: var(--band-fg) }
 .tab[aria-selected="true"] { color: var(--band-fg); border-bottom-color: var(--band-accent) }
 .tab .conta { font: 500 11.5px var(--f-mono); border: 1px solid var(--band-line); border-radius: 999px; padding: 1px 7px }
+.partes { display: inline-flex; gap: 4px; background: var(--band-line); border-radius: 999px; padding: 4px; justify-self: start }
+.parte { font: 600 14px var(--f-body); color: var(--band-muted); background: none; border: 0; border-radius: 999px; padding: 7px 16px; cursor: pointer }
+.parte:hover { color: var(--band-fg) }
+.parte[aria-pressed="true"] { background: var(--band-fg); color: var(--band) }
+.faixa.so-numeros .numeros { margin-bottom: 22px }
 
 .corpo { padding-block: 22px 72px }
 .grelha { display: grid; grid-template-columns: 280px minmax(0, 1fr); gap: 28px; align-items: start }
@@ -125,6 +131,7 @@ input[type=search], select, textarea { font: inherit; font-size: 14px; color: va
 .et.sp { background: var(--sp-soft); color: var(--sp) } .et.uf { background: var(--uf-soft); color: var(--uf) }
 .et.vc { background: var(--vc-soft); color: var(--vc) } .et.ia { background: var(--ia-soft); color: var(--ia) }
 .et.vagas { background: var(--ok-soft); color: var(--ok) } .et.jr { background: var(--ok); color: var(--surface) }
+.et.nova { background: var(--accent); color: var(--accent-fg) }
 .pessoas { grid-column: 2 / 4; font-size: 14px; margin: 10px 0 0; display: flex; flex-wrap: wrap; gap: 4px 16px }
 .pessoas .rot { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .07em; align-self: center }
 .pessoas .cargo { color: var(--muted) }
@@ -230,15 +237,19 @@ details.vg li span { color: var(--muted) }
 
 <header class="faixa">
   <div class="conteudo">
+    <div class="partes" aria-label="Parte do radar">
+      <button type="button" class="parte" id="parte-startups" aria-pressed="true">Startups</button>
+      <button type="button" class="parte" id="parte-scale" aria-pressed="false">Scaleups</button>
+    </div>
     <div class="titulo">
       <div>
-        <h1>Radar de <em>Startups</em></h1>
-        <p>Startups certificadas pelo Startup Portugal, o portefólio da Unicorn Factory Lisboa, as empresas em que os principais VCs portugueses investem e os search funds à procura de uma empresa para comprar.</p>
+        <h1 id="t-h1">Radar de <em>Startups</em></h1>
+        <p id="t-p">Startups certificadas pelo Startup Portugal, o portefólio da Unicorn Factory Lisboa, as empresas em que os principais VCs portugueses investem e os search funds à procura de uma empresa para comprar.</p>
       </div>
       <span class="fonte" id="gerado"></span>
     </div>
     <div class="numeros" id="numeros" aria-label="Resumo"></div>
-    <div class="tabs" role="tablist">
+    <div class="tabs" role="tablist" id="tabs-startups">
       <button class="tab" role="tab" id="tab-explorar" aria-selected="true">Empresas <span class="conta" id="c-explorar">0</span></button>
       <button class="tab" role="tab" id="tab-vagas" aria-selected="false">Vagas <span class="conta" id="c-vagas">0</span></button>
       <button class="tab" role="tab" id="tab-fila" aria-selected="false">Contactar <span class="conta" id="c-fila">0</span></button>
@@ -332,6 +343,21 @@ details.vg li span { color: var(--muted) }
     <p class="dica" id="cand-dica">Marca empresas e elas aparecem aqui, por estado.</p>
     <div class="quadro" id="quadro"></div>
   </section>
+
+  <section id="v-scale" class="grelha" style="display:none">
+    <aside class="lateral" id="f-scale" aria-label="Filtros de vagas das scaleups"></aside>
+    <div class="resultados">
+      <div class="pesquisa">
+        <button class="gaveta-botao" data-gaveta="f-scale">Filtros <span id="g-scale"></span></button>
+        <input type="search" id="s-q" placeholder="Cargo ou palavra (ex.: operations, intern, sales, analyst)" aria-label="Procurar vagas das scaleups">
+      </div>
+      <div class="ativos" id="a-scale"></div>
+      <div class="contagem" id="s-contagem"></div>
+      <p class="dica">Recolhidas todas as manhãs das páginas de carreiras de cada empresa. Uber e Revolut não entram: protegem as páginas contra leitura automática.</p>
+      <div class="cartoes" id="s-lista"></div>
+      <button class="mais" id="s-mais" hidden>Mostrar mais</button>
+    </div>
+  </section>
 </main>
 
 <script>
@@ -351,7 +377,8 @@ const PASSO = 30;
 let empresas = [], vagas = [], searchFunds = [], porId = {};
 let estados = {}, colecao = null;
 let separador = 'explorar', mostrarE = PASSO, mostrarJ = PASSO;
-const escolhas = { explorar: {}, vagas: {} };
+let parte = 'startups', scale = [], scaleGerado = null, startupsGerado = null, mostrarS = PASSO;
+const escolhas = { explorar: {}, vagas: {}, scale: {} };
 
 const $ = (id) => document.getElementById(id);
 const el = (tag, props = {}, ...filhos) => {
@@ -508,9 +535,23 @@ const FACETAS = {
     { k: 'ligacao', t: 'Empresa ligada a', v: (v) => ligacoes(porId[v.empresa]) },
     { k: 'empresa', t: 'Empresa', v: (v) => [porId[v.empresa].nome] },
   ],
+  scale: [
+    { k: 'onde', t: 'Onde', v: (v) => [v.onde], ordem: ['Em Portugal', 'Remoto', 'Fora de Portugal'], aberta: true },
+    { k: 'nivel', t: 'Nível', v: (v) => [v.nivel], ordem: ['Estágio', 'Júnior', 'Sem nível no título', 'Sénior, lead ou chefia'], aberta: true },
+    { k: 'nova', t: 'Novidade', v: (v) => [v.nova ? 'Novas nos últimos 7 dias' : 'Já existiam'], ordem: ['Novas nos últimos 7 dias', 'Já existiam'], aberta: true },
+    { k: 'empresa', t: 'Empresa', v: (v) => [v.empresa], aberta: true },
+    { k: 'funcao', t: 'Função', v: (v) => [v.funcao] },
+    { k: 'equipa', t: 'Equipa', v: (v) => [v.equipa || 'Sem equipa'] },
+    { k: 'pais', t: 'País', v: (v) => [v.pais || 'Sem país'] },
+  ],
 };
 // Por omissão as vagas de fora de Portugal ficam escondidas: quem procura é cá.
-const OMISSAO = { vagas: { onde: ['Em Portugal', 'Remoto ou Europa'] } };
+const OMISSAO = { vagas: { onde: ['Em Portugal', 'Remoto ou Europa'] }, scale: { onde: ['Em Portugal'] } };
+
+// O nível que a empresa declara vale mais do que o título («Account Manager» na Glovo pode ser de entrada),
+// excepto quando o título diz estágio: a Glovo marca os estágios como «Entry Level».
+const NIVEL_EMPRESA = { Internship: 'Estágio', 'Entry Level': 'Júnior', Associate: 'Júnior', 'Mid-Senior Level': 'Sénior, lead ou chefia' };
+const nivelScale = (v) => nivelDe(v.titulo) === 'Estágio' ? 'Estágio' : NIVEL_EMPRESA[v.nivel] || nivelDe(v.titulo);
 
 function passa(item, facetas, esc, salvo) {
   for (const f of facetas) {
@@ -572,31 +613,43 @@ function desenharFacetas(qual, base) {
     el('button', { type: 'button', title: 'Tirar este filtro', textContent: `${f.t}: ${v}`, onclick: () => { esc[f.k].delete(v); reiniciar(); } }))));
 }
 
-function reiniciar() { mostrarE = mostrarJ = PASSO; guardarFiltros(); desenhar(); }
+function reiniciar() { mostrarE = mostrarJ = mostrarS = PASSO; guardarFiltros(); desenhar(); }
 
 /* ---------- filtros guardados neste browser (conveniência, não dados) ---------- */
 function lembrar() {
   try {
     const f = JSON.parse(localStorage.getItem('radar-filtros-v3') || 'null');
     const fonte = f || { escolhas: OMISSAO };
-    for (const q of ['explorar', 'vagas']) for (const [k, vs] of Object.entries(fonte.escolhas?.[q] || {})) escolhas[q][k] = new Set(vs);
-    if (f) { $('e-q').value = f.eq || ''; $('j-q').value = f.jq || ''; $('e-ordem').value = f.ordem || 'vagas'; separador = f.separador || separador; }
+    for (const q of ['explorar', 'vagas', 'scale']) for (const [k, vs] of Object.entries(fonte.escolhas?.[q] || OMISSAO[q] || {})) escolhas[q][k] = new Set(vs);
+    if (f) { $('e-q').value = f.eq || ''; $('j-q').value = f.jq || ''; $('s-q').value = f.sq || ''; $('e-ordem').value = f.ordem || 'vagas'; separador = f.separador || separador; parte = f.parte || parte; }
   } catch {
-    for (const [k, vs] of Object.entries(OMISSAO.vagas)) escolhas.vagas[k] = new Set(vs);
+    for (const q of ['vagas', 'scale']) for (const [k, vs] of Object.entries(OMISSAO[q])) escolhas[q][k] = new Set(vs);
   }
 }
 function guardarFiltros() {
   try {
     const ser = (o) => Object.fromEntries(Object.entries(o).map(([k, s]) => [k, [...s]]));
     localStorage.setItem('radar-filtros-v3', JSON.stringify({
-      separador, eq: $('e-q').value, jq: $('j-q').value, ordem: $('e-ordem').value,
-      escolhas: { explorar: ser(escolhas.explorar), vagas: ser(escolhas.vagas) },
+      separador, parte, eq: $('e-q').value, jq: $('j-q').value, sq: $('s-q').value, ordem: $('e-ordem').value,
+      escolhas: { explorar: ser(escolhas.explorar), vagas: ser(escolhas.vagas), scale: ser(escolhas.scale) },
     }));
   } catch {}
 }
 
 /* ---------- números do topo ---------- */
 function desenharNumeros() {
+  if (parte === 'scale') {
+    const pt = scale.filter((v) => v.onde === 'Em Portugal');
+    const dados = [
+      [scale.length, `vagas em ${new Set(scale.map((v) => v.empresa)).size} empresas`],
+      [pt.length, 'em Portugal', 'verde'],
+      [pt.filter((v) => v.nivel === 'Estágio' || v.nivel === 'Júnior').length, 'de entrada em Portugal', 'verde'],
+      [scale.filter((v) => v.nova).length, 'novas nos últimos 7 dias'],
+    ];
+    $('numeros').replaceChildren(...dados.map(([n, t, c]) => el('div', { className: 'num' + (c ? ' ' + c : '') },
+      el('b', { textContent: n.toLocaleString('pt-PT') }), el('span', { textContent: t }))));
+    return;
+  }
   const vagasPt = vagas.filter((v) => v.onde !== 'Fora de Portugal');
   const feitas = Object.values(estados).filter((e) => e.estado && e.estado !== 'ignorar').length;
   const dados = [
@@ -761,6 +814,62 @@ function desenharVagas() {
   $('j-mais').textContent = `Mostrar mais ${Math.min(PASSO, fs.length - mostrarJ)} de ${fs.length - mostrarJ}`;
 }
 
+/* ---------- Scaleups ---------- */
+function desenharScale() {
+  const q = semAcentos($('s-q').value.trim());
+  const base = q ? scale.filter((v) => v._texto.includes(q)) : scale;
+  desenharFacetas('scale', base);
+  const fs = base.filter((v) => passa(v, FACETAS.scale, escolhas.scale));
+  const peso = { 'Estágio': 0, 'Júnior': 1, 'Sem nível no título': 2, 'Sénior, lead ou chefia': 3 };
+  fs.sort((a, b) => (b.nova ? 1 : 0) - (a.nova ? 1 : 0) || peso[a.nivel] - peso[b.nivel]
+    || (a.onde === 'Em Portugal' ? 0 : 1) - (b.onde === 'Em Portugal' ? 0 : 1) || a.titulo.localeCompare(b.titulo, 'pt'));
+  $('s-contagem').replaceChildren(el('b', { textContent: fs.length.toLocaleString('pt-PT') }), ' vagas em ',
+    el('b', { textContent: String(new Set(fs.map((v) => v.empresa)).size) }), ' empresas');
+  $('s-lista').replaceChildren(...(fs.length ? fs.slice(0, mostrarS).map((v) => el('article', { className: 'vaga' },
+    el('div', { style: 'min-width:0' },
+      el('h3', {}, link(v.url, v.titulo.trim())),
+      el('p', {}, el('b', { textContent: v.empresa, style: 'color:var(--fg)' }), v.local ? ' · ' + v.local : '', v.equipa ? ' · ' + v.equipa : '',
+        v.publicada ? ' · ' + new Date(v.publicada).toLocaleDateString('pt-PT', { day: 'numeric', month: 'short' }) : '')),
+    el('div', { className: 'etiquetas' },
+      v.nova ? el('span', { className: 'et nova', textContent: 'nova' }) : null,
+      v.nivel === 'Estágio' || v.nivel === 'Júnior' ? el('span', { className: 'et jr', textContent: v.nivel.toLowerCase() }) : null,
+      v.onde === 'Remoto' ? el('span', { className: 'et', textContent: 'remoto' }) : null)))
+    : [el('p', { className: 'vazio', textContent: scale.length ? 'Nenhuma vaga com estes filtros. Tira um filtro (o número ao lado de cada opção diz quantas ficam).' : 'As vagas das scaleups não carregaram. Recarrega a página.' })]));
+  $('s-mais').hidden = fs.length <= mostrarS;
+  $('s-mais').textContent = `Mostrar mais ${Math.min(PASSO, fs.length - mostrarS)} de ${fs.length - mostrarS}`;
+}
+
+function carregarScale(dados) {
+  scaleGerado = dados.geradoEm;
+  for (const e of dados.empresas) {
+    // A primeira leitura de cada empresa marca tudo com a mesma data: essas não são «novas», só o que veio depois.
+    const primeira = e.vagas.reduce((m, v) => (v.vistaEm < m ? v.vistaEm : m), e.vagas[0]?.vistaEm || '');
+    for (const v of e.vagas) {
+      const x = { ...v, empresa: e.nome, nivel: nivelScale(v), funcao: funcaoDe(v.titulo),
+        onde: v.pais === 'Portugal' ? 'Em Portugal' : v.remoto ? 'Remoto' : 'Fora de Portugal',
+        nova: v.vistaEm > primeira && HOJE - new Date(v.vistaEm) <= 7 * DIA };
+      x._texto = semAcentos([x.titulo, x.local, x.empresa, x.equipa].join(' '));
+      scale.push(x);
+    }
+  }
+}
+
+function mudarParte(p) {
+  parte = p;
+  const s = p === 'scale';
+  $('parte-startups').setAttribute('aria-pressed', String(!s));
+  $('parte-scale').setAttribute('aria-pressed', String(s));
+  $('tabs-startups').style.display = s ? 'none' : '';
+  document.querySelector('.faixa').classList.toggle('so-numeros', s);
+  $('t-h1').replaceChildren('Radar de ', el('em', { textContent: s ? 'Scaleups' : 'Startups' }));
+  $('t-p').textContent = s
+    ? 'Vagas das multinacionais e scaleups que qualquer investidor reconhece: Bolt, Glovo e Booking.com. Actualizadas todas as manhãs.'
+    : 'Startups certificadas pelo Startup Portugal, o portefólio da Unicorn Factory Lisboa, as empresas em que os principais VCs portugueses investem e os search funds à procura de uma empresa para comprar.';
+  const data = s ? scaleGerado : startupsGerado;
+  $('gerado').textContent = data ? (s ? 'Vagas de ' : 'Dados de ') + new Date(data).toLocaleDateString('pt-PT', { day: 'numeric', month: 'long', year: 'numeric' }) : '';
+  mudarSeparador(separador);
+}
+
 function verEmpresa(x) {
   $('e-q').value = x.nome;
   escolhas.explorar = {};
@@ -911,6 +1020,7 @@ function desenharQuadro() {
 /* ---------- desenho geral ---------- */
 function desenhar() {
   desenharNumeros();
+  if (parte === 'scale') return desenharScale();
   $('c-explorar').textContent = empresas.length.toLocaleString('pt-PT');
   $('c-vagas').textContent = vagas.filter((v) => v.onde !== 'Fora de Portugal').length.toLocaleString('pt-PT');
   $('c-fila').textContent = String(naFila().length);
@@ -927,8 +1037,9 @@ function mudarSeparador(s) {
   separador = s;
   for (const k of ['explorar', 'vagas', 'fila', 'sf', 'cand']) {
     $('tab-' + k).setAttribute('aria-selected', String(k === s));
-    $('v-' + k).style.display = k === s ? 'grid' : 'none';
+    $('v-' + k).style.display = k === s && parte === 'startups' ? 'grid' : 'none';
   }
+  $('v-scale').style.display = parte === 'scale' ? 'grid' : 'none';
   guardarFiltros();
   desenhar();
 }
@@ -1000,11 +1111,18 @@ async function arrancar() {
     const novo = {}; for (const k of ['nome', 'procuro', 'sobre', 'link', 'lingua']) novo[k] = $('p-' + k).value.trim();
     gravarPerfil(novo);
   };
-  for (const id of ['e-q', 'j-q']) $(id).addEventListener('input', reiniciar);
+  for (const id of ['e-q', 'j-q', 's-q']) $(id).addEventListener('input', reiniciar);
   $('e-ordem').addEventListener('change', reiniciar);
   $('e-mais').onclick = () => { mostrarE += PASSO; desenharExplorar(); };
   $('j-mais').onclick = () => { mostrarJ += PASSO; desenharVagas(); };
+  $('s-mais').onclick = () => { mostrarS += PASSO; desenharScale(); };
+  $('parte-startups').onclick = () => { mudarParte('startups'); guardarFiltros(); };
+  $('parte-scale').onclick = () => { mudarParte('scale'); guardarFiltros(); };
   for (const b of document.querySelectorAll('[data-gaveta]')) b.onclick = () => $(b.dataset.gaveta).classList.toggle('aberta');
+
+  // As scaleups vêm de outro ficheiro: se falharem, a parte das startups funciona na mesma.
+  const pedidoScale = fetch('multinacionais.json').then((r) => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+    .then(carregarScale).catch((e) => console.error('[radar] as vagas das scaleups não carregaram', e));
 
   try {
     const res = await fetch('startups.json');
@@ -1023,13 +1141,13 @@ async function arrancar() {
         ...(x.sectores || []), ...(x.ligadas || []), ...x.fontes, ...(x.investidores || []).map((i) => i.vc),
         ...(x.fundadores || []).map((p) => p.nome), ...x._vagas.map((v) => v.titulo)].join(' '));
     }
-    $('gerado').textContent = 'Dados de ' + new Date(dados.geradoEm).toLocaleDateString('pt-PT', { day: 'numeric', month: 'long', year: 'numeric' });
+    startupsGerado = dados.geradoEm;
   } catch (e) {
     console.error('[radar] a lista de empresas não carregou', e);
-    $('e-contagem').textContent = 'A lista de empresas não carregou. Recarrega a página.';
-    return;
+    mostrarAviso('A lista de empresas não carregou. Recarrega a página.');
   }
-  mudarSeparador(separador);
+  await pedidoScale;
+  mudarParte(parte);
   ligarDb();
 }
 arrancar();
