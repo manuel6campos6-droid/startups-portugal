@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-10-31T13:10:20.421Z",
+ "geradoEm": "2026-11-01T13:53:47.618Z",
  "empresas": [
   {
    "nome": "Bolt",
@@ -70,21 +70,21 @@
      "vistaEm": "2026-10-25T15:57:45.677Z"
     },
     {
-     "id": "4826aa6d-843b-422d-8b19-8fff1536731e",
-     "titulo": "B4B Business Development Manager",
-     "equipa": "Sales & Account Management",
-     "local": "Lisbon, Portugal",
-     "pais": "Portugal",
-     "url": "https://bolt.eu/en/careers/positions/4826aa6d-843b-422d-8b19-8fff1536731e/",
-     "vistaEm": "2026-10-27T12:49:48.738Z"
-    },
-    {
      "id": "853cb9d2-66f4-4145-83aa-7eb8ab844490",
      "titulo": "B4B Business Development Manager",
      "equipa": "Sales & Account Management",
      "local": "Berlin, Germany",
      "pais": "Germany",
      "url": "https://bolt.eu/en/careers/positions/853cb9d2-66f4-4145-83aa-7eb8ab844490/",
+     "vistaEm": "2026-10-25T15:57:45.677Z"
+    },
+    {
+     "id": "a551d417-3c2d-47d0-9066-1e61920e5a1a",
+     "titulo": "B4B Business Development Manager",
+     "equipa": "Sales & Account Management",
+     "local": "Paris, France",
+     "pais": "France",
+     "url": "https://bolt.eu/en/careers/positions/a551d417-3c2d-47d0-9066-1e61920e5a1a/",
      "vistaEm": "2026-10-25T15:57:45.677Z"
     },
     {
@@ -97,13 +97,13 @@
      "vistaEm": "2026-10-25T15:57:45.677Z"
     },
     {
-     "id": "a551d417-3c2d-47d0-9066-1e61920e5a1a",
+     "id": "4826aa6d-843b-422d-8b19-8fff1536731e",
      "titulo": "B4B Business Development Manager",
      "equipa": "Sales & Account Management",
-     "local": "Paris, France",
-     "pais": "France",
-     "url": "https://bolt.eu/en/careers/positions/a551d417-3c2d-47d0-9066-1e61920e5a1a/",
-     "vistaEm": "2026-10-25T15:57:45.677Z"
+     "local": "Lisbon, Portugal",
+     "pais": "Portugal",
+     "url": "https://bolt.eu/en/careers/positions/4826aa6d-843b-422d-8b19-8fff1536731e/",
+     "vistaEm": "2026-10-27T12:49:48.738Z"
     },
     {
      "id": "fd66fdf4-e263-46cb-af35-a85ad09e4c24",
@@ -124,21 +124,21 @@
      "vistaEm": "2026-10-25T15:57:45.677Z"
     },
     {
-     "id": "801ecb28-6f72-49c4-b3dc-2cca72f0da84",
-     "titulo": "B4B Business Sales Development Manager",
-     "equipa": "Sales & Account Management",
-     "local": "Kyiv, Ukraine",
-     "pais": "Ukraine",
-     "url": "https://bolt.eu/en/careers/positions/801ecb28-6f72-49c4-b3dc-2cca72f0da84/",
-     "vistaEm": "2026-10-25T15:57:45.677Z"
-    },
-    {
      "id": "ed1a8e64-289e-47ff-85ef-7b21d3c46cee",
      "titulo": "B4B Business Sales Development Manager",
      "equipa": "Sales & Account Management",
      "local": "Bangkok, Thailand",
      "pais": "Thailand",
      "url": "https://bolt.eu/en/careers/positions/ed1a8e64-289e-47ff-85ef-7b21d3c46cee/",
+     "vistaEm": "2026-10-25T15:57:45.677Z"
+    },
+    {
+     "id": "801ecb28-6f72-49c4-b3dc-2cca72f0da84",
+     "titulo": "B4B Business Sales Development Manager",
+     "equipa": "Sales & Account Management",
+     "local": "Kyiv, Ukraine",
+     "pais": "Ukraine",
+     "url": "https://bolt.eu/en/careers/positions/801ecb28-6f72-49c4-b3dc-2cca72f0da84/",
      "vistaEm": "2026-10-25T15:57:45.677Z"
     },
     {
@@ -151,15 +151,6 @@
      "vistaEm": "2026-10-25T15:57:45.677Z"
     },
     {
-     "id": "fe02b74a-d898-4ed5-b7fe-360e325efffb",
-     "titulo": "B4B Country Sales Manager",
-     "equipa": "Sales & Account Management",
-     "local": "Warsaw, Poland",
-     "pais": "Poland",
-     "url": "https://bolt.eu/en/careers/positions/fe02b74a-d898-4ed5-b7fe-360e325efffb/",
-     "vistaEm": "2026-10-25T15:57:45.677Z"
-    },
-    {
      "id": "4fb8e9fc-f181-42ed-becb-7e63074ee3b7",
      "titulo": "B4B Country Sales Manager",
      "equipa": "Sales & Account Management",
@@ -169,21 +160,12 @@
      "vistaEm": "2026-10-25T15:57:45.677Z"
     },
     {
-     "id": "66573bff-1516-42ef-ab15-7a60df49bf45",
-     "titulo": "B4B Regional Sales Manager",
+     "id": "fe02b74a-d898-4ed5-b7fe-360e325efffb",
+     "titulo": "B4B Country Sales Manager",
      "equipa": "Sales & Account Management",
-     "local": "Oslo, Norway",
-     "pais": "Norway",
-     "url": "https://bolt.eu/en/careers/positions/66573bff-1516-42ef-ab15-7a60df49bf45/",
-     "vistaEm": "2026-10-25T15:57:45.677Z"
-    },
-    {
-     "id": "89349684-feb8-4c49-8d81-c40420bf029b",
-     "titulo": "B4B Regional Sales Manager",
-     "equipa": "Sales & Account Management",
-     "local": "Helsinki, Finland",
-     "pais": "Finland",
-     "url": "https://bolt.eu/en/careers/positions/89349684-feb8-4c49-8d81-c40420bf029b/",
+     "local": "Warsaw, Poland",
+     "pais": "Poland",
+     "url": "https://bolt.eu/en/careers/positions/fe02b74a-d898-4ed5-b7fe-360e325efffb/",
      "vistaEm": "2026-10-25T15:57:45.677Z"
     },
     {
@@ -193,6 +175,15 @@
      "local": "Stockholm, Sweden",
      "pais": "Sweden",
      "url": "https://bolt.eu/en/careers/positions/4f090d22-8611-40ed-b666-2538c182d946/",
+     "vistaEm": "2026-10-25T15:57:45.677Z"
+    },
+    {
+     "id": "66573bff-1516-42ef-ab15-7a60df49bf45",
+     "titulo": "B4B Regional Sales Manager",
+     "equipa": "Sales & Account Management",
+     "local": "Oslo, Norway",
+     "pais": "Norway",
+     "url": "https://bolt.eu/en/careers/positions/66573bff-1516-42ef-ab15-7a60df49bf45/",
      "vistaEm": "2026-10-25T15:57:45.677Z"
     },
     {
@@ -211,6 +202,15 @@
      "local": "Copenhagen, Denmark",
      "pais": "Denmark",
      "url": "https://bolt.eu/en/careers/positions/0d1b0113-38ff-4643-9fab-cbfc6241ebcd/",
+     "vistaEm": "2026-10-25T15:57:45.677Z"
+    },
+    {
+     "id": "89349684-feb8-4c49-8d81-c40420bf029b",
+     "titulo": "B4B Regional Sales Manager",
+     "equipa": "Sales & Account Management",
+     "local": "Helsinki, Finland",
+     "pais": "Finland",
+     "url": "https://bolt.eu/en/careers/positions/89349684-feb8-4c49-8d81-c40420bf029b/",
      "vistaEm": "2026-10-25T15:57:45.677Z"
     },
     {
@@ -583,21 +583,21 @@
      "vistaEm": "2026-10-25T15:57:45.677Z"
     },
     {
-     "id": "398e1590-0065-4573-961c-14a1d14ef845",
-     "titulo": "Insurance Lead",
-     "equipa": "Finance",
-     "local": "Tallinn, Estonia",
-     "pais": "Estonia",
-     "url": "https://bolt.eu/en/careers/positions/398e1590-0065-4573-961c-14a1d14ef845/",
-     "vistaEm": "2026-10-25T15:57:45.677Z"
-    },
-    {
      "id": "27a33674-eabc-441a-b6ea-1d8b5190b7e8",
      "titulo": "Insurance Lead",
      "equipa": "Finance",
      "local": "London, United Kingdom",
      "pais": "United Kingdom",
      "url": "https://bolt.eu/en/careers/positions/27a33674-eabc-441a-b6ea-1d8b5190b7e8/",
+     "vistaEm": "2026-10-25T15:57:45.677Z"
+    },
+    {
+     "id": "398e1590-0065-4573-961c-14a1d14ef845",
+     "titulo": "Insurance Lead",
+     "equipa": "Finance",
+     "local": "Tallinn, Estonia",
+     "pais": "Estonia",
+     "url": "https://bolt.eu/en/careers/positions/398e1590-0065-4573-961c-14a1d14ef845/",
      "vistaEm": "2026-10-25T15:57:45.677Z"
     },
     {
@@ -781,12 +781,39 @@
      "vistaEm": "2026-10-25T15:57:45.677Z"
     },
     {
+     "id": "d132c63a-3581-4e9e-916b-c73e39b4cceb",
+     "titulo": "Operations Specialist",
+     "equipa": "Local Operations",
+     "local": "Sumqayit, Azerbaijan",
+     "pais": "Azerbaijan",
+     "url": "https://bolt.eu/en/careers/positions/d132c63a-3581-4e9e-916b-c73e39b4cceb/",
+     "vistaEm": "2026-10-28T13:38:42.417Z"
+    },
+    {
+     "id": "57bd0fc6-3fec-42e6-8dbf-92fd2f14881a",
+     "titulo": "Operations Specialist",
+     "equipa": "Local Operations",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "url": "https://bolt.eu/en/careers/positions/57bd0fc6-3fec-42e6-8dbf-92fd2f14881a/",
+     "vistaEm": "2026-10-25T15:57:45.677Z"
+    },
+    {
      "id": "0060526c-733f-49db-8800-a161a709274b",
      "titulo": "Operations Specialist",
      "equipa": "Local Operations",
      "local": "Tallinn, Estonia",
      "pais": "Estonia",
      "url": "https://bolt.eu/en/careers/positions/0060526c-733f-49db-8800-a161a709274b/",
+     "vistaEm": "2026-10-25T15:57:45.677Z"
+    },
+    {
+     "id": "e83a868f-2101-41d6-8cf9-1bdc18ddaabf",
+     "titulo": "Operations Specialist",
+     "equipa": "Local Operations",
+     "local": "Kyiv, Ukraine",
+     "pais": "Ukraine",
+     "url": "https://bolt.eu/en/careers/positions/e83a868f-2101-41d6-8cf9-1bdc18ddaabf/",
      "vistaEm": "2026-10-25T15:57:45.677Z"
     },
     {
@@ -799,33 +826,6 @@
      "vistaEm": "2026-10-25T15:57:45.677Z"
     },
     {
-     "id": "0eaa3a50-323a-4756-80e0-0c6963b94c31",
-     "titulo": "Operations Specialist",
-     "equipa": "Local Operations",
-     "local": "Amsterdam, Netherlands",
-     "pais": "Netherlands",
-     "url": "https://bolt.eu/en/careers/positions/0eaa3a50-323a-4756-80e0-0c6963b94c31/",
-     "vistaEm": "2026-10-25T15:57:45.677Z"
-    },
-    {
-     "id": "57bd0fc6-3fec-42e6-8dbf-92fd2f14881a",
-     "titulo": "Operations Specialist",
-     "equipa": "Local Operations",
-     "local": "Berlin, Germany",
-     "pais": "Germany",
-     "url": "https://bolt.eu/en/careers/positions/57bd0fc6-3fec-42e6-8dbf-92fd2f14881a/",
-     "vistaEm": "2026-10-25T15:57:45.677Z"
-    },
-    {
-     "id": "d132c63a-3581-4e9e-916b-c73e39b4cceb",
-     "titulo": "Operations Specialist",
-     "equipa": "Local Operations",
-     "local": "Sumqayit, Azerbaijan",
-     "pais": "Azerbaijan",
-     "url": "https://bolt.eu/en/careers/positions/d132c63a-3581-4e9e-916b-c73e39b4cceb/",
-     "vistaEm": "2026-10-28T13:38:42.417Z"
-    },
-    {
      "id": "b55d57bd-abe3-484f-8256-56376cd67db1",
      "titulo": "Operations Specialist",
      "equipa": "Local Operations",
@@ -835,6 +835,15 @@
      "vistaEm": "2026-10-28T13:38:42.417Z"
     },
     {
+     "id": "0eaa3a50-323a-4756-80e0-0c6963b94c31",
+     "titulo": "Operations Specialist",
+     "equipa": "Local Operations",
+     "local": "Amsterdam, Netherlands",
+     "pais": "Netherlands",
+     "url": "https://bolt.eu/en/careers/positions/0eaa3a50-323a-4756-80e0-0c6963b94c31/",
+     "vistaEm": "2026-10-25T15:57:45.677Z"
+    },
+    {
      "id": "eae0f826-8f5a-4329-a4f1-eafc81a77184",
      "titulo": "Operations Specialist",
      "equipa": "Local Operations",
@@ -842,15 +851,6 @@
      "pais": "Italy",
      "url": "https://bolt.eu/en/careers/positions/eae0f826-8f5a-4329-a4f1-eafc81a77184/",
      "vistaEm": "2026-10-29T13:48:21.022Z"
-    },
-    {
-     "id": "e83a868f-2101-41d6-8cf9-1bdc18ddaabf",
-     "titulo": "Operations Specialist",
-     "equipa": "Local Operations",
-     "local": "Kyiv, Ukraine",
-     "pais": "Ukraine",
-     "url": "https://bolt.eu/en/careers/positions/e83a868f-2101-41d6-8cf9-1bdc18ddaabf/",
-     "vistaEm": "2026-10-25T15:57:45.677Z"
     },
     {
      "id": "74634bb3-3986-44c5-9627-d9d0d1b607eb",
@@ -1060,15 +1060,6 @@
      "vistaEm": "2026-10-25T15:57:45.677Z"
     },
     {
-     "id": "df92936e-9e20-4c5e-bd84-d099fa1fb87c",
-     "titulo": "Safety Operator, Autonomous Driving",
-     "equipa": "Engineering",
-     "local": "Luxemburg, Luxembourg",
-     "pais": "Luxembourg",
-     "url": "https://bolt.eu/en/careers/positions/df92936e-9e20-4c5e-bd84-d099fa1fb87c/",
-     "vistaEm": "2026-10-25T15:57:45.677Z"
-    },
-    {
      "id": "390937e6-48a3-4ed1-aa93-ef6bf76af854",
      "titulo": "Sales Account Specialist",
      "equipa": "Local Operations",
@@ -1249,21 +1240,21 @@
      "vistaEm": "2026-10-25T15:57:45.677Z"
     },
     {
-     "id": "25a3ef96-dc82-4191-928f-09da2f2a3f40",
-     "titulo": "Senior Enterprise Sales Manager",
-     "equipa": "Sales & Account Management",
-     "local": "Kyiv, Ukraine",
-     "pais": "Ukraine",
-     "url": "https://bolt.eu/en/careers/positions/25a3ef96-dc82-4191-928f-09da2f2a3f40/",
-     "vistaEm": "2026-10-25T15:57:45.677Z"
-    },
-    {
      "id": "3c2f9095-0482-43c3-b3c3-cb337e8e61a2",
      "titulo": "Senior Enterprise Sales Manager",
      "equipa": "Sales & Account Management",
      "local": "Bucharest, Romania",
      "pais": "Romania",
      "url": "https://bolt.eu/en/careers/positions/3c2f9095-0482-43c3-b3c3-cb337e8e61a2/",
+     "vistaEm": "2026-10-25T15:57:45.677Z"
+    },
+    {
+     "id": "25a3ef96-dc82-4191-928f-09da2f2a3f40",
+     "titulo": "Senior Enterprise Sales Manager",
+     "equipa": "Sales & Account Management",
+     "local": "Kyiv, Ukraine",
+     "pais": "Ukraine",
+     "url": "https://bolt.eu/en/careers/positions/25a3ef96-dc82-4191-928f-09da2f2a3f40/",
      "vistaEm": "2026-10-25T15:57:45.677Z"
     },
     {
@@ -1348,15 +1339,6 @@
      "vistaEm": "2026-10-25T15:57:45.677Z"
     },
     {
-     "id": "baf9c1dd-d9f4-41ce-8ad9-ffad3f169d98",
-     "titulo": "Senior Operations Specialist",
-     "equipa": "Local Operations",
-     "local": "Madrid, Spain",
-     "pais": "Spain",
-     "url": "https://bolt.eu/en/careers/positions/baf9c1dd-d9f4-41ce-8ad9-ffad3f169d98/",
-     "vistaEm": "2026-10-29T13:48:21.022Z"
-    },
-    {
      "id": "eb8a431b-a3eb-466d-90c1-e113c351d1d7",
      "titulo": "Senior Operations Specialist",
      "equipa": "Local Operations",
@@ -1364,6 +1346,15 @@
      "pais": "South Africa",
      "url": "https://bolt.eu/en/careers/positions/eb8a431b-a3eb-466d-90c1-e113c351d1d7/",
      "vistaEm": "2026-10-28T13:38:42.417Z"
+    },
+    {
+     "id": "baf9c1dd-d9f4-41ce-8ad9-ffad3f169d98",
+     "titulo": "Senior Operations Specialist",
+     "equipa": "Local Operations",
+     "local": "Madrid, Spain",
+     "pais": "Spain",
+     "url": "https://bolt.eu/en/careers/positions/baf9c1dd-d9f4-41ce-8ad9-ffad3f169d98/",
+     "vistaEm": "2026-10-29T13:48:21.022Z"
     },
     {
      "id": "44582a20-7fdb-4ae6-8b6c-73ed724fb153",
@@ -1429,21 +1420,21 @@
      "vistaEm": "2026-10-25T15:57:45.677Z"
     },
     {
-     "id": "30feeb55-027a-4bee-b335-11edd782a8d2",
-     "titulo": "Senior Operations Specialist, Riders",
-     "equipa": "All Cost Centers",
-     "local": "Paris, France",
-     "pais": "France",
-     "url": "https://bolt.eu/en/careers/positions/30feeb55-027a-4bee-b335-11edd782a8d2/",
-     "vistaEm": "2026-10-25T15:57:45.677Z"
-    },
-    {
      "id": "177157e7-16e6-47f0-baef-eec30d723e67",
      "titulo": "Senior Operations Specialist, Riders",
      "equipa": "Local Operations",
      "local": "Warsaw, Poland",
      "pais": "Poland",
      "url": "https://bolt.eu/en/careers/positions/177157e7-16e6-47f0-baef-eec30d723e67/",
+     "vistaEm": "2026-10-25T15:57:45.677Z"
+    },
+    {
+     "id": "30feeb55-027a-4bee-b335-11edd782a8d2",
+     "titulo": "Senior Operations Specialist, Riders",
+     "equipa": "All Cost Centers",
+     "local": "Paris, France",
+     "pais": "France",
+     "url": "https://bolt.eu/en/careers/positions/30feeb55-027a-4bee-b335-11edd782a8d2/",
      "vistaEm": "2026-10-25T15:57:45.677Z"
     },
     {
@@ -1474,21 +1465,21 @@
      "vistaEm": "2026-10-25T15:57:45.677Z"
     },
     {
-     "id": "ca9ffc6f-97c1-4cb1-8921-755dce82293c",
-     "titulo": "Senior Product Manager, Supply Incentives",
-     "equipa": "Product & Design",
-     "local": "Berlin, Germany",
-     "pais": "Germany",
-     "url": "https://bolt.eu/en/careers/positions/ca9ffc6f-97c1-4cb1-8921-755dce82293c/",
-     "vistaEm": "2026-10-25T15:57:45.677Z"
-    },
-    {
      "id": "6bd51c33-ec31-44ab-8bab-67410a557d93",
      "titulo": "Senior Product Manager, Supply Incentives",
      "equipa": "Product & Design",
      "local": "Tallinn, Estonia",
      "pais": "Estonia",
      "url": "https://bolt.eu/en/careers/positions/6bd51c33-ec31-44ab-8bab-67410a557d93/",
+     "vistaEm": "2026-10-25T15:57:45.677Z"
+    },
+    {
+     "id": "ca9ffc6f-97c1-4cb1-8921-755dce82293c",
+     "titulo": "Senior Product Manager, Supply Incentives",
+     "equipa": "Product & Design",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "url": "https://bolt.eu/en/careers/positions/ca9ffc6f-97c1-4cb1-8921-755dce82293c/",
      "vistaEm": "2026-10-25T15:57:45.677Z"
     },
     {
@@ -1582,21 +1573,21 @@
      "vistaEm": "2026-10-25T15:57:45.677Z"
     },
     {
-     "id": "6b9af0d9-d5a7-4b97-a95b-e15a8f57253d",
-     "titulo": "Staff Product Designer, Incentives",
-     "equipa": "Product & Design",
-     "local": "Berlin, Germany",
-     "pais": "Germany",
-     "url": "https://bolt.eu/en/careers/positions/6b9af0d9-d5a7-4b97-a95b-e15a8f57253d/",
-     "vistaEm": "2026-10-25T15:57:45.677Z"
-    },
-    {
      "id": "4fe5b898-34be-41a3-b1b2-4bdb3d076319",
      "titulo": "Staff Product Designer, Incentives",
      "equipa": "Product & Design",
      "local": "Tallinn, Estonia",
      "pais": "Estonia",
      "url": "https://bolt.eu/en/careers/positions/4fe5b898-34be-41a3-b1b2-4bdb3d076319/",
+     "vistaEm": "2026-10-25T15:57:45.677Z"
+    },
+    {
+     "id": "6b9af0d9-d5a7-4b97-a95b-e15a8f57253d",
+     "titulo": "Staff Product Designer, Incentives",
+     "equipa": "Product & Design",
+     "local": "Berlin, Germany",
+     "pais": "Germany",
+     "url": "https://bolt.eu/en/careers/positions/6b9af0d9-d5a7-4b97-a95b-e15a8f57253d/",
      "vistaEm": "2026-10-25T15:57:45.677Z"
     },
     {
@@ -7026,16 +7017,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "6694523",
-     "titulo": "Retail Grocery Assistant",
-     "url": "https://job-boards.greenhouse.io/wolt/jobs/6694523",
-     "local": "Larnaca, Cyprus",
-     "pais": "Cyprus",
-     "remoto": false,
-     "publicada": "2025-03-27T04:35:21-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "6797490",
      "titulo": "Retail Grocery Assistant",
      "url": "https://job-boards.greenhouse.io/wolt/jobs/6797490",
@@ -7043,6 +7024,16 @@
      "pais": "Cyprus",
      "remoto": false,
      "publicada": "2025-04-11T11:38:52-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "6694523",
+     "titulo": "Retail Grocery Assistant",
+     "url": "https://job-boards.greenhouse.io/wolt/jobs/6694523",
+     "local": "Larnaca, Cyprus",
+     "pais": "Cyprus",
+     "remoto": false,
+     "publicada": "2025-03-27T04:35:21-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -7106,16 +7097,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8185760",
-     "titulo": "Sales Manager",
-     "url": "https://job-boards.greenhouse.io/wolt/jobs/8185760",
-     "local": "BERGEN, Norway; OSLO, Norway; Stavanger, Norway; Trondheim, Norway",
-     "pais": "Norway",
-     "remoto": false,
-     "publicada": "2026-09-11T09:51:06-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "8317767",
      "titulo": "Sales Manager",
      "url": "https://job-boards.greenhouse.io/wolt/jobs/8317767",
@@ -7123,6 +7104,16 @@
      "pais": "Poland",
      "remoto": false,
      "publicada": "2026-10-23T07:21:50-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "8185760",
+     "titulo": "Sales Manager",
+     "url": "https://job-boards.greenhouse.io/wolt/jobs/8185760",
+     "local": "BERGEN, Norway; OSLO, Norway; Stavanger, Norway; Trondheim, Norway",
+     "pais": "Norway",
+     "remoto": false,
+     "publicada": "2026-09-11T09:51:06-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -7206,16 +7197,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8255970",
-     "titulo": "Senior Account Manager",
-     "url": "https://job-boards.greenhouse.io/wolt/jobs/8255970",
-     "local": "Belgrade - Savski Venac, Serbia",
-     "pais": "Serbia",
-     "remoto": false,
-     "publicada": "2026-10-06T02:53:47-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "8245854",
      "titulo": "Senior Account Manager",
      "url": "https://job-boards.greenhouse.io/wolt/jobs/8245854",
@@ -7223,6 +7204,16 @@
      "pais": "Albania",
      "remoto": false,
      "publicada": "2026-10-01T15:02:34-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "8255970",
+     "titulo": "Senior Account Manager",
+     "url": "https://job-boards.greenhouse.io/wolt/jobs/8255970",
+     "local": "Belgrade - Savski Venac, Serbia",
+     "pais": "Serbia",
+     "remoto": false,
+     "publicada": "2026-10-06T02:53:47-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -7526,33 +7517,13 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8078781",
+     "id": "8213982",
      "titulo": "Store Manager (WM)",
-     "url": "https://job-boards.greenhouse.io/wolt/jobs/8078781",
-     "local": "Athens, Greece",
-     "pais": "Greece",
-     "remoto": false,
-     "publicada": "2026-07-22T03:35:21-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
-     "id": "8174309",
-     "titulo": "Store Manager (WM)",
-     "url": "https://job-boards.greenhouse.io/wolt/jobs/8174309",
-     "local": "Riga, Latvia",
-     "pais": "Latvia",
-     "remoto": false,
-     "publicada": "2026-09-03T05:22:32-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
-     "id": "8079082",
-     "titulo": "Store Manager (WM)",
-     "url": "https://job-boards.greenhouse.io/wolt/jobs/8079082",
-     "local": "Larnaca, Cyprus",
+     "url": "https://job-boards.greenhouse.io/wolt/jobs/8213982",
+     "local": "Nicosia, Cyprus",
      "pais": "Cyprus",
      "remoto": false,
-     "publicada": "2026-07-23T06:18:57-04:00",
+     "publicada": "2026-09-28T05:29:33-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -7566,13 +7537,33 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8213982",
+     "id": "8174309",
      "titulo": "Store Manager (WM)",
-     "url": "https://job-boards.greenhouse.io/wolt/jobs/8213982",
-     "local": "Nicosia, Cyprus",
+     "url": "https://job-boards.greenhouse.io/wolt/jobs/8174309",
+     "local": "Riga, Latvia",
+     "pais": "Latvia",
+     "remoto": false,
+     "publicada": "2026-09-03T05:22:32-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "8078781",
+     "titulo": "Store Manager (WM)",
+     "url": "https://job-boards.greenhouse.io/wolt/jobs/8078781",
+     "local": "Athens, Greece",
+     "pais": "Greece",
+     "remoto": false,
+     "publicada": "2026-07-22T03:35:21-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "8079082",
+     "titulo": "Store Manager (WM)",
+     "url": "https://job-boards.greenhouse.io/wolt/jobs/8079082",
+     "local": "Larnaca, Cyprus",
      "pais": "Cyprus",
      "remoto": false,
-     "publicada": "2026-09-28T05:29:33-04:00",
+     "publicada": "2026-07-23T06:18:57-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -7584,16 +7575,6 @@
      "remoto": false,
      "publicada": "2026-08-14T10:53:47-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
-     "id": "7483616",
-     "titulo": "Strategy & Operations Manager",
-     "url": "https://job-boards.greenhouse.io/wolt/jobs/7483616",
-     "local": "Ramat Gan, Israel",
-     "pais": "Israel",
-     "remoto": false,
-     "publicada": "2026-10-29T09:32:28-04:00",
-     "vistaEm": "2026-10-29T13:48:21.022Z"
     },
     {
      "id": "8334374",
@@ -7636,16 +7617,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "7538295",
-     "titulo": "Support Associate",
-     "url": "https://job-boards.greenhouse.io/wolt/jobs/7538295",
-     "local": "OSLO, Norway",
-     "pais": "Norway",
-     "remoto": false,
-     "publicada": "2026-01-14T10:09:39-05:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "6693568",
      "titulo": "Support Associate",
      "url": "https://job-boards.greenhouse.io/wolt/jobs/6693568",
@@ -7653,6 +7624,16 @@
      "pais": "Bulgaria",
      "remoto": false,
      "publicada": "2025-10-07T02:36:00-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "7538295",
+     "titulo": "Support Associate",
+     "url": "https://job-boards.greenhouse.io/wolt/jobs/7538295",
+     "local": "OSLO, Norway",
+     "pais": "Norway",
+     "remoto": false,
+     "publicada": "2026-01-14T10:09:39-05:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -7746,13 +7727,13 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "7547095",
+     "id": "8303885",
      "titulo": "Support Team Lead",
-     "url": "https://job-boards.greenhouse.io/wolt/jobs/7547095",
-     "local": "Almaty, Kazakhstan",
-     "pais": "Kazakhstan",
+     "url": "https://job-boards.greenhouse.io/wolt/jobs/8303885",
+     "local": "Timisoara, Romania",
+     "pais": "Romania",
      "remoto": false,
-     "publicada": "2026-04-30T03:21:33-04:00",
+     "publicada": "2026-10-21T04:47:59-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -7766,13 +7747,13 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8303885",
+     "id": "7547095",
      "titulo": "Support Team Lead",
-     "url": "https://job-boards.greenhouse.io/wolt/jobs/8303885",
-     "local": "Timisoara, Romania",
-     "pais": "Romania",
+     "url": "https://job-boards.greenhouse.io/wolt/jobs/7547095",
+     "local": "Almaty, Kazakhstan",
+     "pais": "Kazakhstan",
      "remoto": false,
-     "publicada": "2026-10-21T04:47:59-04:00",
+     "publicada": "2026-04-30T03:21:33-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -8242,16 +8223,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8261620",
-     "titulo": "Business Development Manager Rome",
-     "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8261620",
-     "local": "Rome, Italy",
-     "pais": "Italy",
-     "remoto": false,
-     "publicada": "2026-10-07T13:31:24-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "8264159",
      "titulo": "Business Development Manager Rome",
      "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8264159",
@@ -8259,6 +8230,16 @@
      "pais": "Italy",
      "remoto": false,
      "publicada": "2026-10-08T06:45:58-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "8261620",
+     "titulo": "Business Development Manager Rome",
+     "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8261620",
+     "local": "Rome, Italy",
+     "pais": "Italy",
+     "remoto": false,
+     "publicada": "2026-10-07T13:31:24-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -8412,16 +8393,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8284751",
-     "titulo": "Creative Project Manager",
-     "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8284751",
-     "local": "London, United Kingdom - Deliveroo",
-     "pais": "United Kingdom - Deliveroo",
-     "remoto": false,
-     "publicada": "2026-10-15T06:05:44-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "8202485",
      "titulo": "Data Science Manager",
      "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8202485",
@@ -8492,16 +8463,6 @@
      "vistaEm": "2026-10-29T13:48:21.022Z"
     },
     {
-     "id": "8323967",
-     "titulo": "Engineering Manager – Server-Driven UI (Codeless)",
-     "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8323967",
-     "local": "London, United Kingdom",
-     "pais": "United Kingdom",
-     "remoto": false,
-     "publicada": "2026-10-26T02:15:05-04:00",
-     "vistaEm": "2026-10-26T13:41:13.204Z"
-    },
-    {
      "id": "8205977",
      "titulo": "Engineering Manager – Server-Driven UI (Codeless)",
      "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8205977",
@@ -8510,6 +8471,16 @@
      "remoto": false,
      "publicada": "2026-10-16T10:24:22-04:00",
      "vistaEm": "2026-10-28T13:38:42.417Z"
+    },
+    {
+     "id": "8323967",
+     "titulo": "Engineering Manager – Server-Driven UI (Codeless)",
+     "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8323967",
+     "local": "London, United Kingdom",
+     "pais": "United Kingdom",
+     "remoto": false,
+     "publicada": "2026-10-26T02:15:05-04:00",
+     "vistaEm": "2026-10-26T13:41:13.204Z"
     },
     {
      "id": "8334695",
@@ -9232,16 +9203,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8261830",
-     "titulo": "Senior Creative Project Manager -Fixed Term Contract ",
-     "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8261830",
-     "local": "London, United Kingdom - Deliveroo",
-     "pais": "United Kingdom - Deliveroo",
-     "remoto": false,
-     "publicada": "2026-10-13T06:06:49-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "8202372",
      "titulo": "Senior Data Scientist",
      "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8202372",
@@ -9352,16 +9313,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8205864",
-     "titulo": "Senior National Account Manager",
-     "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8205864",
-     "local": "London, England",
-     "pais": "England",
-     "remoto": false,
-     "publicada": "2026-09-18T09:49:19-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "8202380",
      "titulo": "Senior National Account Manager",
      "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8202380",
@@ -9369,6 +9320,16 @@
      "pais": "England",
      "remoto": false,
      "publicada": "2026-09-18T09:57:00-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "8205864",
+     "titulo": "Senior National Account Manager",
+     "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8205864",
+     "local": "London, England",
+     "pais": "England",
+     "remoto": false,
+     "publicada": "2026-09-18T09:49:19-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -9452,16 +9413,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8206343",
-     "titulo": "Senior Software Engineer",
-     "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8206343",
-     "local": "London, United Kingdom - Deliveroo",
-     "pais": "United Kingdom - Deliveroo",
-     "remoto": false,
-     "publicada": "2026-09-26T09:43:10-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "8311914",
      "titulo": "Senior Software Engineer",
      "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8311914",
@@ -9469,6 +9420,16 @@
      "pais": "India",
      "remoto": false,
      "publicada": "2026-10-22T01:55:34-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "8206343",
+     "titulo": "Senior Software Engineer",
+     "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8206343",
+     "local": "London, United Kingdom - Deliveroo",
+     "pais": "United Kingdom - Deliveroo",
+     "remoto": false,
+     "publicada": "2026-09-26T09:43:10-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -13372,16 +13333,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8232726",
-     "titulo": "Associate Data Scientist - Intern",
-     "url": "https://job-boards.greenhouse.io/monzo/jobs/8232726",
-     "local": "London",
-     "pais": "London",
-     "remoto": false,
-     "publicada": "2026-09-28T05:03:57-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "8156261",
      "titulo": "Associate Software Engineer - Intern",
      "url": "https://job-boards.greenhouse.io/monzo/jobs/8156261",
@@ -14760,6 +14711,17 @@
      "remoto": true,
      "publicada": "2026-10-20T11:00:20.164+00:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "a1ba63e9-e5f7-46f5-950f-df129b012418",
+     "titulo": "Engineering Manager - Accounting",
+     "url": "https://jobs.ashbyhq.com/qonto/a1ba63e9-e5f7-46f5-950f-df129b012418",
+     "equipa": "Tech & Data",
+     "local": "Paris, France",
+     "pais": "France",
+     "remoto": true,
+     "publicada": "2026-11-01T07:24:18.726+00:00",
+     "vistaEm": "2026-11-01T13:53:47.618Z"
     },
     {
      "id": "2eaa9569-c923-4456-90f0-cd6bb2b73f55",
@@ -16858,16 +16820,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "5895430",
-     "titulo": "Data Scientist",
-     "url": "https://stripe.com/jobs/search?gh_jid=5895430",
-     "local": "Toronto",
-     "pais": "Toronto",
-     "remoto": false,
-     "publicada": "2024-04-30T19:05:29-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "5601879",
      "titulo": "Data Scientist",
      "url": "https://stripe.com/jobs/search?gh_jid=5601879",
@@ -16885,6 +16837,16 @@
      "pais": "WA",
      "remoto": false,
      "publicada": "2026-09-21T20:23:42-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "5895430",
+     "titulo": "Data Scientist",
+     "url": "https://stripe.com/jobs/search?gh_jid=5895430",
+     "local": "Toronto",
+     "pais": "Toronto",
+     "remoto": false,
+     "publicada": "2024-04-30T19:05:29-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -17025,16 +16987,6 @@
      "pais": "US-Remote",
      "remoto": true,
      "publicada": "2026-09-21T10:33:28-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
-     "id": "8102337",
-     "titulo": "Engagement Manager, Professional Services (SEA/GCN)",
-     "url": "https://stripe.com/jobs/search?gh_jid=8102337",
-     "local": "Singapore",
-     "pais": "Singapore",
-     "remoto": false,
-     "publicada": "2026-08-08T13:18:46-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -17588,16 +17540,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "7608396",
-     "titulo": "Fraud Operations Manager",
-     "url": "https://stripe.com/jobs/search?gh_jid=7608396",
-     "local": "Bengaluru",
-     "pais": "Bengaluru",
-     "remoto": false,
-     "publicada": "2026-02-13T05:34:28-05:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "8175832",
      "titulo": "Fraud Operations Manager",
      "url": "https://stripe.com/jobs/search?gh_jid=8175832",
@@ -17605,6 +17547,16 @@
      "pais": "US-Remote",
      "remoto": true,
      "publicada": "2026-09-08T08:34:54-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "7608396",
+     "titulo": "Fraud Operations Manager",
+     "url": "https://stripe.com/jobs/search?gh_jid=7608396",
+     "local": "Bengaluru",
+     "pais": "Bengaluru",
+     "remoto": false,
+     "publicada": "2026-02-13T05:34:28-05:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -17628,16 +17580,6 @@
      "vistaEm": "2026-10-28T13:38:42.417Z"
     },
     {
-     "id": "8195058",
-     "titulo": "Fraud Strategist",
-     "url": "https://stripe.com/jobs/search?gh_jid=8195058",
-     "local": "Singapore",
-     "pais": "Singapore",
-     "remoto": false,
-     "publicada": "2026-09-15T22:45:16-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "8112448",
      "titulo": "Fraud Strategist",
      "url": "https://stripe.com/jobs/search?gh_jid=8112448",
@@ -17645,6 +17587,16 @@
      "pais": "LOCATION",
      "remoto": false,
      "publicada": "2026-08-21T18:30:07-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "8195058",
+     "titulo": "Fraud Strategist",
+     "url": "https://stripe.com/jobs/search?gh_jid=8195058",
+     "local": "Singapore",
+     "pais": "Singapore",
+     "remoto": false,
+     "publicada": "2026-09-15T22:45:16-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -17718,16 +17670,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8214618",
-     "titulo": "Full Stack Engineer, Enterprise Engineering",
-     "url": "https://stripe.com/jobs/search?gh_jid=8214618",
-     "local": "N/A",
-     "pais": "N/A",
-     "remoto": false,
-     "publicada": "2026-09-28T22:57:48-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "8214616",
      "titulo": "Full Stack Engineer, Enterprise Engineering",
      "url": "https://stripe.com/jobs/search?gh_jid=8214616",
@@ -17735,6 +17677,16 @@
      "pais": "N/A",
      "remoto": false,
      "publicada": "2026-09-28T22:54:32-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "8214618",
+     "titulo": "Full Stack Engineer, Enterprise Engineering",
+     "url": "https://stripe.com/jobs/search?gh_jid=8214618",
+     "local": "N/A",
+     "pais": "N/A",
+     "remoto": false,
+     "publicada": "2026-09-28T22:57:48-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -18208,16 +18160,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8203975",
-     "titulo": "Integration Engineer",
-     "url": "https://stripe.com/jobs/search?gh_jid=8203975",
-     "local": "Toronto, Canada",
-     "pais": "Canada",
-     "remoto": false,
-     "publicada": "2026-10-07T14:37:57-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "8267102",
      "titulo": "Integration Engineer",
      "url": "https://stripe.com/jobs/search?gh_jid=8267102",
@@ -18225,6 +18167,16 @@
      "pais": "Dublin",
      "remoto": false,
      "publicada": "2026-10-20T10:18:32-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "8203975",
+     "titulo": "Integration Engineer",
+     "url": "https://stripe.com/jobs/search?gh_jid=8203975",
+     "local": "Toronto, Canada",
+     "pais": "Canada",
+     "remoto": false,
+     "publicada": "2026-10-07T14:37:57-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -18268,16 +18220,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8203973",
-     "titulo": "Integration Engineer, Professional Services",
-     "url": "https://stripe.com/jobs/search?gh_jid=8203973",
-     "local": "United States",
-     "pais": "United States",
-     "remoto": false,
-     "publicada": "2026-09-23T09:41:59-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "8075570",
      "titulo": "Integration Engineer, Professional Services",
      "url": "https://stripe.com/jobs/search?gh_jid=8075570",
@@ -18285,6 +18227,16 @@
      "pais": "or New York",
      "remoto": false,
      "publicada": "2026-07-29T16:55:28-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "8203973",
+     "titulo": "Integration Engineer, Professional Services",
+     "url": "https://stripe.com/jobs/search?gh_jid=8203973",
+     "local": "United States",
+     "pais": "United States",
+     "remoto": false,
+     "publicada": "2026-09-23T09:41:59-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -18448,16 +18400,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8243617",
-     "titulo": "Machine Learning Engineer, Radar",
-     "url": "https://stripe.com/jobs/search?gh_jid=8243617",
-     "local": "Seattle",
-     "pais": "Seattle",
-     "remoto": false,
-     "publicada": "2026-10-07T17:44:52-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "7983456",
      "titulo": "Machine Learning Engineer, Radar",
      "url": "https://stripe.com/jobs/search?gh_jid=7983456",
@@ -18465,6 +18407,16 @@
      "pais": "South San Francisco",
      "remoto": false,
      "publicada": "2026-06-23T16:59:46-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "8243617",
+     "titulo": "Machine Learning Engineer, Radar",
+     "url": "https://stripe.com/jobs/search?gh_jid=8243617",
+     "local": "Seattle",
+     "pais": "Seattle",
+     "remoto": false,
+     "publicada": "2026-10-07T17:44:52-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -18578,16 +18530,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "7896538",
-     "titulo": "Manager, Sales Development",
-     "url": "https://stripe.com/jobs/search?gh_jid=7896538",
-     "local": "Chicago, Illinois",
-     "pais": "Illinois",
-     "remoto": false,
-     "publicada": "2026-05-11T11:19:11-04:00",
-     "vistaEm": "2026-10-28T13:38:42.417Z"
-    },
-    {
      "id": "7337544",
      "titulo": "Manager, Sales Development",
      "url": "https://stripe.com/jobs/search?gh_jid=7337544",
@@ -18595,6 +18537,16 @@
      "pais": "Dublin",
      "remoto": false,
      "publicada": "2025-10-28T04:53:42-04:00",
+     "vistaEm": "2026-10-28T13:38:42.417Z"
+    },
+    {
+     "id": "7896538",
+     "titulo": "Manager, Sales Development",
+     "url": "https://stripe.com/jobs/search?gh_jid=7896538",
+     "local": "Chicago, Illinois",
+     "pais": "Illinois",
+     "remoto": false,
+     "publicada": "2026-05-11T11:19:11-04:00",
      "vistaEm": "2026-10-28T13:38:42.417Z"
     },
     {
@@ -18638,16 +18590,6 @@
      "vistaEm": "2026-10-28T13:38:42.417Z"
     },
     {
-     "id": "8152136",
-     "titulo": "Manager, Technical Account Management",
-     "url": "https://stripe.com/jobs/search?gh_jid=8152136",
-     "local": "San Francisco or Seattle",
-     "pais": "San Francisco or Seattle",
-     "remoto": false,
-     "publicada": "2026-09-04T15:01:59-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "8154304",
      "titulo": "Manager, Technical Account Management",
      "url": "https://stripe.com/jobs/search?gh_jid=8154304",
@@ -18655,6 +18597,16 @@
      "pais": "Toronto",
      "remoto": false,
      "publicada": "2026-09-04T10:21:01-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "8152136",
+     "titulo": "Manager, Technical Account Management",
+     "url": "https://stripe.com/jobs/search?gh_jid=8152136",
+     "local": "San Francisco or Seattle",
+     "pais": "San Francisco or Seattle",
+     "remoto": false,
+     "publicada": "2026-09-04T15:01:59-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -18948,16 +18900,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8104427",
-     "titulo": "Partner Development Manager",
-     "url": "https://stripe.com/jobs/search?gh_jid=8104427",
-     "local": "London",
-     "pais": "London",
-     "remoto": false,
-     "publicada": "2026-08-10T11:04:38-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "8234703",
      "titulo": "Partner Development Manager",
      "url": "https://stripe.com/jobs/search?gh_jid=8234703",
@@ -18965,6 +18907,16 @@
      "pais": "Singapore",
      "remoto": false,
      "publicada": "2026-10-07T08:14:40-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "8104427",
+     "titulo": "Partner Development Manager",
+     "url": "https://stripe.com/jobs/search?gh_jid=8104427",
+     "local": "London",
+     "pais": "London",
+     "remoto": false,
+     "publicada": "2026-08-10T11:04:38-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -19128,16 +19080,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8261213",
-     "titulo": "Payments Fraud Investigator",
-     "url": "https://stripe.com/jobs/search?gh_jid=8261213",
-     "local": "Remote - US",
-     "pais": "Remote - US",
-     "remoto": true,
-     "publicada": "2026-10-07T09:51:23-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "7554002",
      "titulo": "Payments Fraud Investigator",
      "url": "https://stripe.com/jobs/search?gh_jid=7554002",
@@ -19145,6 +19087,16 @@
      "pais": "Ireland",
      "remoto": false,
      "publicada": "2026-01-26T01:25:51-05:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "8261213",
+     "titulo": "Payments Fraud Investigator",
+     "url": "https://stripe.com/jobs/search?gh_jid=8261213",
+     "local": "Remote - US",
+     "pais": "Remote - US",
+     "remoto": true,
+     "publicada": "2026-10-07T09:51:23-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -19158,16 +19110,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8262027",
-     "titulo": "People Consultant",
-     "url": "https://stripe.com/jobs/search?gh_jid=8262027",
-     "local": "Toronto",
-     "pais": "Toronto",
-     "remoto": false,
-     "publicada": "2026-10-13T15:14:34-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "7866374",
      "titulo": "People Consultant",
      "url": "https://stripe.com/jobs/search?gh_jid=7866374",
@@ -19175,6 +19117,16 @@
      "pais": "Chicago",
      "remoto": false,
      "publicada": "2026-05-04T10:43:21-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "8262027",
+     "titulo": "People Consultant",
+     "url": "https://stripe.com/jobs/search?gh_jid=8262027",
+     "local": "Toronto",
+     "pais": "Toronto",
+     "remoto": false,
+     "publicada": "2026-10-13T15:14:34-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -19218,16 +19170,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8194285",
-     "titulo": "PhD Data Scientist, Intern",
-     "url": "https://stripe.com/jobs/search?gh_jid=8194285",
-     "local": "Toronto",
-     "pais": "Toronto",
-     "remoto": false,
-     "publicada": "2026-10-01T11:05:33-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "8194283",
      "titulo": "PhD Data Scientist, Intern",
      "url": "https://stripe.com/jobs/search?gh_jid=8194283",
@@ -19238,14 +19180,14 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8328662",
-     "titulo": "PhD Machine Learning Engineer, Intern",
-     "url": "https://stripe.com/jobs/search?gh_jid=8328662",
-     "local": "San Francisco, New York City, Seattle",
-     "pais": "Seattle",
+     "id": "8194285",
+     "titulo": "PhD Data Scientist, Intern",
+     "url": "https://stripe.com/jobs/search?gh_jid=8194285",
+     "local": "Toronto",
+     "pais": "Toronto",
      "remoto": false,
-     "publicada": "2026-10-30T12:19:28-04:00",
-     "vistaEm": "2026-10-31T13:10:20.421Z"
+     "publicada": "2026-10-01T11:05:33-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
      "id": "8328664",
@@ -19255,6 +19197,16 @@
      "pais": "Toronto",
      "remoto": false,
      "publicada": "2026-10-30T12:19:24-04:00",
+     "vistaEm": "2026-10-31T13:10:20.421Z"
+    },
+    {
+     "id": "8328662",
+     "titulo": "PhD Machine Learning Engineer, Intern",
+     "url": "https://stripe.com/jobs/search?gh_jid=8328662",
+     "local": "San Francisco, New York City, Seattle",
+     "pais": "Seattle",
+     "remoto": false,
+     "publicada": "2026-10-30T12:19:28-04:00",
      "vistaEm": "2026-10-31T13:10:20.421Z"
     },
     {
@@ -20168,14 +20120,14 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8326191",
+     "id": "8156998",
      "titulo": "Sales Manager, Billing",
-     "url": "https://stripe.com/jobs/search?gh_jid=8326191",
-     "local": "San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US",
-     "pais": "Remote in the US",
-     "remoto": true,
-     "publicada": "2026-10-29T15:28:22-04:00",
-     "vistaEm": "2026-10-30T13:42:03.017Z"
+     "url": "https://stripe.com/jobs/search?gh_jid=8156998",
+     "local": "New York, San Francisco, Chicago, Seattle",
+     "pais": "Seattle",
+     "remoto": false,
+     "publicada": "2026-08-27T11:17:45-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
      "id": "8326189",
@@ -20188,14 +20140,14 @@
      "vistaEm": "2026-10-30T13:42:03.017Z"
     },
     {
-     "id": "8156998",
+     "id": "8326191",
      "titulo": "Sales Manager, Billing",
-     "url": "https://stripe.com/jobs/search?gh_jid=8156998",
-     "local": "New York, San Francisco, Chicago, Seattle",
-     "pais": "Seattle",
-     "remoto": false,
-     "publicada": "2026-08-27T11:17:45-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
+     "url": "https://stripe.com/jobs/search?gh_jid=8326191",
+     "local": "San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US",
+     "pais": "Remote in the US",
+     "remoto": true,
+     "publicada": "2026-10-29T15:28:22-04:00",
+     "vistaEm": "2026-10-30T13:42:03.017Z"
     },
     {
      "id": "8203201",
@@ -20688,16 +20640,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8264005",
-     "titulo": "Senior Staff Product Manager, Risk",
-     "url": "https://stripe.com/jobs/search?gh_jid=8264005",
-     "local": "Dublin",
-     "pais": "Dublin",
-     "remoto": false,
-     "publicada": "2026-10-12T07:43:09-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "8273741",
      "titulo": "Senior Staff Product Manager, Risk",
      "url": "https://stripe.com/jobs/search?gh_jid=8273741",
@@ -20705,6 +20647,16 @@
      "pais": "London",
      "remoto": false,
      "publicada": "2026-10-12T07:48:19-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "8264005",
+     "titulo": "Senior Staff Product Manager, Risk",
+     "url": "https://stripe.com/jobs/search?gh_jid=8264005",
+     "local": "Dublin",
+     "pais": "Dublin",
+     "remoto": false,
+     "publicada": "2026-10-12T07:43:09-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -20738,6 +20690,16 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
+     "id": "8314283",
+     "titulo": "Software Engineer",
+     "url": "https://stripe.com/jobs/search?gh_jid=8314283",
+     "local": "South San Francisco, CA",
+     "pais": "CA",
+     "remoto": false,
+     "publicada": "2026-10-22T13:01:03-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
      "id": "8249901",
      "titulo": "Software Engineer",
      "url": "https://stripe.com/jobs/search?gh_jid=8249901",
@@ -20745,16 +20707,6 @@
      "pais": "WA",
      "remoto": false,
      "publicada": "2026-10-02T14:52:10-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
-     "id": "8267736",
-     "titulo": "Software Engineer",
-     "url": "https://stripe.com/jobs/search?gh_jid=8267736",
-     "local": "Seattle, WA",
-     "pais": "WA",
-     "remoto": false,
-     "publicada": "2026-10-09T12:47:42-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -20768,13 +20720,13 @@
      "vistaEm": "2026-10-26T13:41:13.204Z"
     },
     {
-     "id": "8314283",
+     "id": "8267736",
      "titulo": "Software Engineer",
-     "url": "https://stripe.com/jobs/search?gh_jid=8314283",
-     "local": "South San Francisco, CA",
-     "pais": "CA",
+     "url": "https://stripe.com/jobs/search?gh_jid=8267736",
+     "local": "Seattle, WA",
+     "pais": "WA",
      "remoto": false,
-     "publicada": "2026-10-22T13:01:03-04:00",
+     "publicada": "2026-10-09T12:47:42-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -20888,16 +20840,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8130883",
-     "titulo": "Software Engineer, Intern",
-     "url": "https://stripe.com/jobs/search?gh_jid=8130883",
-     "local": "Singapore",
-     "pais": "Singapore",
-     "remoto": false,
-     "publicada": "2026-09-07T01:44:20-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "8130867",
      "titulo": "Software Engineer, Intern",
      "url": "https://stripe.com/jobs/search?gh_jid=8130867",
@@ -20915,6 +20857,16 @@
      "pais": "Bengaluru",
      "remoto": false,
      "publicada": "2026-07-10T01:33:52-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "8130883",
+     "titulo": "Software Engineer, Intern",
+     "url": "https://stripe.com/jobs/search?gh_jid=8130883",
+     "local": "Singapore",
+     "pais": "Singapore",
+     "remoto": false,
+     "publicada": "2026-09-07T01:44:20-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -20938,16 +20890,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8097801",
-     "titulo": "Software Engineer, Intern (Summer or Winter)",
-     "url": "https://stripe.com/jobs/search?gh_jid=8097801",
-     "local": "Dublin",
-     "pais": "Dublin",
-     "remoto": false,
-     "publicada": "2026-08-17T09:46:14-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "8128745",
      "titulo": "Software Engineer, Intern (Summer or Winter)",
      "url": "https://stripe.com/jobs/search?gh_jid=8128745",
@@ -20955,6 +20897,16 @@
      "pais": "New York City",
      "remoto": false,
      "publicada": "2026-08-31T18:20:45-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "8097801",
+     "titulo": "Software Engineer, Intern (Summer or Winter)",
+     "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+     "local": "Dublin",
+     "pais": "Dublin",
+     "remoto": false,
+     "publicada": "2026-08-17T09:46:14-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -20988,6 +20940,26 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
+     "id": "8130881",
+     "titulo": "Software Engineer, New Grad",
+     "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+     "local": "Dublin",
+     "pais": "Dublin",
+     "remoto": false,
+     "publicada": "2026-08-31T19:07:03-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "8157838",
+     "titulo": "Software Engineer, New Grad",
+     "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+     "local": "Toronto",
+     "pais": "Toronto",
+     "remoto": false,
+     "publicada": "2026-08-31T19:16:04-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
      "id": "8130922",
      "titulo": "Software Engineer, New Grad",
      "url": "https://stripe.com/jobs/search?gh_jid=8130922",
@@ -21018,16 +20990,6 @@
      "vistaEm": "2026-10-28T13:38:42.417Z"
     },
     {
-     "id": "8130881",
-     "titulo": "Software Engineer, New Grad",
-     "url": "https://stripe.com/jobs/search?gh_jid=8130881",
-     "local": "Dublin",
-     "pais": "Dublin",
-     "remoto": false,
-     "publicada": "2026-08-31T19:07:03-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "8160776",
      "titulo": "Software Engineer, New Grad",
      "url": "https://stripe.com/jobs/search?gh_jid=8160776",
@@ -21038,26 +21000,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8202299",
-     "titulo": "Software Engineer, New Grad",
-     "url": "https://stripe.com/jobs/search?gh_jid=8202299",
-     "local": "Taiwan",
-     "pais": "Taiwan",
-     "remoto": false,
-     "publicada": "2026-10-22T23:22:57-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
-     "id": "8157838",
-     "titulo": "Software Engineer, New Grad",
-     "url": "https://stripe.com/jobs/search?gh_jid=8157838",
-     "local": "Toronto",
-     "pais": "Toronto",
-     "remoto": false,
-     "publicada": "2026-08-31T19:16:04-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "8130930",
      "titulo": "Software Engineer, New Grad",
      "url": "https://stripe.com/jobs/search?gh_jid=8130930",
@@ -21065,6 +21007,16 @@
      "pais": "London",
      "remoto": false,
      "publicada": "2026-08-31T18:32:53-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "8202299",
+     "titulo": "Software Engineer, New Grad",
+     "url": "https://stripe.com/jobs/search?gh_jid=8202299",
+     "local": "Taiwan",
+     "pais": "Taiwan",
+     "remoto": false,
+     "publicada": "2026-10-22T23:22:57-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -21748,16 +21700,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8174963",
-     "titulo": "Staff Security Engineer, Abuse Control",
-     "url": "https://stripe.com/jobs/search?gh_jid=8174963",
-     "local": "Dublin",
-     "pais": "Dublin",
-     "remoto": false,
-     "publicada": "2026-09-17T11:40:18-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "8211180",
      "titulo": "Staff Security Engineer, Abuse Control",
      "url": "https://stripe.com/jobs/search?gh_jid=8211180",
@@ -21765,6 +21707,16 @@
      "pais": "London",
      "remoto": false,
      "publicada": "2026-09-17T11:41:16-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "8174963",
+     "titulo": "Staff Security Engineer, Abuse Control",
+     "url": "https://stripe.com/jobs/search?gh_jid=8174963",
+     "local": "Dublin",
+     "pais": "Dublin",
+     "remoto": false,
+     "publicada": "2026-09-17T11:40:18-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -22028,16 +21980,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "7813411",
-     "titulo": "Strategy and Analytics Business Partner",
-     "url": "https://stripe.com/jobs/search?gh_jid=7813411",
-     "local": "Bengaluru",
-     "pais": "Bengaluru",
-     "remoto": false,
-     "publicada": "2026-04-30T09:21:49-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "8245230",
      "titulo": "Strategy and Analytics Business Partner",
      "url": "https://stripe.com/jobs/search?gh_jid=8245230",
@@ -22045,6 +21987,16 @@
      "pais": "Bangalore",
      "remoto": false,
      "publicada": "2026-10-13T06:57:47-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "7813411",
+     "titulo": "Strategy and Analytics Business Partner",
+     "url": "https://stripe.com/jobs/search?gh_jid=7813411",
+     "local": "Bengaluru",
+     "pais": "Bengaluru",
+     "remoto": false,
+     "publicada": "2026-04-30T09:21:49-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
@@ -22128,16 +22080,6 @@
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
-     "id": "8160699",
-     "titulo": "Technical Account Manager",
-     "url": "https://stripe.com/jobs/search?gh_jid=8160699",
-     "local": "San Francisco",
-     "pais": "San Francisco",
-     "remoto": false,
-     "publicada": "2026-09-23T11:59:16-04:00",
-     "vistaEm": "2026-10-25T17:48:58.803Z"
-    },
-    {
      "id": "8023524",
      "titulo": "Technical Account Manager",
      "url": "https://stripe.com/jobs/search?gh_jid=8023524",
@@ -22145,6 +22087,16 @@
      "pais": "Mexico City",
      "remoto": false,
      "publicada": "2026-06-23T19:38:52-04:00",
+     "vistaEm": "2026-10-25T17:48:58.803Z"
+    },
+    {
+     "id": "8160699",
+     "titulo": "Technical Account Manager",
+     "url": "https://stripe.com/jobs/search?gh_jid=8160699",
+     "local": "San Francisco",
+     "pais": "San Francisco",
+     "remoto": false,
+     "publicada": "2026-09-23T11:59:16-04:00",
      "vistaEm": "2026-10-25T17:48:58.803Z"
     },
     {
